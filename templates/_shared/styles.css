@@ -1,1 +1,31 @@
+/* ===== CID Universal PDF Styles ===== */
+
+@page {
+  size: Letter;
+  margin: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
+.page {
+  width: 8.5in;
+  height: 11in;
+  position: relative;
+  overflow: hidden;
+}
+
+.page-break {
+  page-break-after: always;
+}
+
+/* Prevent SVG scaling issues */
+svg {
+  width: 8.5in;
+  height: 11in;
+  display: block;
+}
 
