@@ -3,7 +3,11 @@
 <head>
   <meta charset="utf-8" />
   <title><%= templateName || "CID Document" %></title>
-  <link rel="stylesheet" href="../_shared/styles.css" />
+
+  <!-- Inline CSS injected by svg-engine -->
+  <style>
+    <%- styles || "" %>
+  </style>
 </head>
 <body>
 
@@ -19,62 +23,3 @@
 
 </body>
 </html>
-<%
-import fs from "fs";
-import pa<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <title><%= templateName || "CID Document" %></title>
-  <link rel="stylesheet" href="../_shared/styles.css" />
-</head>
-<body>
-
-<% (pages || []).forEach((svg, idx) => { %>
-  <div class="page">
-    <%- svg %>
-  </div>
-
-  <% if (idx < pages.length - 1) { %>
-    <div class="page-break"></div>
-  <% } %>
-<% }); %>
-
-</body>
-</html>
-th from "path";
-
-const assetsDir = path.join(__dirname, "assets");
-
-// Load + sort SVG pages automatically
-const pages = fs.readdirSync(assetsDir)
-  .filter(f => /^page-\d+\.svg$/.test(f))
-  .sort((a,b) => {
-    const na = Number(a.match(/\d+/)[0]);
-    const nb = Number(b.match(/\d+/)[0]);
-    return na - nb;
-  });
-%>
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <title><%= templateName || "CID Document" %></title>
-  <link rel="stylesheet" href="../_shared/styles.css" />
-</head>
-<body>
-
-<% pages.forEach((file, idx) => { %>
-  <div class="page">
-    <%- fs.readFileSync(path.join(assetsDir, file), "utf8") %>
-  </div>
-
-  <% if (idx < pages.length - 1) { %>
-    <div class="page-break"></div>
-  <% } %>
-<% }); %>
-
-</body>
-</html>
-
