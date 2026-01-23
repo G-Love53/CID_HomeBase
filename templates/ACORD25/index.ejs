@@ -3,7 +3,11 @@
 <head>
   <meta charset="utf-8" />
   <title><%= templateName || "CID Document" %></title>
-  <link rel="stylesheet" href="../_shared/styles.css" />
+
+  <!-- Inline CSS injected by svg-engine -->
+  <style>
+    <%- styles || "" %>
+  </style>
 </head>
 <body>
 
@@ -19,4 +23,3 @@
 
 </body>
 </html>
-
