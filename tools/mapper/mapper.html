@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>CID Mapper</title>
+  <title>CID Mapper (612x792)</title>
   <style>
     body { font-family: Arial, Helvetica, sans-serif; margin: 16px; display:flex; gap:16px; }
     .left { width: 380px; }
@@ -15,8 +15,8 @@
     .btnrow { display:flex; gap:10px; margin-top:10px; }
     .btnrow button { flex:1; cursor:pointer; }
 
-    /* IMPORTANT: Fixed coordinate space for Puppeteer: Letter @ 96 CSS px/in */
-    :root { --pageW: 816px; --pageH: 1056px; }
+    /* IMPORTANT: Fixed coordinate space (CID truth): 612 × 792 */
+      :root { --pageW: 612px; --pageH: 792px; }
 
     #page {
       position: relative;
@@ -63,7 +63,7 @@
 </head>
 <body>
   <div class="left">
-    <h3 style="margin:0 0 8px;">CID Click Mapper (816×1056)</h3>
+    <h3 style="margin:0 0 8px;">CID Click Mapper (612×792)</h3>
 
     <label>Background SVG</label>
     <input id="file" type="file" accept=".svg,image/svg+xml" />
@@ -132,8 +132,8 @@
     <textarea id="output" spellcheck="false"></textarea>
 
     <div class="hint">
-      Coordinates are stored in <b>CSS pixels</b> for Letter: <code>816×1056</code>.<br/>
-      Keep Puppeteer at <code>scale: 1</code> and PDF margins <code>0</code> to match exactly.
+      Coordinates are stored in <b>base units</b>: <code>612×792</code> (PDF/SVG truth).<br/>
+      Puppeteer must render at <code>612×792</code> with PDF margins <code>0</code>.
     </div>
   </div>
 
@@ -145,8 +145,8 @@
   </div>
 
 <script>
-  const PAGE_W = 816;
-  const PAGE_H = 1056;
+  const PAGE_W = 612;
+  const PAGE_H = 792;
 
   const el = {
     file: document.getElementById("file"),
@@ -170,7 +170,7 @@
 
   const map = {
     schema: "cid.map.v1",
-    units: "css_px",
+    units: "base_612x792",
     page: { width: PAGE_W, height: PAGE_H },
     template: el.template.value,
     pageId: el.pageId.value,
@@ -186,19 +186,24 @@
   }
 
   function addDot(f) {
-    const dot = document.createElement("div");
-    dot.className = "dot";
-    dot.style.left = f.x + "px";
-    dot.style.top = f.y + "px";
-    dot.title = f.name;
+  const dot = document.createElement("div");
+  dot.className = "dot";
 
-    const tag = document.createElement("div");
-    tag.className = "tag";
-    tag.textContent = `${f.name} @ ${Math.round(f.x)},${Math.round(f.y)}`;
-    dot.appendChild(tag);
+  const rect = el.page.getBoundingClientRect();
+  const sx = rect.width / PAGE_W;
+  const sy = rect.height / PAGE_H;
 
-    el.overlay.appendChild(dot);
-  }
+  dot.style.left = (f.x * sx) + "px";
+  dot.style.top  = (f.y * sy) + "px";
+  dot.title = f.name;
+
+  const tag = document.createElement("div");
+  tag.className = "tag";
+  tag.textContent = `${f.name} @ ${Math.round(f.x)},${Math.round(f.y)}`;
+  dot.appendChild(tag);
+
+  el.overlay.appendChild(dot);
+}
 
   function rebuildOverlay() {
     el.overlay.innerHTML = "";
