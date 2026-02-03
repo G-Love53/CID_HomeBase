@@ -15,8 +15,29 @@
     .btnrow { display:flex; gap:10px; margin-top:10px; }
     .btnrow button { flex:1; cursor:pointer; }
 
+    /* Phase-2 Aid Bar */
+    .aidbar{
+      display:flex; gap:10px; align-items:center; flex-wrap:wrap;
+      border:1px solid #e5e5e5; border-radius:10px; padding:10px; margin:10px 0 4px;
+      background:#fafafa;
+    }
+    .aidbar label{ margin:0; display:flex; gap:6px; align-items:center; font-size:12px; }
+    .aidbar input[type="checkbox"]{ width:auto; }
+    .aidbar select{ width:auto; padding:6px 8px; font-size:12px; }
+    .hud{
+      margin-left:auto;
+      font-family: ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size:12px;
+      padding:6px 10px;
+      border:1px solid #ddd;
+      border-radius:8px;
+      background:#fff;
+      min-width: 170px;
+      text-align:center;
+    }
+
     /* IMPORTANT: Fixed coordinate space (CID truth): 612 × 792 */
-      :root { --pageW: 612px; --pageH: 792px; }
+    :root { --pageW: 612px; --pageH: 792px; }
 
     #page {
       position: relative;
@@ -57,6 +78,55 @@
       white-space:nowrap;
     }
 
+    .field-box {
+      position: absolute;
+      border: 2px solid rgba(255, 140, 0, 0.9); /* orange outline */
+      background: rgba(255, 140, 0, 0.08);     /* very light fill */
+      box-sizing: border-box;
+      pointer-events: none;
+    }
+
+
+    /* Grid + crosshair */
+    #gridCanvas{
+      position:absolute; inset:0;
+      display:none;
+      pointer-events:none;
+    }
+    #crosshair{
+      position:absolute; inset:0;
+      display:none;
+      pointer-events:none;
+    }
+    .crosshair-line{
+      position:absolute;
+      background: rgba(0,0,0,0.35);
+    }
+    .crosshair-line.v{ top:0; bottom:0; width:1px; }
+    .crosshair-line.h{ left:0; right:0; height:1px; }
+
+    /* Preview box (THE GOOD STUFF) */
+    #previewBox{
+      position:absolute;
+      display:none;
+      pointer-events:none;
+      border: 2px dashed rgba(0,0,0,0.55);
+      background: rgba(0,0,0,0.06);
+      box-sizing: border-box;
+    }
+    #previewLabel{
+      position:absolute;
+      pointer-events:none;
+      transform: translate(8px, -18px);
+      background:#111;
+      color:#fff;
+      font-size:10px;
+      padding:2px 6px;
+      border-radius:3px;
+      white-space:nowrap;
+      opacity: 0.92;
+    }
+
     .hint { font-size:12px; color:#444; margin-top:8px; line-height:1.35; }
     code { background:#f4f4f4; padding:1px 4px; border-radius:3px; }
   </style>
@@ -67,6 +137,25 @@
 
     <label>Background SVG</label>
     <input id="file" type="file" accept=".svg,image/svg+xml" />
+
+    <!-- Phase-2 Aid Bar (UI only) -->
+    <div class="aidbar">
+      <label><input type="checkbox" id="toggleGrid"> Grid</label>
+
+      <label>
+        Spacing
+        <select id="gridSpacing">
+          <option value="25">25</option>
+          <option value="50" selected>50</option>
+        </select>
+      </label>
+
+      <label><input type="checkbox" id="toggleCrosshair"> Crosshair</label>
+
+      <label><input type="checkbox" id="toggleSnap"> Snap to Grid</label>
+
+      <div class="hud" id="xyHud">x: —  y: —</div>
+    </div>
 
     <div class="row">
       <div>
@@ -93,7 +182,7 @@
       </div>
       <div>
         <label>Font size</label>
-        <input id="fontSize" type="number" value="9" />
+        <input id="fontSize" type="number" value="8" />
       </div>
     </div>
 
@@ -133,13 +222,26 @@
 
     <div class="hint">
       Coordinates are stored in <b>base units</b>: <code>612×792</code> (PDF/SVG truth).<br/>
-      Puppeteer must render at <code>612×792</code> with PDF margins <code>0</code>.
+      Shortcuts: <code>g</code>=grid, <code>c</code>=crosshair, <code>s</code>=snap, <code>u</code>=undo
     </div>
   </div>
 
   <div>
     <div id="page" title="Click to map fields">
       <img id="bg" alt="Background SVG" />
+
+      <!-- Phase-2 overlays -->
+      <canvas id="gridCanvas"></canvas>
+
+      <div id="crosshair">
+        <div id="crosshairV" class="crosshair-line v"></div>
+        <div id="crosshairH" class="crosshair-line h"></div>
+      </div>
+
+      <!-- Preview box + label -->
+      <div id="previewBox"></div>
+      <div id="previewLabel"></div>
+
       <div id="overlay"></div>
     </div>
   </div>
@@ -166,6 +268,21 @@
     undo: document.getElementById("undo"),
     clear: document.getElementById("clear"),
     copy: document.getElementById("copy"),
+
+    // Phase-2
+    toggleGrid: document.getElementById("toggleGrid"),
+    gridSpacing: document.getElementById("gridSpacing"),
+    toggleCrosshair: document.getElementById("toggleCrosshair"),
+    toggleSnap: document.getElementById("toggleSnap"),
+    xyHud: document.getElementById("xyHud"),
+    gridCanvas: document.getElementById("gridCanvas"),
+    crosshair: document.getElementById("crosshair"),
+    crosshairV: document.getElementById("crosshairV"),
+    crosshairH: document.getElementById("crosshairH"),
+
+    // Preview
+    previewBox: document.getElementById("previewBox"),
+    previewLabel: document.getElementById("previewLabel"),
   };
 
   const map = {
@@ -178,6 +295,7 @@
   };
 
   function n(v, d=0) { const x = Number(v); return Number.isFinite(x) ? x : d; }
+  function clamp(v, min, max){ return Math.max(min, Math.min(max, v)); }
 
   function refresh() {
     map.template = el.template.value.trim() || map.template;
@@ -186,13 +304,34 @@
   }
 
   function addDot(f) {
-  const dot = document.createElement("div");
-  dot.className = "dot";
-
   const rect = el.page.getBoundingClientRect();
   const sx = rect.width / PAGE_W;
   const sy = rect.height / PAGE_H;
 
+  // === FIELD OUTLINE BOX ===
+  const box = document.createElement("div");
+  box.className = "field-box";
+
+  let bw, bh;
+
+  if (f.type === "checkbox") {
+    bw = f.size;
+    bh = f.size;
+  } else {
+    bw = f.w;
+    bh = f.h;
+  }
+
+  box.style.left = (f.x * sx) + "px";
+  box.style.top  = (f.y * sy) + "px";
+  box.style.width  = (bw * sx) + "px";
+  box.style.height = (bh * sy) + "px";
+
+  el.overlay.appendChild(box);
+
+  // === ANCHOR DOT (KEEPING YOUR CURRENT BEHAVIOR) ===
+  const dot = document.createElement("div");
+  dot.className = "dot";
   dot.style.left = (f.x * sx) + "px";
   dot.style.top  = (f.y * sy) + "px";
   dot.title = f.name;
@@ -210,27 +349,210 @@
     map.fields.forEach(addDot);
   }
 
+  // ===== Phase-2 helpers (UI ONLY) =====
+  function basePointFromEvent(e){
+    const rect = el.page.getBoundingClientRect();
+    const nx = (e.clientX - rect.left) / rect.width;
+    const ny = (e.clientY - rect.top) / rect.height;
+
+    const x = clamp(Math.round(nx * PAGE_W), 0, PAGE_W);
+    const y = clamp(Math.round(ny * PAGE_H), 0, PAGE_H);
+
+    // pixel position for crosshair/preview
+    const px = clamp(Math.round((e.clientX - rect.left)), 0, Math.round(rect.width));
+    const py = clamp(Math.round((e.clientY - rect.top)), 0, Math.round(rect.height));
+
+    return { x, y, px, py, rect };
+  }
+
+  function maybeSnap(x, y){
+    if (!el.toggleSnap.checked) return { x, y };
+    const s = parseInt(el.gridSpacing.value, 10) || 50;
+    return {
+      x: Math.round(x / s) * s,
+      y: Math.round(y / s) * s
+    };
+  }
+
+  function baseToPx(x, y){
+    const rect = el.page.getBoundingClientRect();
+    const sx = rect.width / PAGE_W;
+    const sy = rect.height / PAGE_H;
+    return { left: x * sx, top: y * sy, sx, sy, rect };
+  }
+
+  function syncGridCanvasSize(){
+    const rect = el.page.getBoundingClientRect();
+    const w = Math.max(1, Math.round(rect.width));
+    const h = Math.max(1, Math.round(rect.height));
+    el.gridCanvas.width = w;
+    el.gridCanvas.height = h;
+    el.gridCanvas.style.width = w + "px";
+    el.gridCanvas.style.height = h + "px";
+  }
+
+  function drawGrid(){
+    syncGridCanvasSize();
+    const ctx = el.gridCanvas.getContext("2d");
+    if (!ctx) return;
+    ctx.clearRect(0, 0, el.gridCanvas.width, el.gridCanvas.height);
+
+    const spacing = parseInt(el.gridSpacing.value, 10) || 50;
+
+    const pxPerBaseX = el.gridCanvas.width / PAGE_W;
+    const pxPerBaseY = el.gridCanvas.height / PAGE_H;
+    const stepX = spacing * pxPerBaseX;
+    const stepY = spacing * pxPerBaseY;
+
+    ctx.globalAlpha = 0.35;
+    ctx.lineWidth = 1;
+
+    for (let x = 0; x <= el.gridCanvas.width; x += stepX){
+      ctx.beginPath();
+      ctx.moveTo(Math.round(x) + 0.5, 0);
+      ctx.lineTo(Math.round(x) + 0.5, el.gridCanvas.height);
+      ctx.stroke();
+    }
+    for (let y = 0; y <= el.gridCanvas.height; y += stepY){
+      ctx.beginPath();
+      ctx.moveTo(0, Math.round(y) + 0.5);
+      ctx.lineTo(el.gridCanvas.width, Math.round(y) + 0.5);
+      ctx.stroke();
+    }
+    ctx.globalAlpha = 1;
+  }
+
+  function setGridVisible(on){
+    el.gridCanvas.style.display = on ? "block" : "none";
+    if (on) drawGrid();
+  }
+
+  function setCrosshairVisible(on){
+    el.crosshair.style.display = on ? "block" : "none";
+  }
+
+  function hidePreview(){
+    el.previewBox.style.display = "none";
+    el.previewLabel.style.display = "none";
+  }
+
+  function showPreviewAtBase(x, y){
+    // Build a “would-be field rectangle” based on current inputs
+    const type = el.type.value;
+    const anchor = el.anchor.value;
+
+    const w = n(el.w.value, 120);
+    const h = n(el.h.value, 12);
+    const cbSize = n(el.cbSize.value, 10);
+
+    let bx = x, by = y;
+    let bw, bh;
+
+    if (type === "checkbox") {
+      bw = cbSize; bh = cbSize;
+    } else {
+      bw = w; bh = h;
+    }
+
+    // Anchor adjustment (match your click logic)
+    if (anchor === "center") {
+      bx = Math.round(bx - bw/2);
+      by = Math.round(by - bh/2);
+    }
+
+    // Clamp preview inside page bounds (visual only)
+    bx = clamp(bx, 0, PAGE_W);
+    by = clamp(by, 0, PAGE_H);
+
+    const { left, top, sx, sy } = baseToPx(bx, by);
+
+    el.previewBox.style.display = "block";
+    el.previewBox.style.left = `${left}px`;
+    el.previewBox.style.top = `${top}px`;
+    el.previewBox.style.width = `${bw * sx}px`;
+    el.previewBox.style.height = `${bh * sy}px`;
+
+    const label = (el.fieldName.value || "").trim() || "(new field)";
+    const extra = (type === "checkbox") ? `${cbSize}px` : `${w}×${h}`;
+    el.previewLabel.style.display = "block";
+    el.previewLabel.style.left = `${left}px`;
+    el.previewLabel.style.top = `${top}px`;
+    el.previewLabel.textContent = `${label} • ${type} • ${extra} • ${anchor}`;
+  }
+
+  // Keep overlays aligned if zoom changes
+  const ro = new ResizeObserver(() => {
+    if (el.toggleGrid.checked) drawGrid();
+    rebuildOverlay();
+  });
+  ro.observe(el.page);
+
   // Load SVG
   el.file.addEventListener("change", (e) => {
     const file = e.target.files?.[0];
     if (!file) return;
     const url = URL.createObjectURL(file);
     el.bg.src = url;
-    setTimeout(rebuildOverlay, 0);
+    setTimeout(() => {
+      rebuildOverlay();
+      if (el.toggleGrid.checked) drawGrid();
+    }, 0);
   });
 
-  // CLICK HANDLER (normalized into 816×1056 space)
+  // Mouse move: HUD + crosshair + preview box
+  el.page.addEventListener("mousemove", (e) => {
+    const p = basePointFromEvent(e);
+    const snapped = maybeSnap(p.x, p.y);
+
+    el.xyHud.textContent = `x: ${String(snapped.x).padStart(3," ")}   y: ${String(snapped.y).padStart(3," ")}`;
+
+    if (el.toggleCrosshair.checked) {
+      el.crosshairV.style.left = `${p.px}px`;
+      el.crosshairH.style.top  = `${p.py}px`;
+    }
+
+    // Preview box uses snapped coords only if snap is on
+    showPreviewAtBase(snapped.x, snapped.y);
+  });
+
+  el.page.addEventListener("mouseleave", () => {
+    el.xyHud.textContent = `x: —  y: —`;
+    hidePreview();
+  });
+
+  // Toggle handlers
+  el.toggleGrid.addEventListener("change", () => setGridVisible(el.toggleGrid.checked));
+  el.gridSpacing.addEventListener("change", () => {
+    if (el.toggleGrid.checked) drawGrid();
+  });
+  el.toggleCrosshair.addEventListener("change", () => setCrosshairVisible(el.toggleCrosshair.checked));
+
+  // If user changes sizing/type/anchor/name, preview updates instantly on next mousemove — no extra work needed.
+
+  // Keyboard shortcuts
+  window.addEventListener("keydown", (e) => {
+    const t = (e.target && e.target.tagName) ? e.target.tagName.toLowerCase() : "";
+    if (t === "input" || t === "textarea" || t === "select") return;
+
+    if (e.key === "g") { el.toggleGrid.checked = !el.toggleGrid.checked; setGridVisible(el.toggleGrid.checked); }
+    if (e.key === "c") { el.toggleCrosshair.checked = !el.toggleCrosshair.checked; setCrosshairVisible(el.toggleCrosshair.checked); }
+    if (e.key === "s") { el.toggleSnap.checked = !el.toggleSnap.checked; }
+    if (e.key === "u") { el.undo.click(); }
+  });
+
+  // CLICK HANDLER (same JSON shape; same behavior; now respects optional snap)
   el.page.addEventListener("click", (e) => {
     const rect = el.page.getBoundingClientRect();
 
-    // Normalize click -> fixed page coordinates
     const nx = (e.clientX - rect.left) / rect.width;
     const ny = (e.clientY - rect.top) / rect.height;
 
     let x = Math.round(nx * PAGE_W);
     let y = Math.round(ny * PAGE_H);
 
-    // Field name: use input, else prompt
+    // Optional snap (off by default)
+    ({ x, y } = maybeSnap(x, y));
+
     let name = (el.fieldName.value || "").trim();
     if (!name) {
       name = prompt("Enter Field Name (e.g., policy_number):")?.trim();
@@ -240,13 +562,11 @@
     const type = el.type.value;
     const anchor = el.anchor.value;
 
-    // Optional sizing
     const w = n(el.w.value, 120);
     const h = n(el.h.value, 12);
-    const fontSize = n(el.fontSize.value, 9);
+    const fontSize = n(el.fontSize.value, 8);
     const cbSize = n(el.cbSize.value, 10);
 
-    // Anchor support
     if (anchor === "center") {
       if (type === "checkbox") {
         x = Math.round(x - cbSize/2);
@@ -289,7 +609,6 @@
     await navigator.clipboard.writeText(el.output.value);
   });
 
-  // Keep output current if template/page changes
   el.template.addEventListener("input", refresh);
   el.pageId.addEventListener("input", refresh);
 

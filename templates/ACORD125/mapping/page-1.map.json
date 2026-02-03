@@ -9,185 +9,240 @@
   "pageId": "page-1",
   "fields": [
     {
-      "name": "applicant_name",
-      "type": "text",
-      "x": 24,
-      "y": 579,
-      "w": 300,
-      "h": 14,
-      "fontSize": 8
-    },
-    {
-      "name": "premise_address",
+      "name": "insured_name",
       "type": "text",
       "x": 25,
-      "y": 593,
-      "w": 300,
+      "y": 575,
+      "w": 220,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "premise_city",
+      "name": "physical_address_1",
       "type": "text",
-      "x": 24,
-      "y": 607,
+      "x": 25,
+      "y": 590,
+      "w": 220,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 26,
+      "y": 605,
       "w": 150,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "premise_state",
+      "name": "physical_state",
       "type": "text",
-      "x": 160,
-      "y": 607,
-      "w": 50,
+      "x": 180,
+      "y": 606,
+      "w": 60,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "premise_zip",
+      "name": "physical_zip",
       "type": "text",
-      "x": 246,
-      "y": 609,
-      "w": 50,
+      "x": 245,
+      "y": 606,
+      "w": 60,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "web_address",
+      "name": "fein",
       "type": "text",
-      "x": 373,
-      "y": 610,
-      "w": 150,
-      "h": 14,
-      "fontSize": 8
-    },
-    {
-      "name": "business_phone",
-      "type": "text",
-      "x": 372,
-      "y": 592,
-      "w": 150,
-      "h": 14,
-      "fontSize": 8
-    },
-    {
-      "name": "fien",
-      "type": "text",
-      "x": 528,
-      "y": 577,
-      "w": 100,
+      "x": 524,
+      "y": 572,
+      "w": 60,
       "h": 14,
       "fontSize": 8
     },
     {
       "name": "sic",
       "type": "text",
-      "x": 383,
-      "y": 577,
-      "w": 100,
+      "x": 378,
+      "y": 571,
+      "w": 60,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "corp",
-      "type": "checkbox",
-      "x": 26,
-      "y": 628,
-      "size": 10
+      "name": "naics",
+      "type": "text",
+      "x": 452,
+      "y": 572,
+      "w": 60,
+      "h": 14,
+      "fontSize": 8
     },
     {
-      "name": "individual",
-      "type": "checkbox",
-      "x": 24,
-      "y": 639,
-      "size": 10
+      "name": "date",
+      "type": "text",
+      "x": 517,
+      "y": 38,
+      "w": 60,
+      "h": 14,
+      "fontSize": 8
     },
     {
-      "name": "llc",
-      "type": "checkbox",
-      "x": 100,
-      "y": 641,
-      "size": 10
+      "name": "business_phone",
+      "type": "text",
+      "x": 374,
+      "y": 586,
+      "w": 150,
+      "h": 14,
+      "fontSize": 8
     },
     {
-      "name": "jv",
-      "type": "checkbox",
-      "x": 100,
-      "y": 628,
-      "size": 10
+      "name": "business_website",
+      "type": "text",
+      "x": 375,
+      "y": 604,
+      "w": 200,
+      "h": 14,
+      "fontSize": 8
     },
     {
-      "name": "partnership",
+      "name": "s_corp",
       "type": "checkbox",
-      "x": 238,
-      "y": 641,
+      "x": 330,
+      "y": 624,
       "size": 10
     },
     {
       "name": "trust",
       "type": "checkbox",
-      "x": 332,
-      "y": 640,
+      "x": 330,
+      "y": 634,
       "size": 10
     },
     {
-      "name": "comm_gl",
+      "name": "partnership",
       "type": "checkbox",
-      "x": 26,
-      "y": 317,
+      "x": 231,
+      "y": 635,
       "size": 10
     },
     {
-      "name": "comm_prop",
+      "name": "jv",
       "type": "checkbox",
-      "x": 27,
-      "y": 339,
+      "x": 96,
+      "y": 623,
       "size": 10
     },
     {
-      "name": "cyber",
+      "name": "llc",
       "type": "checkbox",
-      "x": 220,
-      "y": 282,
+      "x": 96,
+      "y": 635,
       "size": 10
     },
     {
-      "name": "liq_lib",
+      "name": "corporation",
       "type": "checkbox",
-      "x": 220,
-      "y": 317,
+      "x": 20,
+      "y": 623,
       "size": 10
     },
     {
-      "name": "eff_date",
+      "name": "individual",
+      "type": "checkbox",
+      "x": 21,
+      "y": 634,
+      "size": 10
+    },
+    {
+      "name": "coverage_gl",
+      "type": "checkbox",
+      "x": 21,
+      "y": 312,
+      "size": 10
+    },
+    {
+      "name": "coverage_inland_marine",
+      "type": "checkbox",
+      "x": 21,
+      "y": 325,
+      "size": 10
+    },
+    {
+      "name": "coverage_property",
+      "type": "checkbox",
+      "x": 21,
+      "y": 336,
+      "size": 10
+    },
+    {
+      "name": "coverage_cyber",
+      "type": "checkbox",
+      "x": 214,
+      "y": 276,
+      "size": 10
+    },
+    {
+      "name": "coverage_liquor",
+      "type": "checkbox",
+      "x": 214,
+      "y": 312,
+      "size": 10
+    },
+    {
+      "name": "coverage_hnoa",
+      "type": "checkbox",
+      "x": 404,
+      "y": 276,
+      "size": 10
+    },
+    {
+      "name": "umbrella",
+      "type": "checkbox",
+      "x": 216,
+      "y": 348,
+      "size": 10
+    },
+    {
+      "name": "policy_effective_date",
       "type": "text",
-      "x": 25,
-      "y": 533,
-      "w": 50,
+      "x": 22,
+      "y": 525,
+      "w": 60,
       "h": 14,
       "fontSize": 8
     },
     {
-      "name": "direct_bill",
+      "name": "billing_direct",
       "type": "checkbox",
-      "x": 165,
-      "y": 533,
+      "x": 160,
+      "y": 527,
       "size": 10
     },
     {
-      "name": "agency_bill",
+      "name": "billing_agency",
       "type": "checkbox",
-      "x": 209,
-      "y": 532,
+      "x": 203,
+      "y": 528,
       "size": 10
     },
     {
-      "name": "date",
+      "name": "producer_email",
       "type": "text",
-      "x": 515,
-      "y": 46,
-      "w": 50,
+      "x": 58,
+      "y": 167,
+      "w": 200,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "producer_phone",
+      "type": "text",
+      "x": 68,
+      "y": 135,
+      "w": 200,
       "h": 14,
       "fontSize": 8
     }

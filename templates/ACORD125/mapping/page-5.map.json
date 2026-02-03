@@ -1,0 +1,57 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD125",
+  "pageId": "page-5",
+  "fields": [
+    {
+      "name": "producers_name",
+      "type": "text",
+      "x": 261,
+      "y": 372,
+      "w": 220,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "producers_statelic",
+      "type": "text",
+      "x": 498,
+      "y": 374,
+      "w": 75,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "producers_npn",
+      "type": "text",
+      "x": 501,
+      "y": 551,
+      "w": 75,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_sign_date",
+      "type": "text",
+      "x": 428,
+      "y": 553,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "applicants_signature125",
+      "type": "text",
+      "x": 114,
+      "y": 548,
+      "w": 250,
+      "h": 15,
+      "fontSize": 8
+    }
+  ]
+}

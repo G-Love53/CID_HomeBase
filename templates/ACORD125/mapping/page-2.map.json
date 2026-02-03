@@ -1,8 +1,466 @@
 {
   "schema": "cid.map.v1",
-  "units": "css_px",
-  "page": { "width": 816, "height": 1056 },
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "ACORD125",
   "pageId": "page-2",
-  "fields": []
+  "fields": [
+    {
+      "name": "contact_name",
+      "type": "text",
+      "x": 73,
+      "y": 150,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_name_2",
+      "type": "text",
+      "x": 370,
+      "y": 150,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_email_1",
+      "type": "text",
+      "x": 108,
+      "y": 186,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_email_2",
+      "type": "text",
+      "x": 391,
+      "y": 185,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_business_phone",
+      "type": "text",
+      "x": 35,
+      "y": 173,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_cell_phone",
+      "type": "text",
+      "x": 174,
+      "y": 173,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_business_phone_2",
+      "type": "text",
+      "x": 317,
+      "y": 173,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "contact_cell_phone_2",
+      "type": "text",
+      "x": 458,
+      "y": 173,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_address_1",
+      "type": "text",
+      "x": 52,
+      "y": 231,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_city_1",
+      "type": "text",
+      "x": 70,
+      "y": 245,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_county_1",
+      "type": "text",
+      "x": 83,
+      "y": 257,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_city_2",
+      "type": "text",
+      "x": 71,
+      "y": 305,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_county_2",
+      "type": "text",
+      "x": 85,
+      "y": 318,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_city_3",
+      "type": "text",
+      "x": 73,
+      "y": 365,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_county_3",
+      "type": "text",
+      "x": 85,
+      "y": 377,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_city_4",
+      "type": "text",
+      "x": 71,
+      "y": 425,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_county_4",
+      "type": "text",
+      "x": 83,
+      "y": 437,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_address_2",
+      "type": "text",
+      "x": 53,
+      "y": 291,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_address_3",
+      "type": "text",
+      "x": 57,
+      "y": 351,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "premise_address_4",
+      "type": "text",
+      "x": 54,
+      "y": 410,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "citylimits_inside_1",
+      "type": "checkbox",
+      "x": 265,
+      "y": 234,
+      "size": 10
+    },
+    {
+      "name": "citylimits_outside_1",
+      "type": "checkbox",
+      "x": 265,
+      "y": 246,
+      "size": 10
+    },
+    {
+      "name": "interest_owner_1",
+      "type": "checkbox",
+      "x": 311,
+      "y": 235,
+      "size": 10
+    },
+    {
+      "name": "interest_tenant_1",
+      "type": "checkbox",
+      "x": 312,
+      "y": 247,
+      "size": 10
+    },
+    {
+      "name": "citylimits_inside_2",
+      "type": "checkbox",
+      "x": 264,
+      "y": 294,
+      "size": 10
+    },
+    {
+      "name": "citylimits_outside_2",
+      "type": "checkbox",
+      "x": 265,
+      "y": 307,
+      "size": 10
+    },
+    {
+      "name": "interest_owner_2",
+      "type": "checkbox",
+      "x": 310,
+      "y": 294,
+      "size": 10
+    },
+    {
+      "name": "interest_tenant_2",
+      "type": "checkbox",
+      "x": 310,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "citylimits_inside_3",
+      "type": "checkbox",
+      "x": 264,
+      "y": 353,
+      "size": 10
+    },
+    {
+      "name": "citylimits_outside_3",
+      "type": "checkbox",
+      "x": 264,
+      "y": 365,
+      "size": 10
+    },
+    {
+      "name": "interest_owner_3",
+      "type": "checkbox",
+      "x": 310,
+      "y": 353,
+      "size": 10
+    },
+    {
+      "name": "interest_tenant_3",
+      "type": "checkbox",
+      "x": 310,
+      "y": 366,
+      "size": 10
+    },
+    {
+      "name": "citylimits_inside_4",
+      "type": "checkbox",
+      "x": 264,
+      "y": 413,
+      "size": 10
+    },
+    {
+      "name": "citylimits_outside_4",
+      "type": "checkbox",
+      "x": 264,
+      "y": 427,
+      "size": 10
+    },
+    {
+      "name": "interest_owner_4",
+      "type": "checkbox",
+      "x": 310,
+      "y": 414,
+      "size": 10
+    },
+    {
+      "name": "interest_tenant_4",
+      "type": "checkbox",
+      "x": 311,
+      "y": 426,
+      "size": 10
+    },
+    {
+      "name": "fulltime_1",
+      "type": "text",
+      "x": 381,
+      "y": 233,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "parttime_1",
+      "type": "text",
+      "x": 384,
+      "y": 255,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "fulltime_2",
+      "type": "text",
+      "x": 385,
+      "y": 294,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "parttime_2",
+      "type": "text",
+      "x": 384,
+      "y": 315,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "fulltime_3",
+      "type": "text",
+      "x": 384,
+      "y": 352,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "parttime_3",
+      "type": "text",
+      "x": 386,
+      "y": 374,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "fulltime_4",
+      "type": "text",
+      "x": 384,
+      "y": 410,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "parttime_4",
+      "type": "text",
+      "x": 387,
+      "y": 434,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "annual_revenue_1",
+      "type": "text",
+      "x": 516,
+      "y": 223,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "annual_revenue_2",
+      "type": "text",
+      "x": 518,
+      "y": 281,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "annual_revenue_3",
+      "type": "text",
+      "x": 520,
+      "y": 341,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "annaul_revenue_4",
+      "type": "text",
+      "x": 522,
+      "y": 399,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "total_squarefeet_1",
+      "type": "text",
+      "x": 518,
+      "y": 235,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "total_squarefeet_2",
+      "type": "text",
+      "x": 515,
+      "y": 293,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "total_squarefeet_3",
+      "type": "text",
+      "x": 515,
+      "y": 353,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "total_squarefeet_4",
+      "type": "text",
+      "x": 519,
+      "y": 414,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "description_1",
+      "type": "multiline",
+      "x": 27,
+      "y": 514,
+      "w": 550,
+      "h": 90,
+      "fontSize": 8
+    },
+    {
+      "name": "description_2",
+      "type": "multiline",
+      "x": 30,
+      "y": 652,
+      "w": 550,
+      "h": 90,
+      "fontSize": 8
+    }
+  ]
 }

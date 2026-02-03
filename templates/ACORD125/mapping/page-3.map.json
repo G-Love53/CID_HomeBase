@@ -1,8 +1,145 @@
 {
   "schema": "cid.map.v1",
-  "units": "css_px",
-  "page": { "width": 816, "height": 1056 },
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "ACORD125",
   "pageId": "page-3",
-  "fields": []
+  "fields": [
+    {
+      "name": "ai-name",
+      "type": "text",
+      "x": 143,
+      "y": 65,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai-address",
+      "type": "text",
+      "x": 146,
+      "y": 77,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_city",
+      "type": "text",
+      "x": 146,
+      "y": 89,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_state",
+      "type": "text",
+      "x": 270,
+      "y": 90,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_zip",
+      "type": "text",
+      "x": 355,
+      "y": 91,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_email",
+      "type": "text",
+      "x": 356,
+      "y": 144,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_phone",
+      "type": "text",
+      "x": 365,
+      "y": 132,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_lienholder",
+      "type": "checkbox",
+      "x": 82,
+      "y": 61,
+      "size": 10
+    },
+    {
+      "name": "ai_losspayee",
+      "type": "checkbox",
+      "x": 82,
+      "y": 74,
+      "size": 10
+    },
+    {
+      "name": "ai_mortgage",
+      "type": "checkbox",
+      "x": 82,
+      "y": 85,
+      "size": 10
+    },
+    {
+      "name": "ai_owner",
+      "type": "checkbox",
+      "x": 82,
+      "y": 97,
+      "size": 10
+    },
+    {
+      "name": "ai_insured",
+      "type": "checkbox",
+      "x": 21,
+      "y": 61,
+      "size": 10
+    },
+    {
+      "name": "ai_coowner",
+      "type": "checkbox",
+      "x": 21,
+      "y": 85,
+      "size": 10
+    },
+    {
+      "name": "ai-employee",
+      "type": "checkbox",
+      "x": 21,
+      "y": 97,
+      "size": 10
+    },
+    {
+      "name": "ai_lendersloss",
+      "type": "checkbox",
+      "x": 20,
+      "y": 121,
+      "size": 10
+    },
+    {
+      "name": "ai_evidence",
+      "type": "checkbox",
+      "x": 297,
+      "y": 49,
+      "size": 10
+    },
+    {
+      "name": "ai_certificate",
+      "type": "checkbox",
+      "x": 357,
+      "y": 49,
+      "size": 10
+    }
+  ]
 }
