@@ -1,0 +1,99 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD126",
+  "pageId": "page-3",
+  "fields": [
+    {
+      "name": "ai_name",
+      "type": "text",
+      "x": 129,
+      "y": 65,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address",
+      "type": "text",
+      "x": 130,
+      "y": 86,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_city",
+      "type": "text",
+      "x": 132,
+      "y": 107,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_state",
+      "type": "text",
+      "x": 236,
+      "y": 107,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_zip",
+      "type": "text",
+      "x": 341,
+      "y": 107,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_insured",
+      "type": "checkbox",
+      "x": 21,
+      "y": 62,
+      "size": 10
+    },
+    {
+      "name": "ai_employee",
+      "type": "checkbox",
+      "x": 21,
+      "y": 74,
+      "size": 10
+    },
+    {
+      "name": "ai_lendersloss",
+      "type": "checkbox",
+      "x": 20,
+      "y": 85,
+      "size": 10
+    },
+    {
+      "name": "ai_lienholder",
+      "type": "checkbox",
+      "x": 20,
+      "y": 97,
+      "size": 10
+    },
+    {
+      "name": "ai_losspayee",
+      "type": "checkbox",
+      "x": 21,
+      "y": 110,
+      "size": 10
+    },
+    {
+      "name": "ai_mortgage",
+      "type": "checkbox",
+      "x": 21,
+      "y": 121,
+      "size": 10
+    }
+  ]
+}

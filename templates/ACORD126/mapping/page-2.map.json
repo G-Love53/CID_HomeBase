@@ -1,0 +1,192 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD126",
+  "pageId": "page-2",
+  "fields": [
+    {
+      "name": "operations_drawplans",
+      "type": "multiline",
+      "x": 32,
+      "y": 62,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "operations_explosive",
+      "type": "multiline",
+      "x": 33,
+      "y": 99,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "operations_excavation",
+      "type": "multiline",
+      "x": 34,
+      "y": 134,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "subcontractor_limits_less",
+      "type": "multiline",
+      "x": 35,
+      "y": 170,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "subcontractors_coi",
+      "type": "multiline",
+      "x": 35,
+      "y": 205,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "contractors_lease_equip",
+      "type": "multiline",
+      "x": 37,
+      "y": 241,
+      "w": 520,
+      "h": 27,
+      "fontSize": 8
+    },
+    {
+      "name": "subcontractor_work_discription",
+      "type": "multiline",
+      "x": 39,
+      "y": 283,
+      "w": 520,
+      "h": 17,
+      "fontSize": 8
+    },
+    {
+      "name": "$_paid_subcontractors",
+      "type": "text",
+      "x": 264,
+      "y": 269,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "percent_work_subcontractors",
+      "type": "text",
+      "x": 391,
+      "y": 270,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_FT_staff",
+      "type": "text",
+      "x": 468,
+      "y": 270,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_PT_staff",
+      "type": "text",
+      "x": 554,
+      "y": 270,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "products_1",
+      "type": "text",
+      "x": 25,
+      "y": 335,
+      "w": 90,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "products_2",
+      "type": "text",
+      "x": 25,
+      "y": 357,
+      "w": 90,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "products_3",
+      "type": "text",
+      "x": 26,
+      "y": 383,
+      "w": 90,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "grosssales_1",
+      "type": "text",
+      "x": 130,
+      "y": 334,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "grosssales_2",
+      "type": "text",
+      "x": 131,
+      "y": 360,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "grosssales_3",
+      "type": "text",
+      "x": 130,
+      "y": 384,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_units_1",
+      "type": "text",
+      "x": 212,
+      "y": 335,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_units_2",
+      "type": "text",
+      "x": 211,
+      "y": 359,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_units_3",
+      "type": "text",
+      "x": 213,
+      "y": 383,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
+}
