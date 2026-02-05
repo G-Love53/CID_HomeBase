@@ -20,8 +20,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1"
-     inkscape:cx="298"
-     inkscape:cy="407.5"
+     inkscape:cx="287"
+     inkscape:cy="392.5"
      inkscape:window-width="1400"
      inkscape:window-height="972"
      inkscape:window-x="282"
@@ -370,14 +370,17 @@
        y="0"
        id="tspan39">Division of Insurance within the Department of Regulatory Agencies.</tspan></text>
   <text
-     transform="translate(23.7 62.4)"
      font-family="Helvetica-Bold, Helvetica"
-     font-size="8"
+     font-size="8px"
      font-weight="700"
-     id="text40"><tspan
-       x="0"
-       y="0"
-       id="tspan40">Applicable in AL, AR, DC, LA, MD, NM, RI and WV</tspan></text>
+     id="text40"
+     style="white-space:pre-wrap;shape-inside:url(#rect6);display:inline"
+     x="17"
+     y="49.522293"
+     xml:space="preserve"><tspan
+       x="17"
+       y="49.522293"
+       id="tspan52">Applicable in AL, AR, DC, LA, MD, NM, RI and WV</tspan></text>
   <text
      transform="translate(496.1 738)"
      font-family="Helvetica-Bold, Helvetica"
@@ -882,4 +885,39 @@
      id="layer5"
      inkscape:label="FOOTER"
      sodipodi:insensitive="true" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     id="rect2"
+     width="576"
+     height="714"
+     x="18"
+     y="43" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     id="rect3"
+     width="629"
+     height="1168"
+     x="16"
+     y="41" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     id="rect4"
+     width="184"
+     height="16"
+     x="545"
+     y="462" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     id="rect5"
+     width="1093"
+     height="1363"
+     x="-499"
+     y="-605" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     id="rect6"
+     width="578"
+     height="714"
+     x="17"
+     y="42" />
 </svg>
