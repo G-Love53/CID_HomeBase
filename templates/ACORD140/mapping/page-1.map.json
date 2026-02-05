@@ -1,0 +1,209 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD140",
+  "pageId": "page-1",
+  "fields": [
+    {
+      "name": "date",
+      "type": "text",
+      "x": 517,
+      "y": 51,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "insured_name",
+      "type": "text",
+      "x": 372,
+      "y": 96,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 271,
+      "y": 163,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 456,
+      "y": 163,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_state",
+      "type": "text",
+      "x": 524,
+      "y": 162,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_zip",
+      "type": "text",
+      "x": 559,
+      "y": 162,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "bldg_description",
+      "type": "text",
+      "x": 277,
+      "y": 174,
+      "w": 150,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_stories",
+      "type": "text",
+      "x": 417,
+      "y": 464,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "percent_sprinkler",
+      "type": "text",
+      "x": 287,
+      "y": 643,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descrp_property_covered",
+      "type": "multiline",
+      "x": 70,
+      "y": 351,
+      "w": 230,
+      "h": 30,
+      "fontSize": 8
+    },
+    {
+      "name": "building_limit",
+      "type": "text",
+      "x": 333,
+      "y": 351,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "building_deductable",
+      "type": "text",
+      "x": 333,
+      "y": 375,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_name",
+      "type": "text",
+      "x": 133,
+      "y": 688,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address",
+      "type": "text",
+      "x": 135,
+      "y": 701,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_city",
+      "type": "text",
+      "x": 135,
+      "y": 714,
+      "w": 160,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_state",
+      "type": "text",
+      "x": 299,
+      "y": 714,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_zip",
+      "type": "text",
+      "x": 363,
+      "y": 714,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_lendersloss",
+      "type": "checkbox",
+      "x": 20,
+      "y": 684,
+      "size": 10
+    },
+    {
+      "name": "ai_losspayee",
+      "type": "checkbox",
+      "x": 21,
+      "y": 695,
+      "size": 10
+    },
+    {
+      "name": "ai_mortgage",
+      "type": "checkbox",
+      "x": 22,
+      "y": 707,
+      "size": 10
+    },
+    {
+      "name": "ai_evidence",
+      "type": "checkbox",
+      "x": 222,
+      "y": 670,
+      "size": 10
+    },
+    {
+      "name": "ai_cerificate",
+      "type": "checkbox",
+      "x": 279,
+      "y": 671,
+      "size": 10
+    },
+    {
+      "name": "policy_effective_date",
+      "type": "text",
+      "x": 251,
+      "y": 99,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
+}
