@@ -1,31 +1,6 @@
 {
-  "page": 1,
-  "units": "points",
-  "width": 612,
-  "height": 792,
-  "fields": [
-    {
-      "key": "anchor_tl",
-      "type": "text",
-      "x": 18,
-      "y": 18,
-      "fontSize": 10
-    },
-    {
-      "key": "anchor_md",
-      "type": "text",
-      "x": 306,
-      "y": 396,
-      "fontSize": 10,
-      "align": "center"
-    },
-    {
-      "key": "anchor_br",
-      "type": "text",
-      "x": 594,
-      "y": 774,
-      "fontSize": 10,
-      "align": "right"
-    }
-  ]
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "pageId": "page-1",
+  "items": []
 }
