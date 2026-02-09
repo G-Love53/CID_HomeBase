@@ -90,7 +90,7 @@
       "fontSize": 8
     },
     {
-      "name": "num_FT_staff",
+      "name": "num_ft_employees",
       "type": "text",
       "x": 468,
       "y": 270,
@@ -99,7 +99,7 @@
       "fontSize": 8
     },
     {
-      "name": "num_PT_staff",
+      "name": "num_pt_employees",
       "type": "text",
       "x": 554,
       "y": 270,

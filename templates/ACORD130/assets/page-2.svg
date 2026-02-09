@@ -1,262 +1,3199 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 612 792">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 612 792"
+   sodipodi:docname="page-2.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs381" />
+  <sodipodi:namedview
+     id="namedview381"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0391414"
+     inkscape:cx="175.14459"
+     inkscape:cy="401.774"
+     inkscape:window-width="1024"
+     inkscape:window-height="972"
+     inkscape:window-x="844"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
-  <text transform="translate(21.6 621.6)" font-family="Arial-BoldMT, Arial" font-size="8.4" font-weight="700"><tspan x="0" y="0">REMARKS</tspan><tspan x="42.47" y="0" letter-spacing="0em"> </tspan><tspan x="44.73" y="0">(ACORD</tspan><tspan x="78.32" y="0" letter-spacing="0em"> </tspan><tspan x="80.58" y="0">101,</tspan><tspan x="96.93" y="0" letter-spacing="0em"> </tspan><tspan x="99.19" y="0">Additional</tspan><tspan x="140.25" y="0" letter-spacing="0em"> </tspan><tspan x="142.51" y="0">Remarks</tspan><tspan x="178" y="0" letter-spacing="0em"> </tspan><tspan x="180.25" y="0">Schedule,</tspan><tspan x="219.93" y="0" letter-spacing="0em"> </tspan><tspan x="222.19" y="0">may</tspan><tspan x="239" y="0" letter-spacing="0em"> </tspan><tspan x="241.26" y="0" letter-spacing="0em">be</tspan><tspan x="251.06" y="0" letter-spacing="0em"> </tspan><tspan x="253.32" y="0" letter-spacing="0em">attached</tspan><tspan x="287.87" y="0" letter-spacing="0em"> </tspan><tspan x="290.12" y="0">if</tspan><tspan x="295.25" y="0" letter-spacing="0em"> </tspan><tspan x="297.51" y="0">more</tspan><tspan x="318.05" y="0" letter-spacing="0em"> </tspan><tspan x="320.31" y="0" letter-spacing="0em">space</tspan><tspan x="344.13" y="0" letter-spacing="0em"> </tspan><tspan x="346.39" y="0">is</tspan><tspan x="353.39" y="0" letter-spacing="0em"> </tspan><tspan x="355.65" y="0" letter-spacing="0em">required)</tspan></text>
-  <line x1="414" y1="36" x2="594" y2="36" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".48"/>
-  <text transform="translate(316.8 33.84)" font-family="Arial-BoldMT, Arial" font-size="8" font-weight="700"><tspan x="0" y="0">AGENCY</tspan><tspan x="34.23" y="0" letter-spacing="0em"> </tspan><tspan x="36.46" y="0">CUSTOMER</tspan><tspan x="82.24" y="0" letter-spacing="0em"> </tspan><tspan x="84.47" y="0">ID:</tspan></text>
-  <line x1="180" y1="36" x2="201.6" y2="36" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(162 33)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="700"><tspan x="0" y="0">O</tspan><tspan x="7" y="0" letter-spacing="3.41em">F</tspan><tspan x="43.2" y="0">SHEETS</tspan></text>
-  <line x1="133.2" y1="36" x2="154.8" y2="36" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(18 33)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="700"><tspan x="0" y="0">STATE</tspan><tspan x="29.5" y="0" letter-spacing="0em"> </tspan><tspan x="31.94" y="0">RATING</tspan><tspan x="66.44" y="0" letter-spacing="0em"> </tspan><tspan x="68.87" y="0">SHEET</tspan><tspan x="98.88" y="0" letter-spacing="0em"> </tspan><tspan x="101.32" y="0">#</tspan></text>
-  <text transform="translate(21.6 90.6)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="700"><tspan x="0" y="0">RATING</tspan><tspan x="34.5" y="0" letter-spacing="-.02em"> </tspan><tspan x="36.84" y="0">INFORMATION</tspan><tspan x="100.34" y="0" letter-spacing="-.02em"> </tspan><tspan x="102.68" y="0">-</tspan><tspan x="105.68" y="0" letter-spacing="-.02em"> </tspan><tspan x="108.03" y="0">STATE:</tspan></text>
-  <text transform="translate(283.86 764.82)" font-family="Arial-BoldMT, Arial" font-size="8.4" font-weight="700"><tspan x="0" y="0">Page</tspan><tspan x="20.08" y="0" letter-spacing="0em"> </tspan><tspan x="22.39" y="0">2</tspan><tspan x="27.07" y="0" letter-spacing="0em"> </tspan><tspan x="29.38" y="0" letter-spacing="0em">of</tspan><tspan x="37.31" y="0" letter-spacing="0em"> </tspan><tspan x="39.63" y="0" letter-spacing="0em">4</tspan></text>
-  <text transform="translate(21.6 72)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="700"><tspan x="0" y="0">FOR</tspan><tspan x="19" y="0" xml:space="preserve" letter-spacing="0em">  </tspan><tspan x="23.89" y="0">MULTIPLE</tspan><tspan x="68.89" y="0" letter-spacing="0em"> </tspan><tspan x="71.33" y="0">STATES,</tspan><tspan x="109.34" y="0" letter-spacing="0em"> </tspan><tspan x="111.78" y="0">ATTACH</tspan><tspan x="148.78" y="0" letter-spacing="0em"> </tspan><tspan x="151.22" y="0">AN</tspan><tspan x="164.22" y="0" letter-spacing="0em"> </tspan><tspan x="166.67" y="0">ADDITIONAL</tspan><tspan x="222.16" y="0" letter-spacing="0em"> </tspan><tspan x="224.61" y="0">PAGE</tspan><tspan x="250.11" y="0" letter-spacing="0em"> </tspan><tspan x="252.56" y="0">2</tspan><tspan x="257.57" y="0" letter-spacing="0em"> </tspan><tspan x="260.01" y="0">OF</tspan><tspan x="272.51" y="0" letter-spacing="0em"> </tspan><tspan x="274.96" y="0">THIS</tspan><tspan x="295.46" y="0" letter-spacing="0em"> </tspan><tspan x="297.9" y="0" letter-spacing="0em">FORM</tspan></text>
-  <text transform="translate(242.4 54)" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="700"><tspan x="0" y="0">STATE</tspan><tspan x="29.5" y="0" letter-spacing="-.02em"> </tspan><tspan x="31.86" y="0">RATING</tspan><tspan x="66.35" y="0" letter-spacing="-.02em"> </tspan><tspan x="68.71" y="0" letter-spacing="0em">WORKSHEET</tspan></text>
-  <text transform="translate(21.6 583.98)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0" letter-spacing=".6em">*</tspan><tspan x="5.91" y="0">N</tspan><tspan x="10.24" y="0" letter-spacing=".02em"> </tspan><tspan x="12.03" y="0">/</tspan><tspan x="13.7" y="0" letter-spacing=".02em"> </tspan><tspan x="15.48" y="0">A</tspan><tspan x="19.48" y="0" letter-spacing=".02em"> </tspan><tspan x="21.26" y="0">in</tspan><tspan x="25.93" y="0" letter-spacing=".02em"> </tspan><tspan x="27.72" y="0">Wisconsin</tspan></text>
-  <line x1="18" y1="588" x2="594" y2="588" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".48"/>
-  <text transform="translate(442.26 562.2)" font-family="ArialMT, Arial" font-size="7"><tspan x="0" y="0">N</tspan><tspan x="5.05" y="0" letter-spacing="0em"> </tspan><tspan x="6.97" y="0">/</tspan><tspan x="8.92" y="0" letter-spacing="0em"> </tspan><tspan x="10.83" y="0">A</tspan></text>
-  <text transform="translate(442.26 550.2)" font-family="ArialMT, Arial" font-size="7"><tspan x="0" y="0">N</tspan><tspan x="5.05" y="0" letter-spacing="0em"> </tspan><tspan x="6.97" y="0">/</tspan><tspan x="8.92" y="0" letter-spacing="0em"> </tspan><tspan x="10.83" y="0">A</tspan></text>
-  <text transform="translate(150.66 490.2)" font-family="ArialMT, Arial" font-size="7"><tspan x="0" y="0">N</tspan><tspan x="5.05" y="0" letter-spacing="0em"> </tspan><tspan x="6.97" y="0">/</tspan><tspan x="8.92" y="0" letter-spacing="0em"> </tspan><tspan x="10.83" y="0">A</tspan></text>
-  <text transform="translate(21.6 526.98)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">MODIFICATION</tspan></text>
-  <text transform="translate(306 562.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">TAXES</tspan><tspan x="19.67" y="0" letter-spacing="-.03em"> </tspan><tspan x="21.18" y="0">/</tspan><tspan x="22.85" y="0" letter-spacing="-.03em"> </tspan><tspan x="24.36" y="0">ASSESSMENTS</tspan><tspan x="69.37" y="0" letter-spacing="-.03em"> </tspan><tspan x="70.88" y="0">*</tspan></text>
-  <text transform="translate(501.84 478.44)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">FACTORED</tspan><tspan x="32.78" y="0" letter-spacing="-.06em"> </tspan><tspan x="34.07" y="0">PREMIUM</tspan></text>
-  <text transform="translate(21.6 521.52)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">EXPERIENCE</tspan><tspan x="38.68" y="0" letter-spacing="-.02em"> </tspan><tspan x="40.19" y="0">OR</tspan><tspan x="49.19" y="0" letter-spacing="-.02em"> </tspan><tspan x="50.71" y="0">MERIT</tspan></text>
-  <text transform="translate(437.72 478.44)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">FACTOR</tspan></text>
-  <line x1="302.4" y1="576" x2="302.4" y2="468" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="612" x2="594" y2="612" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <text transform="translate(21.6 607.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">$</tspan></text>
-  <line x1="399.6" y1="588" x2="399.6" y2="612" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(208.8 607.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(403.2 607.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">$</tspan></text>
-  <line x1="205.2" y1="588" x2="205.2" y2="612" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(403.2 595.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">DEPOSIT</tspan><tspan x="26.34" y="0" letter-spacing="-.07em"> </tspan><tspan x="27.58" y="0">PREMIUM</tspan></text>
-  <text transform="translate(208.8 595.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">MINIMUM</tspan><tspan x="26.99" y="0" letter-spacing="-.14em"> </tspan><tspan x="27.83" y="0">PREMIUM</tspan></text>
-  <text transform="translate(21.6 595.98)" font-family="Arial-BoldMT, Arial" font-size="6" font-weight="700"><tspan x="0" y="0">TOTAL</tspan><tspan x="20" y="0" letter-spacing="-.02em"> </tspan><tspan x="21.52" y="0">ESTIMATED</tspan><tspan x="56.19" y="0" letter-spacing="-.02em"> </tspan><tspan x="57.72" y="0">ANNUAL</tspan><tspan x="83.05" y="0" letter-spacing="-.02em"> </tspan><tspan x="84.58" y="0">PREMIUM</tspan></text>
-  <line x1="18" y1="612" x2="18" y2="468" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <text transform="translate(306 525.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">STANDARD</tspan><tspan x="33" y="0" letter-spacing="-.06em"> </tspan><tspan x="34.32" y="0">PREMIUM</tspan></text>
-  <text transform="translate(475.2 525.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="302.4" y1="516" x2="302.4" y2="528" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="528" x2="594" y2="528" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="492" x2="302.4" y2="504" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 501.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="302.4" y1="504" x2="594" y2="504" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(306 502.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">SCHEDULE</tspan><tspan x="32.67" y="0" letter-spacing="-.01em"> </tspan><tspan x="34.26" y="0">RATING</tspan><tspan x="56.93" y="0" letter-spacing="-.01em"> </tspan><tspan x="58.52" y="0">*</tspan></text>
-  <line x1="302.4" y1="504" x2="302.4" y2="516" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 513.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="302.4" y1="516" x2="594" y2="516" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(306 514.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">CCPAP</tspan></text>
-  <line x1="180" y1="468" x2="180" y2="480" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="468" x2="136.8" y2="480" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(210.24 478.44)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">FACTORED</tspan><tspan x="32.78" y="0" letter-spacing="-.06em"> </tspan><tspan x="34.07" y="0">PREMIUM</tspan></text>
-  <text transform="translate(146.12 477.6)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">FACTOR</tspan></text>
-  <line x1="18" y1="480" x2="594" y2="480" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".48"/>
-  <text transform="translate(21.6 478.44)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">STATE:</tspan></text>
-  <line x1="180" y1="480" x2="180" y2="492" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="480" x2="136.8" y2="492" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 489.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(21.6 489.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">TOTAL</tspan></text>
-  <line x1="18" y1="492" x2="302.4" y2="492" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="504" x2="302.4" y2="504" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="492" x2="136.8" y2="504" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="492" x2="180" y2="504" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 501.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(21.6 501.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">INCREASED</tspan><tspan x="35.01" y="0" letter-spacing="-.03em"> </tspan><tspan x="36.47" y="0">LIMITS</tspan></text>
-  <line x1="18" y1="516" x2="302.4" y2="516" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(21.6 513.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">DEDUCTIBLE</tspan><tspan x="38.01" y="0" letter-spacing="-.02em"> </tspan><tspan x="39.56" y="0">*</tspan></text>
-  <text transform="translate(183.6 513.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="136.8" y1="504" x2="136.8" y2="516" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="504" x2="180" y2="516" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 537.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="180" y1="528" x2="180" y2="540" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="528" x2="136.8" y2="540" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="540" x2="302.4" y2="540" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="528" x2="302.4" y2="528" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 525.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="136.8" y1="516" x2="136.8" y2="528" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="516" x2="180" y2="528" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="552" x2="302.4" y2="552" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="540" x2="136.8" y2="552" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="540" x2="180" y2="552" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 549.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="18" y1="564" x2="302.4" y2="564" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="552" x2="136.8" y2="564" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="552" x2="180" y2="564" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 561.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(21.6 561.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">ASSIGNED</tspan><tspan x="31.01" y="0" letter-spacing="-.02em"> </tspan><tspan x="32.54" y="0">RISK</tspan><tspan x="46.54" y="0" letter-spacing="-.02em"> </tspan><tspan x="48.07" y="0">SURCHARGE</tspan><tspan x="86.41" y="0" letter-spacing="-.02em"> </tspan><tspan x="87.94" y="0">*</tspan></text>
-  <line x1="18" y1="576" x2="302.4" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="136.8" y1="564" x2="136.8" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="180" y1="564" x2="180" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(183.6 573.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(21.6 573.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">ARAP</tspan><tspan x="16.34" y="0" letter-spacing="-.03em"> </tspan><tspan x="17.84" y="0">*</tspan></text>
-  <line x1="302.4" y1="492" x2="594" y2="492" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 489.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="302.4" y1="480" x2="302.4" y2="492" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="540" x2="594" y2="540" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="528" x2="302.4" y2="540" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 537.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(306 537.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">PREMIUM</tspan><tspan x="28.33" y="0" letter-spacing="-.04em"> </tspan><tspan x="29.75" y="0">DISCOUNT</tspan></text>
-  <line x1="302.4" y1="552" x2="594" y2="552" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="540" x2="302.4" y2="552" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 549.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <text transform="translate(306 549.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">EXPENSE</tspan><tspan x="28.34" y="0" letter-spacing="-.04em"> </tspan><tspan x="29.78" y="0">CONSTANT</tspan></text>
-  <line x1="302.4" y1="576" x2="594" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 573.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="302.4" y1="564" x2="302.4" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="428.4" y1="468" x2="428.4" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="471.6" y1="468" x2="471.6" y2="576" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="564" x2="594" y2="564" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="302.4" y1="552" x2="302.4" y2="564" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(475.2 561.96)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">$</tspan></text>
-  <line x1="18" y1="468" x2="594" y2="468" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <text transform="translate(21.6 465.84)" font-family="Arial-BoldMT, Arial" font-size="8.4" font-weight="700"><tspan x="0" y="0">PREMIUM</tspan></text>
-  <line x1="594" y1="468" x2="594" y2="612" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <text transform="translate(101.27 106.44)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">DESCR</tspan></text>
-  <text transform="translate(103.08 113.4)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">CODE</tspan></text>
-  <text transform="translate(548.16 102.96)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">ESTIMATED</tspan></text>
-  <text transform="translate(539.4 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">ANNUAL</tspan><tspan x="24.91" y="0" letter-spacing="-.08em"> </tspan><tspan x="26.07" y="0">MANUAL</tspan></text>
-  <text transform="translate(551.27 116.88)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">PREMIUM</tspan></text>
-  <text transform="translate(414.48 102.96)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">ESTIMATED</tspan><tspan x="34.09" y="0" letter-spacing="-.07em"> </tspan><tspan x="35.34" y="0">ANNUAL</tspan></text>
-  <text transform="translate(419.69 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">REMUNERATION/</tspan></text>
-  <text transform="translate(430.51 116.88)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">PAYROLL</tspan></text>
-  <text transform="translate(360.48 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">SI</tspan><tspan x="5.58" y="0" letter-spacing="2.8em">C</tspan><tspan x="26.34" y="0" letter-spacing="0em">NAICS</tspan></text>
-  <line x1="18" y1="120" x2="594" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(23.76 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">LOC</tspan><tspan x="12.45" y="0" letter-spacing="-.01em"> </tspan><tspan x="14.01" y="0">#</tspan></text>
-  <text transform="translate(52.74 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">CLASS</tspan><tspan x="20" y="0" letter-spacing="-.03em"> </tspan><tspan x="21.47" y="0" letter-spacing="0em">CODE</tspan></text>
-  <text transform="translate(148.86 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">CATEGORIES,</tspan><tspan x="40.65" y="0" letter-spacing="-.07em"> </tspan><tspan x="41.91" y="0">DUTIES,</tspan><tspan x="65.18" y="0" letter-spacing="-.06em"> </tspan><tspan x="66.44" y="0" letter-spacing="0em">CLASSIFICATIONS</tspan></text>
-  <text transform="translate(299.52 103.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">#</tspan><tspan x="3.28" y="0" letter-spacing=".02em"> </tspan><tspan x="5.02" y="0" letter-spacing="0em">EMPLOYEES</tspan></text>
-  <text transform="translate(497.77 109.92)" font-family="Arial-BoldMT, Arial" font-size="5.9" font-weight="700"><tspan x="0" y="0">RATE</tspan></text>
-  <text transform="translate(298.66 112.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">FULL</tspan></text>
-  <text transform="translate(298.83 118.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">TIME</tspan></text>
-  <text transform="translate(326.8 112.08)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">PART</tspan></text>
-  <text transform="translate(327.63 118.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">TIME</tspan></text>
-  <line x1="532.8" y1="96" x2="532.8" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="96" x2="478.8" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="96" x2="349.2" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="96" x2="291.6" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="96" x2="126" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="96" x2="97.2" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="96" x2="46.8" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="108" x2="320.4" y2="120" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="120" x2="46.8" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="120" x2="97.2" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="120" x2="126" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="120" x2="291.6" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="120" x2="320.4" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="120" x2="349.2" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="120" x2="478.8" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="144" x2="594" y2="144" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="144" x2="46.8" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="144" x2="97.2" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="144" x2="126" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="144" x2="291.6" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="144" x2="320.4" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="144" x2="349.2" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="144" x2="478.8" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="168" x2="594" y2="168" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="168" x2="46.8" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="168" x2="97.2" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="168" x2="126" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="168" x2="291.6" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="168" x2="320.4" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="168" x2="349.2" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="168" x2="478.8" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="192" x2="594" y2="192" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="192" x2="46.8" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="192" x2="97.2" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="192" x2="126" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="192" x2="291.6" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="192" x2="320.4" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="192" x2="349.2" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="192" x2="478.8" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="216" x2="594" y2="216" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="216" x2="46.8" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="216" x2="97.2" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="216" x2="126" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="216" x2="291.6" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="216" x2="320.4" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="216" x2="349.2" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="216" x2="478.8" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="240" x2="594" y2="240" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="240" x2="46.8" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="240" x2="97.2" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="240" x2="126" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="240" x2="291.6" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="240" x2="320.4" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="240" x2="349.2" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="240" x2="478.8" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="264" x2="594" y2="264" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="264" x2="46.8" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="264" x2="97.2" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="264" x2="126" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="264" x2="291.6" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="264" x2="320.4" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="264" x2="349.2" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="264" x2="478.8" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="288" x2="594" y2="288" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="288" x2="46.8" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="288" x2="97.2" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="288" x2="126" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="288" x2="291.6" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="288" x2="320.4" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="288" x2="349.2" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="288" x2="478.8" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="312" x2="594" y2="312" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="312" x2="46.8" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="312" x2="97.2" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="312" x2="126" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="312" x2="291.6" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="312" x2="320.4" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="312" x2="349.2" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="312" x2="478.8" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="336" x2="594" y2="336" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="336" x2="46.8" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="336" x2="97.2" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="336" x2="126" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="336" x2="291.6" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="336" x2="320.4" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="336" x2="349.2" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="336" x2="478.8" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="360" x2="594" y2="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="360" x2="46.8" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="360" x2="97.2" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="360" x2="126" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="360" x2="291.6" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="360" x2="320.4" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="360" x2="349.2" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="360" x2="478.8" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="384" x2="594" y2="384" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="384" x2="46.8" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="384" x2="97.2" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="384" x2="126" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="384" x2="291.6" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="384" x2="320.4" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="384" x2="349.2" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="384" x2="478.8" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="408" x2="594" y2="408" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="408" x2="46.8" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="408" x2="97.2" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="408" x2="126" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="408" x2="291.6" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="408" x2="320.4" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="408" x2="349.2" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="408" x2="478.8" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="432" x2="594" y2="432" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="46.8" y1="432" x2="46.8" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="97.2" y1="432" x2="97.2" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="126" y1="432" x2="126" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="291.6" y1="432" x2="291.6" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="320.4" y1="432" x2="320.4" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="349.2" y1="432" x2="349.2" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="478.8" y1="432" x2="478.8" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <line x1="18" y1="456" x2="594" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <rect x="18" y="624" width="576" height="132" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <rect x="18" y="42" width="576" height="54" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <text transform="translate(21.6 538.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">TERRORISM</tspan></text>
-  <text transform="translate(21.6 550.44)" font-family="ArialMT, Arial" font-size="6"><tspan x="0" y="0">CATASTROPHE</tspan></text>
-  <text transform="translate(150.66 538.2)" font-family="ArialMT, Arial" font-size="7"><tspan x="0" y="0">N</tspan><tspan x="5.05" y="0" letter-spacing="0em"> </tspan><tspan x="6.97" y="0">/</tspan><tspan x="8.92" y="0" letter-spacing="0em"> </tspan><tspan x="10.83" y="0">A</tspan></text>
-  <text transform="translate(150.66 550.2)" font-family="ArialMT, Arial" font-size="7"><tspan x="0" y="0">N</tspan><tspan x="5.05" y="0" letter-spacing="0em"> </tspan><tspan x="6.97" y="0">/</tspan><tspan x="8.92" y="0" letter-spacing="0em"> </tspan><tspan x="10.83" y="0">A</tspan></text>
-  <line x1="410.4" y1="96" x2="410.4" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <rect x="18" y="96" width="576" height="360" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".96"/>
-  <line x1="381.6" y1="96" x2="381.6" y2="456" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".24"/>
-  <text transform="translate(21.6 764.82)" font-family="Arial-BoldMT, Arial" font-size="8.4" font-weight="700"><tspan x="0" y="0">ACORD</tspan><tspan x="30.8" y="0" letter-spacing="-.01em"> </tspan><tspan x="33.02" y="0">130</tspan><tspan x="47.04" y="0" letter-spacing="-.01em"> </tspan><tspan x="49.26" y="0">(2017/05)</tspan></text>
+  <line
+     x1="414"
+     y1="36"
+     x2="594"
+     y2="36"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".48"
+     id="line27" />
+  <text
+     transform="translate(316.8 33.84)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="8"
+     font-weight="700"
+     id="text32"><tspan
+       x="0"
+       y="0"
+       id="tspan28">AGENCY</tspan><tspan
+       x="34.23"
+       y="0"
+       letter-spacing="0em"
+       id="tspan29" /><tspan
+       x="36.46"
+       y="0"
+       id="tspan30">CUSTOMER</tspan><tspan
+       x="82.24"
+       y="0"
+       letter-spacing="0em"
+       id="tspan31" /><tspan
+       x="84.47"
+       y="0"
+       id="tspan32">ID:</tspan></text>
+  <line
+     x1="180"
+     y1="36"
+     x2="201.6"
+     y2="36"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line32" />
+  <text
+     transform="translate(162 33)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="9"
+     font-weight="700"
+     id="text35"><tspan
+       x="0"
+       y="0"
+       id="tspan33">O</tspan><tspan
+       x="7"
+       y="0"
+       letter-spacing="3.41em"
+       id="tspan34">F</tspan><tspan
+       x="43.2"
+       y="0"
+       id="tspan35">SHEETS</tspan></text>
+  <line
+     x1="133.2"
+     y1="36"
+     x2="154.8"
+     y2="36"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line35" />
+  <text
+     transform="translate(18 33)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="9"
+     font-weight="700"
+     id="text42"><tspan
+       x="0"
+       y="0"
+       id="tspan36">STATE</tspan><tspan
+       x="29.5"
+       y="0"
+       letter-spacing="0em"
+       id="tspan37" /><tspan
+       x="31.94"
+       y="0"
+       id="tspan38">RATING</tspan><tspan
+       x="66.44"
+       y="0"
+       letter-spacing="0em"
+       id="tspan39" /><tspan
+       x="68.87"
+       y="0"
+       id="tspan40">SHEET</tspan><tspan
+       x="98.88"
+       y="0"
+       letter-spacing="0em"
+       id="tspan41" /><tspan
+       x="101.32"
+       y="0"
+       id="tspan42">#</tspan></text>
+  <text
+     transform="translate(283.86 764.82)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="8.4"
+     font-weight="700"
+     id="text56"><tspan
+       x="0"
+       y="0"
+       id="tspan50">Page</tspan><tspan
+       x="20.08"
+       y="0"
+       letter-spacing="0em"
+       id="tspan51" /><tspan
+       x="22.39"
+       y="0"
+       id="tspan52">2</tspan><tspan
+       x="27.07"
+       y="0"
+       letter-spacing="0em"
+       id="tspan53" /><tspan
+       x="29.38"
+       y="0"
+       letter-spacing="0em"
+       id="tspan54">of</tspan><tspan
+       x="37.31"
+       y="0"
+       letter-spacing="0em"
+       id="tspan55" /><tspan
+       x="39.63"
+       y="0"
+       letter-spacing="0em"
+       id="tspan56">4</tspan></text>
+  <text
+     transform="translate(242.4 54)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="9"
+     font-weight="700"
+     id="text82"><tspan
+       x="0"
+       y="0"
+       id="tspan78">STATE</tspan><tspan
+       x="29.5"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan79" /><tspan
+       x="31.86"
+       y="0"
+       id="tspan80">RATING</tspan><tspan
+       x="66.35"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan81" /><tspan
+       x="68.71"
+       y="0"
+       letter-spacing="0em"
+       id="tspan82">WORKSHEET</tspan></text>
+  <text
+     transform="translate(21.6 583.98)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text92"><tspan
+       x="0"
+       y="0"
+       letter-spacing=".6em"
+       id="tspan83">*</tspan><tspan
+       x="5.91"
+       y="0"
+       id="tspan84">N</tspan><tspan
+       x="10.24"
+       y="0"
+       letter-spacing=".02em"
+       id="tspan85" /><tspan
+       x="12.03"
+       y="0"
+       id="tspan86">/</tspan><tspan
+       x="13.7"
+       y="0"
+       letter-spacing=".02em"
+       id="tspan87" /><tspan
+       x="15.48"
+       y="0"
+       id="tspan88">A</tspan><tspan
+       x="19.48"
+       y="0"
+       letter-spacing=".02em"
+       id="tspan89" /><tspan
+       x="21.26"
+       y="0"
+       id="tspan90">in</tspan><tspan
+       x="25.93"
+       y="0"
+       letter-spacing=".02em"
+       id="tspan91" /><tspan
+       x="27.72"
+       y="0"
+       id="tspan92">Wisconsin</tspan></text>
+  <line
+     x1="18"
+     y1="588"
+     x2="594"
+     y2="588"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".48"
+     id="line92" />
+  <text
+     transform="translate(442.26 562.2)"
+     font-family="ArialMT, Arial"
+     font-size="7"
+     id="text97"><tspan
+       x="0"
+       y="0"
+       id="tspan93">N</tspan><tspan
+       x="5.05"
+       y="0"
+       letter-spacing="0em"
+       id="tspan94" /><tspan
+       x="6.97"
+       y="0"
+       id="tspan95">/</tspan><tspan
+       x="8.92"
+       y="0"
+       letter-spacing="0em"
+       id="tspan96" /><tspan
+       x="10.83"
+       y="0"
+       id="tspan97">A</tspan></text>
+  <text
+     transform="translate(442.26 550.2)"
+     font-family="ArialMT, Arial"
+     font-size="7"
+     id="text102"><tspan
+       x="0"
+       y="0"
+       id="tspan98">N</tspan><tspan
+       x="5.05"
+       y="0"
+       letter-spacing="0em"
+       id="tspan99" /><tspan
+       x="6.97"
+       y="0"
+       id="tspan100">/</tspan><tspan
+       x="8.92"
+       y="0"
+       letter-spacing="0em"
+       id="tspan101" /><tspan
+       x="10.83"
+       y="0"
+       id="tspan102">A</tspan></text>
+  <text
+     transform="translate(150.66 490.2)"
+     font-family="ArialMT, Arial"
+     font-size="7"
+     id="text107"><tspan
+       x="0"
+       y="0"
+       id="tspan103">N</tspan><tspan
+       x="5.05"
+       y="0"
+       letter-spacing="0em"
+       id="tspan104" /><tspan
+       x="6.97"
+       y="0"
+       id="tspan105">/</tspan><tspan
+       x="8.92"
+       y="0"
+       letter-spacing="0em"
+       id="tspan106" /><tspan
+       x="10.83"
+       y="0"
+       id="tspan107">A</tspan></text>
+  <text
+     transform="translate(21.6 526.98)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text108"><tspan
+       x="0"
+       y="0"
+       id="tspan108">MODIFICATION</tspan></text>
+  <text
+     transform="translate(306 562.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text115"><tspan
+       x="0"
+       y="0"
+       id="tspan109">TAXES</tspan><tspan
+       x="19.67"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan110" /><tspan
+       x="21.18"
+       y="0"
+       id="tspan111">/</tspan><tspan
+       x="22.85"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan112" /><tspan
+       x="24.36"
+       y="0"
+       id="tspan113">ASSESSMENTS</tspan><tspan
+       x="69.37"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan114" /><tspan
+       x="70.88"
+       y="0"
+       id="tspan115">*</tspan></text>
+  <text
+     transform="translate(501.84 478.44)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text118"><tspan
+       x="0"
+       y="0"
+       id="tspan116">FACTORED</tspan><tspan
+       x="32.78"
+       y="0"
+       letter-spacing="-.06em"
+       id="tspan117" /><tspan
+       x="34.07"
+       y="0"
+       id="tspan118">PREMIUM</tspan></text>
+  <text
+     transform="translate(21.6 521.52)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text123"><tspan
+       x="0"
+       y="0"
+       id="tspan119">EXPERIENCE</tspan><tspan
+       x="38.68"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan120" /><tspan
+       x="40.19"
+       y="0"
+       id="tspan121">OR</tspan><tspan
+       x="49.19"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan122" /><tspan
+       x="50.71"
+       y="0"
+       id="tspan123">MERIT</tspan></text>
+  <text
+     transform="translate(437.72 478.44)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text124"><tspan
+       x="0"
+       y="0"
+       id="tspan124">FACTOR</tspan></text>
+  <line
+     x1="302.4"
+     y1="576"
+     x2="302.4"
+     y2="468"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line124" />
+  <line
+     x1="18"
+     y1="612"
+     x2="594"
+     y2="612"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="line125" />
+  <text
+     transform="translate(21.6 607.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text125"><tspan
+       x="0"
+       y="0"
+       id="tspan125">$</tspan></text>
+  <line
+     x1="399.6"
+     y1="588"
+     x2="399.6"
+     y2="612"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line126" />
+  <text
+     transform="translate(208.8 607.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text126"><tspan
+       x="0"
+       y="0"
+       id="tspan126">$</tspan></text>
+  <text
+     transform="translate(403.2 607.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text127"><tspan
+       x="0"
+       y="0"
+       id="tspan127">$</tspan></text>
+  <line
+     x1="205.2"
+     y1="588"
+     x2="205.2"
+     y2="612"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line127" />
+  <text
+     transform="translate(403.2 595.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text130"><tspan
+       x="0"
+       y="0"
+       id="tspan128">DEPOSIT</tspan><tspan
+       x="26.34"
+       y="0"
+       letter-spacing="-.07em"
+       id="tspan129" /><tspan
+       x="27.58"
+       y="0"
+       id="tspan130">PREMIUM</tspan></text>
+  <text
+     transform="translate(208.8 595.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text133"><tspan
+       x="0"
+       y="0"
+       id="tspan131">MINIMUM</tspan><tspan
+       x="26.99"
+       y="0"
+       letter-spacing="-.14em"
+       id="tspan132" /><tspan
+       x="27.83"
+       y="0"
+       id="tspan133">PREMIUM</tspan></text>
+  <text
+     transform="translate(21.6 595.98)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="6"
+     font-weight="700"
+     id="text140"><tspan
+       x="0"
+       y="0"
+       id="tspan134">TOTAL</tspan><tspan
+       x="20"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan135" /><tspan
+       x="21.52"
+       y="0"
+       id="tspan136">ESTIMATED</tspan><tspan
+       x="56.19"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan137" /><tspan
+       x="57.72"
+       y="0"
+       id="tspan138">ANNUAL</tspan><tspan
+       x="83.05"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan139" /><tspan
+       x="84.58"
+       y="0"
+       id="tspan140">PREMIUM</tspan></text>
+  <line
+     x1="18"
+     y1="612"
+     x2="18"
+     y2="468"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="line140" />
+  <text
+     transform="translate(306 525.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text143"><tspan
+       x="0"
+       y="0"
+       id="tspan141">STANDARD</tspan><tspan
+       x="33"
+       y="0"
+       letter-spacing="-.06em"
+       id="tspan142" /><tspan
+       x="34.32"
+       y="0"
+       id="tspan143">PREMIUM</tspan></text>
+  <text
+     transform="translate(475.2 525.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text144"><tspan
+       x="0"
+       y="0"
+       id="tspan144">$</tspan></text>
+  <line
+     x1="302.4"
+     y1="516"
+     x2="302.4"
+     y2="528"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line144" />
+  <line
+     x1="302.4"
+     y1="528"
+     x2="594"
+     y2="528"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line145" />
+  <line
+     x1="302.4"
+     y1="492"
+     x2="302.4"
+     y2="504"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line146" />
+  <text
+     transform="translate(475.2 501.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text146"><tspan
+       x="0"
+       y="0"
+       id="tspan146">$</tspan></text>
+  <line
+     x1="302.4"
+     y1="504"
+     x2="594"
+     y2="504"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line147" />
+  <text
+     transform="translate(306 502.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text151"><tspan
+       x="0"
+       y="0"
+       id="tspan147">SCHEDULE</tspan><tspan
+       x="32.67"
+       y="0"
+       letter-spacing="-.01em"
+       id="tspan148" /><tspan
+       x="34.26"
+       y="0"
+       id="tspan149">RATING</tspan><tspan
+       x="56.93"
+       y="0"
+       letter-spacing="-.01em"
+       id="tspan150" /><tspan
+       x="58.52"
+       y="0"
+       id="tspan151">*</tspan></text>
+  <line
+     x1="302.4"
+     y1="504"
+     x2="302.4"
+     y2="516"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line151" />
+  <text
+     transform="translate(475.2 513.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text152"><tspan
+       x="0"
+       y="0"
+       id="tspan152">$</tspan></text>
+  <line
+     x1="302.4"
+     y1="516"
+     x2="594"
+     y2="516"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line152" />
+  <text
+     transform="translate(306 514.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text153"><tspan
+       x="0"
+       y="0"
+       id="tspan153">CCPAP</tspan></text>
+  <line
+     x1="180"
+     y1="468"
+     x2="180"
+     y2="480"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line153" />
+  <line
+     x1="136.8"
+     y1="468"
+     x2="136.8"
+     y2="480"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line154" />
+  <text
+     transform="translate(210.24 478.44)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text156"><tspan
+       x="0"
+       y="0"
+       id="tspan154">FACTORED</tspan><tspan
+       x="32.78"
+       y="0"
+       letter-spacing="-.06em"
+       id="tspan155" /><tspan
+       x="34.07"
+       y="0"
+       id="tspan156">PREMIUM</tspan></text>
+  <text
+     transform="translate(146.12 477.6)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text157"><tspan
+       x="0"
+       y="0"
+       id="tspan157">FACTOR</tspan></text>
+  <line
+     x1="18"
+     y1="480"
+     x2="594"
+     y2="480"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".48"
+     id="line157" />
+  <text
+     transform="translate(21.6 478.44)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text158"><tspan
+       x="0"
+       y="0"
+       id="tspan158">STATE:</tspan></text>
+  <line
+     x1="180"
+     y1="480"
+     x2="180"
+     y2="492"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line158" />
+  <line
+     x1="136.8"
+     y1="480"
+     x2="136.8"
+     y2="492"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line159" />
+  <text
+     transform="translate(183.6 489.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text159"><tspan
+       x="0"
+       y="0"
+       id="tspan159">$</tspan></text>
+  <text
+     transform="translate(21.6 489.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text160"><tspan
+       x="0"
+       y="0"
+       id="tspan160">TOTAL</tspan></text>
+  <line
+     x1="18"
+     y1="492"
+     x2="302.4"
+     y2="492"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line160" />
+  <line
+     x1="18"
+     y1="504"
+     x2="302.4"
+     y2="504"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line161" />
+  <line
+     x1="136.8"
+     y1="492"
+     x2="136.8"
+     y2="504"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line162" />
+  <line
+     x1="180"
+     y1="492"
+     x2="180"
+     y2="504"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line163" />
+  <text
+     transform="translate(183.6 501.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text163"><tspan
+       x="0"
+       y="0"
+       id="tspan163">$</tspan></text>
+  <text
+     transform="translate(21.6 501.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text166"><tspan
+       x="0"
+       y="0"
+       id="tspan164">INCREASED</tspan><tspan
+       x="35.01"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan165" /><tspan
+       x="36.47"
+       y="0"
+       id="tspan166">LIMITS</tspan></text>
+  <line
+     x1="18"
+     y1="516"
+     x2="302.4"
+     y2="516"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line166" />
+  <text
+     transform="translate(21.6 513.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text169"><tspan
+       x="0"
+       y="0"
+       id="tspan167">DEDUCTIBLE</tspan><tspan
+       x="38.01"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan168" /><tspan
+       x="39.56"
+       y="0"
+       id="tspan169">*</tspan></text>
+  <text
+     transform="translate(183.6 513.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text170"><tspan
+       x="0"
+       y="0"
+       id="tspan170">$</tspan></text>
+  <line
+     x1="136.8"
+     y1="504"
+     x2="136.8"
+     y2="516"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line170" />
+  <line
+     x1="180"
+     y1="504"
+     x2="180"
+     y2="516"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line171" />
+  <text
+     transform="translate(183.6 537.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text171"><tspan
+       x="0"
+       y="0"
+       id="tspan171">$</tspan></text>
+  <line
+     x1="180"
+     y1="528"
+     x2="180"
+     y2="540"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line172" />
+  <line
+     x1="136.8"
+     y1="528"
+     x2="136.8"
+     y2="540"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line173" />
+  <line
+     x1="18"
+     y1="540"
+     x2="302.4"
+     y2="540"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line174" />
+  <line
+     x1="18"
+     y1="528"
+     x2="302.4"
+     y2="528"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line175" />
+  <text
+     transform="translate(183.6 525.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text175"><tspan
+       x="0"
+       y="0"
+       id="tspan175">$</tspan></text>
+  <line
+     x1="136.8"
+     y1="516"
+     x2="136.8"
+     y2="528"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line176" />
+  <line
+     x1="180"
+     y1="516"
+     x2="180"
+     y2="528"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line177" />
+  <line
+     x1="18"
+     y1="552"
+     x2="302.4"
+     y2="552"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line178" />
+  <line
+     x1="136.8"
+     y1="540"
+     x2="136.8"
+     y2="552"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line179" />
+  <line
+     x1="180"
+     y1="540"
+     x2="180"
+     y2="552"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line180" />
+  <text
+     transform="translate(183.6 549.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text180"><tspan
+       x="0"
+       y="0"
+       id="tspan180">$</tspan></text>
+  <line
+     x1="18"
+     y1="564"
+     x2="302.4"
+     y2="564"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line181" />
+  <line
+     x1="136.8"
+     y1="552"
+     x2="136.8"
+     y2="564"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line182" />
+  <line
+     x1="180"
+     y1="552"
+     x2="180"
+     y2="564"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line183" />
+  <text
+     transform="translate(183.6 561.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text183"><tspan
+       x="0"
+       y="0"
+       id="tspan183">$</tspan></text>
+  <text
+     transform="translate(21.6 561.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text190"><tspan
+       x="0"
+       y="0"
+       id="tspan184">ASSIGNED</tspan><tspan
+       x="31.01"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan185" /><tspan
+       x="32.54"
+       y="0"
+       id="tspan186">RISK</tspan><tspan
+       x="46.54"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan187" /><tspan
+       x="48.07"
+       y="0"
+       id="tspan188">SURCHARGE</tspan><tspan
+       x="86.41"
+       y="0"
+       letter-spacing="-.02em"
+       id="tspan189" /><tspan
+       x="87.94"
+       y="0"
+       id="tspan190">*</tspan></text>
+  <line
+     x1="18"
+     y1="576"
+     x2="302.4"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line190" />
+  <line
+     x1="136.8"
+     y1="564"
+     x2="136.8"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line191" />
+  <line
+     x1="180"
+     y1="564"
+     x2="180"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line192" />
+  <text
+     transform="translate(183.6 573.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text192"><tspan
+       x="0"
+       y="0"
+       id="tspan192">$</tspan></text>
+  <text
+     transform="translate(21.6 573.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text195"><tspan
+       x="0"
+       y="0"
+       id="tspan193">ARAP</tspan><tspan
+       x="16.34"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan194" /><tspan
+       x="17.84"
+       y="0"
+       id="tspan195">*</tspan></text>
+  <line
+     x1="302.4"
+     y1="492"
+     x2="594"
+     y2="492"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line195" />
+  <text
+     transform="translate(475.2 489.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text196"><tspan
+       x="0"
+       y="0"
+       id="tspan196">$</tspan></text>
+  <line
+     x1="302.4"
+     y1="480"
+     x2="302.4"
+     y2="492"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line196" />
+  <line
+     x1="302.4"
+     y1="540"
+     x2="594"
+     y2="540"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line197" />
+  <line
+     x1="302.4"
+     y1="528"
+     x2="302.4"
+     y2="540"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line198" />
+  <text
+     transform="translate(475.2 537.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text198"><tspan
+       x="0"
+       y="0"
+       id="tspan198">$</tspan></text>
+  <text
+     transform="translate(306 537.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text201"><tspan
+       x="0"
+       y="0"
+       id="tspan199">PREMIUM</tspan><tspan
+       x="28.33"
+       y="0"
+       letter-spacing="-.04em"
+       id="tspan200" /><tspan
+       x="29.75"
+       y="0"
+       id="tspan201">DISCOUNT</tspan></text>
+  <line
+     x1="302.4"
+     y1="552"
+     x2="594"
+     y2="552"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line201" />
+  <line
+     x1="302.4"
+     y1="540"
+     x2="302.4"
+     y2="552"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line202" />
+  <text
+     transform="translate(475.2 549.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text202"><tspan
+       x="0"
+       y="0"
+       id="tspan202">$</tspan></text>
+  <text
+     transform="translate(306 549.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text205"><tspan
+       x="0"
+       y="0"
+       id="tspan203">EXPENSE</tspan><tspan
+       x="28.34"
+       y="0"
+       letter-spacing="-.04em"
+       id="tspan204" /><tspan
+       x="29.78"
+       y="0"
+       id="tspan205">CONSTANT</tspan></text>
+  <line
+     x1="302.4"
+     y1="576"
+     x2="594"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line205" />
+  <text
+     transform="translate(475.2 573.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text206"><tspan
+       x="0"
+       y="0"
+       id="tspan206">$</tspan></text>
+  <line
+     x1="302.4"
+     y1="564"
+     x2="302.4"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line206" />
+  <line
+     x1="428.4"
+     y1="468"
+     x2="428.4"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line207" />
+  <line
+     x1="471.6"
+     y1="468"
+     x2="471.6"
+     y2="576"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line208" />
+  <line
+     x1="302.4"
+     y1="564"
+     x2="594"
+     y2="564"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line209" />
+  <line
+     x1="302.4"
+     y1="552"
+     x2="302.4"
+     y2="564"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line210" />
+  <text
+     transform="translate(475.2 561.96)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text210"><tspan
+       x="0"
+       y="0"
+       id="tspan210">$</tspan></text>
+  <line
+     x1="18"
+     y1="468"
+     x2="594"
+     y2="468"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="line211" />
+  <text
+     transform="translate(21.6 465.84)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="8.4"
+     font-weight="700"
+     id="text211"><tspan
+       x="0"
+       y="0"
+       id="tspan211">PREMIUM</tspan></text>
+  <line
+     x1="594"
+     y1="468"
+     x2="594"
+     y2="612"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="line212" />
+  <text
+     transform="translate(101.27 106.44)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text212"><tspan
+       x="0"
+       y="0"
+       id="tspan212">DESCR</tspan></text>
+  <text
+     transform="translate(103.08 113.4)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text213"><tspan
+       x="0"
+       y="0"
+       id="tspan213">CODE</tspan></text>
+  <text
+     transform="translate(548.16 102.96)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text214"><tspan
+       x="0"
+       y="0"
+       id="tspan214">ESTIMATED</tspan></text>
+  <text
+     transform="translate(539.4 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text217"><tspan
+       x="0"
+       y="0"
+       id="tspan215">ANNUAL</tspan><tspan
+       x="24.91"
+       y="0"
+       letter-spacing="-.08em"
+       id="tspan216" /><tspan
+       x="26.07"
+       y="0"
+       id="tspan217">MANUAL</tspan></text>
+  <text
+     transform="translate(551.27 116.88)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text218"><tspan
+       x="0"
+       y="0"
+       id="tspan218">PREMIUM</tspan></text>
+  <text
+     transform="translate(414.48 102.96)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text221"><tspan
+       x="0"
+       y="0"
+       id="tspan219">ESTIMATED</tspan><tspan
+       x="34.09"
+       y="0"
+       letter-spacing="-.07em"
+       id="tspan220" /><tspan
+       x="35.34"
+       y="0"
+       id="tspan221">ANNUAL</tspan></text>
+  <text
+     transform="translate(419.69 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text222"><tspan
+       x="0"
+       y="0"
+       id="tspan222">REMUNERATION/</tspan></text>
+  <text
+     transform="translate(430.51 116.88)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text223"><tspan
+       x="0"
+       y="0"
+       id="tspan223">PAYROLL</tspan></text>
+  <text
+     transform="translate(360.48 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text226"><tspan
+       x="0"
+       y="0"
+       id="tspan224">SI</tspan><tspan
+       x="5.58"
+       y="0"
+       letter-spacing="2.8em"
+       id="tspan225">C</tspan><tspan
+       x="26.34"
+       y="0"
+       letter-spacing="0em"
+       id="tspan226">NAICS</tspan></text>
+  <line
+     x1="18"
+     y1="120"
+     x2="594"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line226" />
+  <text
+     transform="translate(23.76 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text229"><tspan
+       x="0"
+       y="0"
+       id="tspan227">LOC</tspan><tspan
+       x="12.45"
+       y="0"
+       letter-spacing="-.01em"
+       id="tspan228" /><tspan
+       x="14.01"
+       y="0"
+       id="tspan229">#</tspan></text>
+  <text
+     transform="translate(52.74 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text232"><tspan
+       x="0"
+       y="0"
+       id="tspan230">CLASS</tspan><tspan
+       x="20"
+       y="0"
+       letter-spacing="-.03em"
+       id="tspan231" /><tspan
+       x="21.47"
+       y="0"
+       letter-spacing="0em"
+       id="tspan232">CODE</tspan></text>
+  <text
+     transform="translate(148.86 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text237"><tspan
+       x="0"
+       y="0"
+       id="tspan233">CATEGORIES,</tspan><tspan
+       x="40.65"
+       y="0"
+       letter-spacing="-.07em"
+       id="tspan234" /><tspan
+       x="41.91"
+       y="0"
+       id="tspan235">DUTIES,</tspan><tspan
+       x="65.18"
+       y="0"
+       letter-spacing="-.06em"
+       id="tspan236" /><tspan
+       x="66.44"
+       y="0"
+       letter-spacing="0em"
+       id="tspan237">CLASSIFICATIONS</tspan></text>
+  <text
+     transform="translate(299.52 103.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text240"><tspan
+       x="0"
+       y="0"
+       id="tspan238">#</tspan><tspan
+       x="3.28"
+       y="0"
+       letter-spacing=".02em"
+       id="tspan239" /><tspan
+       x="5.02"
+       y="0"
+       letter-spacing="0em"
+       id="tspan240">EMPLOYEES</tspan></text>
+  <text
+     transform="translate(497.77 109.92)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="5.9"
+     font-weight="700"
+     id="text241"><tspan
+       x="0"
+       y="0"
+       id="tspan241">RATE</tspan></text>
+  <text
+     transform="translate(298.66 112.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text242"><tspan
+       x="0"
+       y="0"
+       id="tspan242">FULL</tspan></text>
+  <text
+     transform="translate(298.83 118.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text243"><tspan
+       x="0"
+       y="0"
+       id="tspan243">TIME</tspan></text>
+  <text
+     transform="translate(326.8 112.08)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text244"><tspan
+       x="0"
+       y="0"
+       id="tspan244">PART</tspan></text>
+  <text
+     transform="translate(327.63 118.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text245"><tspan
+       x="0"
+       y="0"
+       id="tspan245">TIME</tspan></text>
+  <line
+     x1="532.8"
+     y1="96"
+     x2="532.8"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line245" />
+  <line
+     x1="478.8"
+     y1="96"
+     x2="478.8"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line246" />
+  <line
+     x1="349.2"
+     y1="96"
+     x2="349.2"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line247" />
+  <line
+     x1="291.6"
+     y1="96"
+     x2="291.6"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line248" />
+  <line
+     x1="126"
+     y1="96"
+     x2="126"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line249" />
+  <line
+     x1="97.2"
+     y1="96"
+     x2="97.2"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line250" />
+  <line
+     x1="46.8"
+     y1="96"
+     x2="46.8"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line251" />
+  <line
+     x1="320.4"
+     y1="108"
+     x2="320.4"
+     y2="120"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line252" />
+  <line
+     x1="46.8"
+     y1="120"
+     x2="46.8"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line253" />
+  <line
+     x1="97.2"
+     y1="120"
+     x2="97.2"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line254" />
+  <line
+     x1="126"
+     y1="120"
+     x2="126"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line255" />
+  <line
+     x1="291.6"
+     y1="120"
+     x2="291.6"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line256" />
+  <line
+     x1="320.4"
+     y1="120"
+     x2="320.4"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line257" />
+  <line
+     x1="349.2"
+     y1="120"
+     x2="349.2"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line258" />
+  <line
+     x1="478.8"
+     y1="120"
+     x2="478.8"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line259" />
+  <line
+     x1="18"
+     y1="144"
+     x2="594"
+     y2="144"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line260" />
+  <line
+     x1="46.8"
+     y1="144"
+     x2="46.8"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line261" />
+  <line
+     x1="97.2"
+     y1="144"
+     x2="97.2"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line262" />
+  <line
+     x1="126"
+     y1="144"
+     x2="126"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line263" />
+  <line
+     x1="291.6"
+     y1="144"
+     x2="291.6"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line264" />
+  <line
+     x1="320.4"
+     y1="144"
+     x2="320.4"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line265" />
+  <line
+     x1="349.2"
+     y1="144"
+     x2="349.2"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line266" />
+  <line
+     x1="478.8"
+     y1="144"
+     x2="478.8"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line267" />
+  <line
+     x1="18"
+     y1="168"
+     x2="594"
+     y2="168"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line268" />
+  <line
+     x1="46.8"
+     y1="168"
+     x2="46.8"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line269" />
+  <line
+     x1="97.2"
+     y1="168"
+     x2="97.2"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line270" />
+  <line
+     x1="126"
+     y1="168"
+     x2="126"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line271" />
+  <line
+     x1="291.6"
+     y1="168"
+     x2="291.6"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line272" />
+  <line
+     x1="320.4"
+     y1="168"
+     x2="320.4"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line273" />
+  <line
+     x1="349.2"
+     y1="168"
+     x2="349.2"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line274" />
+  <line
+     x1="478.8"
+     y1="168"
+     x2="478.8"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line275" />
+  <line
+     x1="18"
+     y1="192"
+     x2="594"
+     y2="192"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line276" />
+  <line
+     x1="46.8"
+     y1="192"
+     x2="46.8"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line277" />
+  <line
+     x1="97.2"
+     y1="192"
+     x2="97.2"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line278" />
+  <line
+     x1="126"
+     y1="192"
+     x2="126"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line279" />
+  <line
+     x1="291.6"
+     y1="192"
+     x2="291.6"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line280" />
+  <line
+     x1="320.4"
+     y1="192"
+     x2="320.4"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line281" />
+  <line
+     x1="349.2"
+     y1="192"
+     x2="349.2"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line282" />
+  <line
+     x1="478.8"
+     y1="192"
+     x2="478.8"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line283" />
+  <line
+     x1="18"
+     y1="216"
+     x2="594"
+     y2="216"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line284" />
+  <line
+     x1="46.8"
+     y1="216"
+     x2="46.8"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line285" />
+  <line
+     x1="97.2"
+     y1="216"
+     x2="97.2"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line286" />
+  <line
+     x1="126"
+     y1="216"
+     x2="126"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line287" />
+  <line
+     x1="291.6"
+     y1="216"
+     x2="291.6"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line288" />
+  <line
+     x1="320.4"
+     y1="216"
+     x2="320.4"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line289" />
+  <line
+     x1="349.2"
+     y1="216"
+     x2="349.2"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line290" />
+  <line
+     x1="478.8"
+     y1="216"
+     x2="478.8"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line291" />
+  <line
+     x1="18"
+     y1="240"
+     x2="594"
+     y2="240"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line292" />
+  <line
+     x1="46.8"
+     y1="240"
+     x2="46.8"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line293" />
+  <line
+     x1="97.2"
+     y1="240"
+     x2="97.2"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line294" />
+  <line
+     x1="126"
+     y1="240"
+     x2="126"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line295" />
+  <line
+     x1="291.6"
+     y1="240"
+     x2="291.6"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line296" />
+  <line
+     x1="320.4"
+     y1="240"
+     x2="320.4"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line297" />
+  <line
+     x1="349.2"
+     y1="240"
+     x2="349.2"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line298" />
+  <line
+     x1="478.8"
+     y1="240"
+     x2="478.8"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line299" />
+  <line
+     x1="18"
+     y1="264"
+     x2="594"
+     y2="264"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line300" />
+  <line
+     x1="46.8"
+     y1="264"
+     x2="46.8"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line301" />
+  <line
+     x1="97.2"
+     y1="264"
+     x2="97.2"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line302" />
+  <line
+     x1="126"
+     y1="264"
+     x2="126"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line303" />
+  <line
+     x1="291.6"
+     y1="264"
+     x2="291.6"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line304" />
+  <line
+     x1="320.4"
+     y1="264"
+     x2="320.4"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line305" />
+  <line
+     x1="349.2"
+     y1="264"
+     x2="349.2"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line306" />
+  <line
+     x1="478.8"
+     y1="264"
+     x2="478.8"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line307" />
+  <line
+     x1="18"
+     y1="288"
+     x2="594"
+     y2="288"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line308" />
+  <line
+     x1="46.8"
+     y1="288"
+     x2="46.8"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line309" />
+  <line
+     x1="97.2"
+     y1="288"
+     x2="97.2"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line310" />
+  <line
+     x1="126"
+     y1="288"
+     x2="126"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line311" />
+  <line
+     x1="291.6"
+     y1="288"
+     x2="291.6"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line312" />
+  <line
+     x1="320.4"
+     y1="288"
+     x2="320.4"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line313" />
+  <line
+     x1="349.2"
+     y1="288"
+     x2="349.2"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line314" />
+  <line
+     x1="478.8"
+     y1="288"
+     x2="478.8"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line315" />
+  <line
+     x1="18"
+     y1="312"
+     x2="594"
+     y2="312"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line316" />
+  <line
+     x1="46.8"
+     y1="312"
+     x2="46.8"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line317" />
+  <line
+     x1="97.2"
+     y1="312"
+     x2="97.2"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line318" />
+  <line
+     x1="126"
+     y1="312"
+     x2="126"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line319" />
+  <line
+     x1="291.6"
+     y1="312"
+     x2="291.6"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line320" />
+  <line
+     x1="320.4"
+     y1="312"
+     x2="320.4"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line321" />
+  <line
+     x1="349.2"
+     y1="312"
+     x2="349.2"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line322" />
+  <line
+     x1="478.8"
+     y1="312"
+     x2="478.8"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line323" />
+  <line
+     x1="18"
+     y1="336"
+     x2="594"
+     y2="336"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line324" />
+  <line
+     x1="46.8"
+     y1="336"
+     x2="46.8"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line325" />
+  <line
+     x1="97.2"
+     y1="336"
+     x2="97.2"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line326" />
+  <line
+     x1="126"
+     y1="336"
+     x2="126"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line327" />
+  <line
+     x1="291.6"
+     y1="336"
+     x2="291.6"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line328" />
+  <line
+     x1="320.4"
+     y1="336"
+     x2="320.4"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line329" />
+  <line
+     x1="349.2"
+     y1="336"
+     x2="349.2"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line330" />
+  <line
+     x1="478.8"
+     y1="336"
+     x2="478.8"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line331" />
+  <line
+     x1="18"
+     y1="360"
+     x2="594"
+     y2="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line332" />
+  <line
+     x1="46.8"
+     y1="360"
+     x2="46.8"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line333" />
+  <line
+     x1="97.2"
+     y1="360"
+     x2="97.2"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line334" />
+  <line
+     x1="126"
+     y1="360"
+     x2="126"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line335" />
+  <line
+     x1="291.6"
+     y1="360"
+     x2="291.6"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line336" />
+  <line
+     x1="320.4"
+     y1="360"
+     x2="320.4"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line337" />
+  <line
+     x1="349.2"
+     y1="360"
+     x2="349.2"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line338" />
+  <line
+     x1="478.8"
+     y1="360"
+     x2="478.8"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line339" />
+  <line
+     x1="18"
+     y1="384"
+     x2="594"
+     y2="384"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line340" />
+  <line
+     x1="46.8"
+     y1="384"
+     x2="46.8"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line341" />
+  <line
+     x1="97.2"
+     y1="384"
+     x2="97.2"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line342" />
+  <line
+     x1="126"
+     y1="384"
+     x2="126"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line343" />
+  <line
+     x1="291.6"
+     y1="384"
+     x2="291.6"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line344" />
+  <line
+     x1="320.4"
+     y1="384"
+     x2="320.4"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line345" />
+  <line
+     x1="349.2"
+     y1="384"
+     x2="349.2"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line346" />
+  <line
+     x1="478.8"
+     y1="384"
+     x2="478.8"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line347" />
+  <line
+     x1="18"
+     y1="408"
+     x2="594"
+     y2="408"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line348" />
+  <line
+     x1="46.8"
+     y1="408"
+     x2="46.8"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line349" />
+  <line
+     x1="97.2"
+     y1="408"
+     x2="97.2"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line350" />
+  <line
+     x1="126"
+     y1="408"
+     x2="126"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line351" />
+  <line
+     x1="291.6"
+     y1="408"
+     x2="291.6"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line352" />
+  <line
+     x1="320.4"
+     y1="408"
+     x2="320.4"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line353" />
+  <line
+     x1="349.2"
+     y1="408"
+     x2="349.2"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line354" />
+  <line
+     x1="478.8"
+     y1="408"
+     x2="478.8"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line355" />
+  <line
+     x1="18"
+     y1="432"
+     x2="594"
+     y2="432"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line356" />
+  <line
+     x1="46.8"
+     y1="432"
+     x2="46.8"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line357" />
+  <line
+     x1="97.2"
+     y1="432"
+     x2="97.2"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line358" />
+  <line
+     x1="126"
+     y1="432"
+     x2="126"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line359" />
+  <line
+     x1="291.6"
+     y1="432"
+     x2="291.6"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line360" />
+  <line
+     x1="320.4"
+     y1="432"
+     x2="320.4"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line361" />
+  <line
+     x1="349.2"
+     y1="432"
+     x2="349.2"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line362" />
+  <line
+     x1="478.8"
+     y1="432"
+     x2="478.8"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line363" />
+  <line
+     x1="18"
+     y1="456"
+     x2="594"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line364" />
+  <rect
+     x="18"
+     y="624"
+     width="576"
+     height="132"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="rect364" />
+  <rect
+     x="18"
+     y="42"
+     width="576"
+     height="54"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="rect365" />
+  <text
+     transform="translate(21.6 538.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text365"><tspan
+       x="0"
+       y="0"
+       id="tspan365">TERRORISM</tspan></text>
+  <text
+     transform="translate(21.6 550.44)"
+     font-family="ArialMT, Arial"
+     font-size="6"
+     id="text366"><tspan
+       x="0"
+       y="0"
+       id="tspan366">CATASTROPHE</tspan></text>
+  <text
+     transform="translate(150.66 538.2)"
+     font-family="ArialMT, Arial"
+     font-size="7"
+     id="text371"><tspan
+       x="0"
+       y="0"
+       id="tspan367">N</tspan><tspan
+       x="5.05"
+       y="0"
+       letter-spacing="0em"
+       id="tspan368" /><tspan
+       x="6.97"
+       y="0"
+       id="tspan369">/</tspan><tspan
+       x="8.92"
+       y="0"
+       letter-spacing="0em"
+       id="tspan370" /><tspan
+       x="10.83"
+       y="0"
+       id="tspan371">A</tspan></text>
+  <text
+     transform="translate(150.66 550.2)"
+     font-family="ArialMT, Arial"
+     font-size="7"
+     id="text376"><tspan
+       x="0"
+       y="0"
+       id="tspan372">N</tspan><tspan
+       x="5.05"
+       y="0"
+       letter-spacing="0em"
+       id="tspan373" /><tspan
+       x="6.97"
+       y="0"
+       id="tspan374">/</tspan><tspan
+       x="8.92"
+       y="0"
+       letter-spacing="0em"
+       id="tspan375" /><tspan
+       x="10.83"
+       y="0"
+       id="tspan376">A</tspan></text>
+  <line
+     x1="410.4"
+     y1="96"
+     x2="410.4"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line376" />
+  <rect
+     x="18"
+     y="96"
+     width="576"
+     height="360"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".96"
+     id="rect376" />
+  <line
+     x1="381.6"
+     y1="96"
+     x2="381.6"
+     y2="456"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     stroke-width=".24"
+     id="line377" />
+  <text
+     transform="translate(21.6 764.82)"
+     font-family="Arial-BoldMT, Arial"
+     font-size="8.4"
+     font-weight="700"
+     id="text381"><tspan
+       x="0"
+       y="0"
+       id="tspan377">ACORD</tspan><tspan
+       x="30.8"
+       y="0"
+       letter-spacing="-.01em"
+       id="tspan378" /><tspan
+       x="33.02"
+       y="0"
+       id="tspan379">130</tspan><tspan
+       x="47.04"
+       y="0"
+       letter-spacing="-.01em"
+       id="tspan380" /><tspan
+       x="49.26"
+       y="0"
+       id="tspan381">(2017/05)</tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="HEADER">
+    <g
+       id="text27"
+       style="font-weight:700;font-size:8.4px;font-family:Arial-BoldMT, Arial"
+       transform="translate(21.6,621.6)"
+       aria-label="REMARKS(ACORD101,AdditionalRemarksSchedule,maybeattachedifmorespaceisrequired)">
+      <path
+         d="M 0.61523435,0 V -6.0128904 H 3.1705077 q 0.9638671,0 1.3986327,0.1640625 0.4388672,0.159961 0.7013672,0.5742188 0.2625,0.4142578 0.2625,0.9474609 0,0.6767577 -0.3978516,1.1197265 -0.3978515,0.4388671 -1.1894531,0.5537109 0.39375,0.2296875 0.6480469,0.5044921 0.2583984,0.2748047 0.693164,0.9761719 L 6.0210935,0 H 4.5691404 L 3.6914061,-1.3083984 Q 3.223828,-2.0097655 3.0515624,-2.1902343 2.8792967,-2.3748046 2.6865233,-2.4404296 2.4937499,-2.5101561 2.0753905,-2.5101561 H 1.8292968 V 0 Z M 1.8292968,-3.4699217 h 0.8982421 q 0.8736328,0 1.0910156,-0.073828 0.2173828,-0.073828 0.3404297,-0.2542969 0.1230469,-0.1804687 0.1230469,-0.4511719 0,-0.3035156 -0.1640625,-0.4880859 -0.159961,-0.1886718 -0.4552735,-0.2378906 -0.1476562,-0.020508 -0.8859374,-0.020508 H 1.8292968 Z M 6.6773435,0 v -6.0128904 h 4.4583985 v 1.0171875 H 7.891406 v 1.3330078 h 3.01875 v 1.0130858 h -3.01875 v 1.6365234 h 3.35918 V 0 Z m 5.5863285,0 v -6.0128904 h 1.816992 l 1.091016,4.1015624 1.07871,-4.1015624 h 1.821094 V 0 h -1.12793 V -4.7332029 L 15.75,0 H 14.581055 L 13.391601,-4.7332029 V 0 Z m 12.435936,0 h -1.320703 l -0.525,-1.3658203 H 20.45039 L 19.954101,0 H 18.66621 l 2.341992,-6.0128904 h 1.283789 z M 22.464257,-2.3789061 21.635741,-4.610156 20.823632,-2.3789061 Z M 25.347656,0 v -6.0128904 h 2.555274 q 0.963867,0 1.398632,0.1640625 0.438867,0.159961 0.701367,0.5742188 0.2625,0.4142578 0.2625,0.9474609 0,0.6767577 -0.397851,1.1197265 -0.397852,0.4388671 -1.189453,0.5537109 0.39375,0.2296875 0.648047,0.5044921 0.258398,0.2748047 0.693164,0.9761719 L 30.753515,0 h -1.451953 l -0.877734,-1.3083984 q -0.467578,-0.7013671 -0.639844,-0.8818359 -0.172265,-0.1845703 -0.365039,-0.2501953 -0.192773,-0.069727 -0.611133,-0.069727 H 26.561719 V 0 Z m 1.214063,-3.4699217 h 0.898242 q 0.873633,0 1.091015,-0.073828 0.217383,-0.073828 0.34043,-0.2542969 0.123047,-0.1804687 0.123047,-0.4511719 0,-0.3035156 -0.164063,-0.4880859 -0.15996,-0.1886718 -0.455273,-0.2378906 -0.147656,-0.020508 -0.885937,-0.020508 H 26.561719 Z M 31.426171,0 v -6.0128904 h 1.214062 v 2.6701171 l 2.452734,-2.6701171 h 1.632422 L 34.461327,-3.6708983 36.848436,0 h -1.570898 l -1.65293,-2.8218749 -0.984375,1.0048828 V 0 Z m 5.742186,-1.9564452 1.18125,-0.1148438 q 0.106641,0.5947266 0.430664,0.8736328 0.328125,0.27890624 0.881836,0.27890624 0.586523,0 0.881836,-0.24609374 0.299414,-0.2501953 0.299414,-0.5824218 0,-0.2132813 -0.127149,-0.3609375 -0.123046,-0.1517578 -0.434765,-0.2625 -0.213281,-0.073828 -0.97207,-0.2625 -0.976172,-0.2419922 -1.369922,-0.5947265 -0.553711,-0.4962891 -0.553711,-1.2099609 0,-0.459375 0.258398,-0.8572265 0.2625,-0.4019532 0.750586,-0.6111328 0.492188,-0.2091797 1.185352,-0.2091797 1.132031,0 1.702148,0.496289 0.574219,0.4962891 0.60293,1.3248047 l -1.214063,0.05332 q -0.07793,-0.4634766 -0.336328,-0.6644531 -0.254297,-0.2050781 -0.766992,-0.2050781 -0.529102,0 -0.828516,0.2173828 -0.192773,0.1394531 -0.192773,0.3732421 0,0.2132813 0.180469,0.3650391 0.229687,0.1927734 1.115625,0.4019531 0.885937,0.2091797 1.308398,0.4347656 0.426563,0.2214844 0.664453,0.6111328 0.241992,0.3855468 0.241992,0.955664 0,0.5167968 -0.287109,0.9679687 -0.287109,0.45117185 -0.812109,0.67265622 -0.525,0.2173828 -1.308399,0.2173828 -1.140234,0 -1.751367,-0.52499998 -0.611133,-0.52910153 -0.730078,-1.53808584 z"
+         id="path381" />
+      <path
+         d="M 47.244257,1.7677734 H 46.452656 Q 45.825117,0.82031246 45.496992,-0.20097655 45.168867,-1.2222656 45.168867,-2.1779296 q 0,-1.1853515 0.406054,-2.2435546 0.352735,-0.9187499 0.894141,-1.6939452 h 0.7875 q -0.561914,1.2427734 -0.775195,2.1164061 -0.20918,0.8695313 -0.20918,1.8457031 0,0.6726562 0.123047,1.37812492 0.127148,0.70546872 0.344531,1.34121088 0.143555,0.41835936 0.504492,1.2017578 z M 53.560663,0 H 52.23996 l -0.525,-1.3658203 H 49.311445 L 48.815156,0 h -1.287891 l 2.341992,-6.0128904 h 1.283789 z m -2.235351,-2.3789061 -0.828516,-2.2312499 -0.812109,2.2312499 z m 6.726562,0.168164 1.177148,0.3732422 q -0.270703,0.98437494 -0.902344,1.46425773 -0.627539,0.47578123 -1.595507,0.47578123 -1.197657,0 -1.96875,-0.8162109 -0.771094,-0.82031246 -0.771094,-2.23945306 0,-1.5011718 0.775195,-2.3296874 0.775195,-0.8326171 2.038477,-0.8326171 1.10332,0 1.792382,0.6521484 0.410157,0.3855469 0.615235,1.1074218 l -1.201758,0.2871094 q -0.106641,-0.4675781 -0.44707,-0.7382812 -0.336328,-0.2707031 -0.820313,-0.2707031 -0.668554,0 -1.086914,0.4798827 -0.414258,0.4798828 -0.414258,1.5544922 0,1.1402343 0.410157,1.6242186 0.410156,0.48398439 1.066406,0.48398439 0.483984,0 0.832617,-0.30761719 0.348633,-0.3076172 0.500391,-0.9679687 z m 1.972852,-0.758789 q 0,-0.91875 0.274805,-1.5421874 0.205078,-0.459375 0.557812,-0.8244141 0.356836,-0.365039 0.779297,-0.5414062 0.561914,-0.2378906 1.296094,-0.2378906 1.328906,0 2.124609,0.824414 0.799805,0.824414 0.799805,2.2927733 0,1.4560547 -0.791602,2.2804687 -0.791601,0.82031246 -2.116406,0.82031246 -1.341211,0 -2.132812,-0.8162109 -0.791602,-0.82031246 -0.791602,-2.25585926 z m 1.250977,-0.041016 q 0,1.021289 0.471679,1.5503905 0.47168,0.52499999 1.197656,0.52499999 0.725977,0 1.189454,-0.52089839 0.467578,-0.525 0.467578,-1.5708984 0,-1.0335937 -0.455274,-1.5421874 -0.451172,-0.5085937 -1.201758,-0.5085937 -0.750585,0 -1.20996,0.5167968 -0.459375,0.5126953 -0.459375,1.5503906 z M 66.80871,0 v -6.0128904 h 2.555273 q 0.963868,0 1.398633,0.1640625 0.438867,0.159961 0.701367,0.5742188 0.2625,0.4142578 0.2625,0.9474609 0,0.6767577 -0.397851,1.1197265 -0.397852,0.4388671 -1.189453,0.5537109 0.39375,0.2296875 0.648047,0.5044921 0.258398,0.2748047 0.693164,0.9761719 L 72.214569,0 h -1.451953 l -0.877734,-1.3083984 q -0.467578,-0.7013671 -0.639844,-0.8818359 -0.172266,-0.1845703 -0.365039,-0.2501953 -0.192773,-0.069727 -0.611133,-0.069727 H 68.022773 V 0 Z m 1.214063,-3.4699217 h 0.898242 q 0.873632,0 1.091015,-0.073828 0.217383,-0.073828 0.34043,-0.2542969 0.123047,-0.1804687 0.123047,-0.4511719 0,-0.3035156 -0.164063,-0.4880859 -0.159961,-0.1886718 -0.455273,-0.2378906 -0.147656,-0.020508 -0.885938,-0.020508 h -0.94746 z m 4.843944,-2.5429687 h 2.218945 q 0.750586,0 1.144336,0.1148438 0.529101,0.1558594 0.906445,0.5537109 0.377344,0.3978515 0.574219,0.9761718 0.196875,0.5742188 0.196875,1.4191406 0,0.7423828 -0.18457,1.2796874 -0.225586,0.65625 -0.643946,1.06230468 -0.31582,0.30761717 -0.853125,0.47988279 Q 75.823943,0 75.151287,0 h -2.28457 z m 1.214062,1.0171875 v 3.982617 h 0.906445 q 0.508594,0 0.73418,-0.057422 0.295313,-0.073828 0.488086,-0.2501953 0.196875,-0.1763671 0.319922,-0.5783203 0.123047,-0.4060546 0.123047,-1.1033202 0,-0.6972656 -0.123047,-1.0705078 -0.123047,-0.3732421 -0.344531,-0.5824218 -0.221485,-0.2091797 -0.561914,-0.2830078 -0.254297,-0.057422 -0.99668,-0.057422 z"
+         id="path382" />
+      <path
+         d="m 83.885861,0 h -1.152539 v -4.3435545 q -0.631641,0.590625 -1.488867,0.8736328 v -1.0458984 q 0.451172,-0.1476563 0.980273,-0.5578125 0.529102,-0.4142578 0.725977,-0.9638671 h 0.935156 z m 3.670898,-6.0374997 q 0.873633,0 1.365821,0.6234374 0.586523,0.7382813 0.586523,2.4486327 0,1.70625 -0.590625,2.45273431 -0.488086,0.61523435 -1.361719,0.61523435 -0.877734,0 -1.415039,-0.67265622 -0.537304,-0.67675774 -0.537304,-2.40761704 0,-1.6980468 0.590625,-2.4445312 0.488086,-0.6152343 1.361718,-0.6152343 z m 0,0.955664 q -0.209179,0 -0.373242,0.1353515 -0.164062,0.13125 -0.254297,0.4757813 -0.118945,0.4470703 -0.118945,1.5052733 0,1.0582031 0.106641,1.4560547 0.10664,0.39375 0.266601,0.52499994 0.164063,0.13125 0.373242,0.13125 0.20918,0 0.373243,-0.13125 0.164062,-0.13535154 0.254296,-0.47988274 0.118946,-0.4429688 0.118946,-1.5011719 0,-1.058203 -0.106641,-1.451953 Q 88.089962,-4.8152342 87.9259,-4.9464842 87.765939,-5.0818357 87.556759,-5.0818357 Z M 93.22922,0 h -1.152539 v -4.3435545 q -0.631641,0.590625 -1.488867,0.8736328 v -1.0458984 q 0.451172,-0.1476563 0.980273,-0.5578125 0.529102,-0.4142578 0.725977,-0.9638671 h 0.935156 z m 1.940039,-1.152539 h 1.152539 v 0.82441401 q 0,0.50039061 -0.08613,0.78749997 Q 96.149532,0.7505859 95.90754,0.98027339 95.66965,1.2099609 95.300509,1.3412109 L 95.074923,0.86542965 Q 95.423556,0.7505859 95.571212,0.54960935 95.718868,0.3486328 95.727072,0 h -0.557813 z"
+         id="path383" />
+      <path
+         d="m 105.2234,0 h -1.3207 l -0.525,-1.3658203 h -2.40352 L 100.47789,0 h -1.287888 l 2.341988,-6.0128904 h 1.28379 z m -2.23535,-2.3789061 -0.82852,-2.2312499 -0.81211,2.2312499 z M 109.85406,0 h -1.0705 v -0.63984372 q -0.2666,0.37324217 -0.63164,0.55781247 -0.36094,0.18046875 -0.73008,0.18046875 -0.75059,0 -1.28789,-0.60292966 -0.53321,-0.60703124 -0.53321,-1.68984364 0,-1.1074219 0.5209,-1.6816406 0.5209,-0.5783203 1.3166,-0.5783203 0.73008,0 1.26329,0.6070312 v -2.1656249 h 1.15253 z m -3.07617,-2.2722655 q 0,0.6972656 0.19278,1.0089843 0.2789,0.45117186 0.77929,0.45117186 0.39785,0 0.67676,-0.33632806 0.27891,-0.3404297 0.27891,-1.0130859 0,-0.7505859 -0.27071,-1.0787109 -0.2707,-0.3322266 -0.69316,-0.3322266 -0.41016,0 -0.68906,0.328125 -0.27481,0.3240234 -0.27481,0.9720703 z M 114.98512,0 h -1.07051 v -0.63984372 q -0.2666,0.37324217 -0.63164,0.55781247 -0.36094,0.18046875 -0.73008,0.18046875 -0.75058,0 -1.28789,-0.60292966 -0.5332,-0.60703124 -0.5332,-1.68984364 0,-1.1074219 0.5209,-1.6816406 0.5209,-0.5783203 1.3166,-0.5783203 0.73008,0 1.26328,0.6070312 v -2.1656249 h 1.15254 z m -3.07617,-2.2722655 q 0,0.6972656 0.19277,1.0089843 0.27891,0.45117186 0.7793,0.45117186 0.39785,0 0.67676,-0.33632806 0.2789,-0.3404297 0.2789,-1.0130859 0,-0.7505859 -0.2707,-1.0787109 -0.2707,-0.3322266 -0.69317,-0.3322266 -0.41015,0 -0.68906,0.328125 -0.2748,0.3240234 -0.2748,0.9720703 z m 4.2123,-2.6742187 v -1.0664062 h 1.15254 v 1.0664062 z m 0,4.9464842 v -4.3558592 h 1.15254 V 0 Z m 4.33125,-4.3558592 v 0.91875 h -0.7875 v 1.7554687 q 0,0.5332031 0.0205,0.6234374 0.0246,0.0861328 0.10254,0.1435547 0.082,0.0574219 0.19687,0.0574219 0.15997,0 0.46348,-0.11074219 l 0.0984,0.89414059 q -0.40195,0.17226562 -0.91055,0.17226562 -0.31172,0 -0.56191,-0.10253906 -0.2502,-0.10664062 -0.36914,-0.27070312 -0.11485,-0.16816405 -0.15996,-0.45117185 -0.0369,-0.20097655 -0.0369,-0.81210937 v -1.8990233 h -0.5291 v -0.91875 h 0.5291 V -5.2212888 L 119.665,-5.893945 v 1.5380858 z m 0.79981,-0.590625 v -1.0664062 h 1.15253 v 1.0664062 z m 0,4.9464842 v -4.3558592 h 1.15253 V 0 Z m 2.06718,-2.239453 q 0,-0.5742187 0.28301,-1.1115234 0.28301,-0.5373047 0.79981,-0.8203125 0.52089,-0.2830078 1.16074,-0.2830078 0.98847,0 1.62012,0.6439453 0.63164,0.6398437 0.63164,1.6201171 0,0.9884765 -0.63985,1.64062495 -0.63574,0.64804685 -1.60371,0.64804685 -0.59883,0 -1.14433,-0.27070312 -0.54141,-0.27070311 -0.82442,-0.79160152 -0.28301,-0.52499996 -0.28301,-1.27558586 z m 1.18125,0.061523 q 0,0.6480469 0.30762,0.9925781 0.30762,0.34453123 0.75879,0.34453123 0.45117,0 0.75469,-0.34453123 0.30761,-0.3445312 0.30761,-1.0007812 0,-0.6398437 -0.30761,-0.984375 -0.30352,-0.3445312 -0.75469,-0.3445312 -0.45117,0 -0.75879,0.3445312 -0.30762,0.3445313 -0.30762,0.9925781 z M 132.67926,0 h -1.15254 v -2.2230468 q 0,-0.7054687 -0.0738,-0.9105468 -0.0738,-0.2091797 -0.24199,-0.3240234 -0.16406,-0.1148438 -0.39785,-0.1148438 -0.29942,0 -0.53731,0.1640625 -0.23789,0.1640625 -0.32812,0.4347656 -0.0861,0.2707031 -0.0861,1.0007812 V 0 h -1.15254 v -4.3558592 h 1.0705 v 0.6398437 q 0.57012,-0.7382812 1.43555,-0.7382812 0.38145,0 0.69727,0.1394531 0.31582,0.1353516 0.47578,0.3486328 0.16406,0.2132813 0.22558,0.4839844 0.0656,0.2707031 0.0656,0.7751953 z m 2.03027,-3.026953 -1.0459,-0.1886719 q 0.17637,-0.6316406 0.60703,-0.9351562 0.43067,-0.3035156 1.27969,-0.3035156 0.7711,0 1.14844,0.1845703 0.37734,0.1804688 0.5291,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 137.48219,-0.31171874 137.63395,0 h -1.14024 q -0.0451,-0.11484374 -0.11074,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29531,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71777,0.14355469 -0.67266,0 -1.06231,-0.36503905 -0.38554,-0.36503905 -0.38554,-0.92285155 0,-0.3691406 0.17636,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.80801,-0.1517578 1.11973,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16406,-0.4716797 -0.16407,-0.1435547 -0.61934,-0.1435547 -0.30762,0 -0.47988,0.1230469 -0.17227,0.1189453 -0.27891,0.4224609 z m 1.54219,0.9351562 q -0.22149,0.073828 -0.70137,0.1763672 -0.47988,0.1025391 -0.62754,0.2009766 -0.22558,0.1599609 -0.22558,0.4060546 0,0.2419922 0.18047,0.41835938 0.18046,0.17636718 0.45937,0.17636718 0.31172,0 0.59473,-0.20507812 0.20918,-0.15585934 0.2748,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z M 138.51988,0 v -6.0128904 h 1.15254 V 0 Z"
+         id="path384" />
+      <path
+         d="m 143.12523,0 v -6.0128904 h 2.55527 q 0.96387,0 1.39863,0.1640625 0.43887,0.159961 0.70137,0.5742188 0.2625,0.4142578 0.2625,0.9474609 0,0.6767577 -0.39785,1.1197265 -0.39785,0.4388671 -1.18945,0.5537109 0.39375,0.2296875 0.64804,0.5044921 0.2584,0.2748047 0.69317,0.9761719 L 148.53109,0 h -1.45196 l -0.87773,-1.3083984 q -0.46758,-0.7013671 -0.63984,-0.8818359 -0.17227,-0.1845703 -0.36504,-0.2501953 -0.19278,-0.069727 -0.61113,-0.069727 h -0.2461 V 0 Z m 1.21406,-3.4699217 h 0.89824 q 0.87364,0 1.09102,-0.073828 0.21738,-0.073828 0.34043,-0.2542969 0.12305,-0.1804687 0.12305,-0.4511719 0,-0.3035156 -0.16407,-0.4880859 -0.15996,-0.1886718 -0.45527,-0.2378906 -0.14766,-0.020508 -0.88594,-0.020508 h -0.94746 z m 7.36231,2.0835936 1.14843,0.1927735 q -0.22148,0.63164056 -0.70136,0.96386711 -0.47579,0.32812499 -1.19356,0.32812499 -1.13613,0 -1.68164,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56601,-1.6939452 0.56602,-0.6152344 1.43145,-0.6152344 0.97207,0 1.53398,0.6439453 0.56192,0.6398437 0.53731,1.9646484 h -2.8875 q 0.0123,0.5126952 0.2789,0.7998046 0.2666,0.28300781 0.66446,0.28300781 0.2707,0 0.45527,-0.14765624 0.18457,-0.14765627 0.27891,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.24609,-0.2625 -0.59883,-0.2625 -0.37734,0 -0.62343,0.2748047 -0.2461,0.2748047 -0.242,0.7464843 z m 1.99746,-1.8046874 h 1.06231 v 0.5947266 q 0.57011,-0.6931641 1.35761,-0.6931641 0.41836,0 0.72598,0.1722656 0.30762,0.1722657 0.50449,0.5208985 0.28711,-0.3486328 0.61934,-0.5208985 0.33222,-0.1722656 0.70957,-0.1722656 0.47988,0 0.81211,0.196875 0.33222,0.1927734 0.49629,0.5701172 0.11894,0.2789062 0.11894,0.9023437 V 0 h -1.15254 v -2.4896483 q 0,-0.6480469 -0.11894,-0.8367187 -0.15996,-0.2460938 -0.49219,-0.2460938 -0.24199,0 -0.45527,0.1476563 -0.21328,0.1476562 -0.30762,0.4347656 -0.0943,0.2830078 -0.0943,0.8982421 V 0 h -1.15254 v -2.3871093 q 0,-0.6357421 -0.0615,-0.8203124 -0.0615,-0.1845703 -0.19277,-0.2748047 -0.12715,-0.090234 -0.34864,-0.090234 -0.2666,0 -0.47988,0.1435547 -0.21328,0.1435547 -0.30762,0.4142578 -0.0902,0.2707031 -0.0902,0.8982421 V 0 h -1.15254 z m 8.41641,1.3289062 -1.0459,-0.1886719 q 0.17637,-0.6316406 0.60703,-0.9351562 0.43066,-0.3035156 1.27969,-0.3035156 0.77109,0 1.14843,0.1845703 0.37735,0.1804688 0.52911,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 164.95374,-0.31171874 165.1055,0 h -1.14023 q -0.0451,-0.11484374 -0.11075,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29531,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71778,0.14355469 -0.67265,0 -1.0623,-0.36503905 -0.38555,-0.36503905 -0.38555,-0.92285155 0,-0.3691406 0.17637,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.80801,-0.1517578 1.11972,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16406,-0.4716797 -0.16406,-0.1435547 -0.61933,-0.1435547 -0.30762,0 -0.47989,0.1230469 -0.17226,0.1189453 -0.2789,0.4224609 z m 1.54218,0.9351562 q -0.22148,0.073828 -0.70136,0.1763672 -0.47989,0.1025391 -0.62754,0.2009766 -0.22559,0.1599609 -0.22559,0.4060546 0,0.2419922 0.18047,0.41835938 0.18047,0.17636718 0.45938,0.17636718 0.31171,0 0.59472,-0.20507812 0.20918,-0.15585934 0.27481,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z M 167.09476,0 h -1.15254 v -4.3558592 h 1.07051 v 0.6193359 q 0.2748,-0.4388671 0.49219,-0.5783203 0.22148,-0.1394531 0.50039,-0.1394531 0.39375,0 0.75879,0.2173828 l -0.35684,1.0048828 q -0.29121,-0.1886719 -0.54141,-0.1886719 -0.24199,0 -0.41015,0.1353516 -0.16817,0.13125 -0.2666,0.4798828 -0.0943,0.3486328 -0.0943,1.4601562 z m 2.12461,0 v -6.0128904 h 1.15254 v 3.1910155 l 1.34941,-1.5339843 h 1.41914 L 171.6516,-2.764453 173.2471,0 h -1.24277 l -1.09512,-1.9564452 -0.5373,0.561914 V 0 Z m 4.30664,-1.2427734 1.15664,-0.1763672 q 0.0738,0.3363281 0.29941,0.51269533 0.22559,0.17226562 0.63164,0.17226562 0.44707,0 0.67266,-0.1640625 0.15176,-0.11484375 0.15176,-0.30761715 0,-0.13125 -0.082,-0.2173828 -0.0861,-0.082031 -0.38555,-0.1517578 -1.39453,-0.3076172 -1.76777,-0.5619141 -0.5168,-0.3527343 -0.5168,-0.9802734 0,-0.5660156 0.44707,-0.9515624 0.44707,-0.3855469 1.38633,-0.3855469 0.89414,0 1.3289,0.291211 0.43477,0.2912109 0.59883,0.861328 l -1.08691,0.2009766 q -0.0697,-0.2542969 -0.2666,-0.3896484 -0.19278,-0.1353516 -0.55371,-0.1353516 -0.45528,0 -0.65215,0.1271484 -0.13125,0.090234 -0.13125,0.2337891 0,0.1230469 0.11484,0.2091797 0.15586,0.1148437 1.07461,0.3240234 0.92285,0.2091797 1.28789,0.5126953 0.36094,0.3076172 0.36094,0.8572265 0,0.59882811 -0.50039,1.02949215 -0.50039,0.43066405 -1.48067,0.43066405 -0.89003,0 -1.41093,-0.36093749 -0.5168,-0.36093748 -0.67676,-0.98027341 z"
+         id="path385" />
+      <path
+         d="m 180.55352,-1.9564452 1.18125,-0.1148438 q 0.10664,0.5947266 0.43066,0.8736328 0.32812,0.27890624 0.88184,0.27890624 0.58652,0 0.88183,-0.24609374 0.29942,-0.2501953 0.29942,-0.5824218 0,-0.2132813 -0.12715,-0.3609375 -0.12305,-0.1517578 -0.43477,-0.2625 -0.21328,-0.073828 -0.97207,-0.2625 -0.97617,-0.2419922 -1.36992,-0.5947265 -0.55371,-0.4962891 -0.55371,-1.2099609 0,-0.459375 0.2584,-0.8572265 0.2625,-0.4019532 0.75058,-0.6111328 0.49219,-0.2091797 1.18535,-0.2091797 1.13204,0 1.70215,0.496289 0.57422,0.4962891 0.60293,1.3248047 l -1.21406,0.05332 q -0.0779,-0.4634766 -0.33633,-0.6644531 -0.2543,-0.2050781 -0.76699,-0.2050781 -0.5291,0 -0.82852,0.2173828 -0.19277,0.1394531 -0.19277,0.3732421 0,0.2132813 0.18047,0.3650391 0.22969,0.1927734 1.11562,0.4019531 0.88594,0.2091797 1.3084,0.4347656 0.42657,0.2214844 0.66446,0.6111328 0.24199,0.3855468 0.24199,0.955664 0,0.5167968 -0.28711,0.9679687 -0.28711,0.45117185 -0.81211,0.67265622 -0.525,0.2173828 -1.3084,0.2173828 -1.14023,0 -1.75137,-0.52499998 -0.61113,-0.52910153 -0.73007,-1.53808584 z m 9.70019,-1.1115234 -1.13613,0.2050781 q -0.0574,-0.3404297 -0.2625,-0.5126953 -0.20098,-0.1722656 -0.525,-0.1722656 -0.43067,0 -0.68906,0.299414 -0.2543,0.2953125 -0.2543,0.9925781 0,0.7751953 0.2584,1.0951172 0.2625,0.31992183 0.70136,0.31992183 0.32813,0 0.53731,-0.18457033 0.20918,-0.1886718 0.29531,-0.6439453 l 1.13203,0.1927735 q -0.17636,0.77929681 -0.67676,1.17714835 -0.50039,0.39785155 -1.34121,0.39785155 -0.95566,0 -1.52578,-0.60292966 -0.56601,-0.60292964 -0.56601,-1.66933584 0,-1.0787109 0.57011,-1.677539 0.57012,-0.6029297 1.54219,-0.6029297 0.7957,0 1.26328,0.3445313 0.47168,0.3404296 0.67676,1.0417968 z m 2.02207,-2.9449218 v 2.2107421 q 0.55781,-0.6521484 1.33301,-0.6521484 0.39785,0 0.71777,0.1476563 0.31992,0.1476562 0.47989,0.3773437 0.16406,0.2296875 0.22148,0.5085937 0.0615,0.2789063 0.0615,0.8654297 V 0 h -1.15254 v -2.3009765 q 0,-0.6849609 -0.0656,-0.8695312 -0.0656,-0.1845703 -0.23379,-0.2912109 -0.16406,-0.1107422 -0.41426,-0.1107422 -0.28711,0 -0.51269,0.1394531 -0.22559,0.1394532 -0.33223,0.422461 -0.10254,0.2789062 -0.10254,0.8285155 V 0 h -1.15254 v -6.0128904 z m 6.50508,4.6265623 1.14844,0.1927735 q -0.22149,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19356,0.32812499 -1.13613,0 -1.68164,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53398,0.6439453 0.56192,0.6398437 0.53731,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.2707,0 0.45527,-0.14765624 0.18457,-0.14765627 0.27891,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.25839,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37735,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z M 204.925,0 h -1.07051 v -0.63984372 q -0.2666,0.37324217 -0.63164,0.55781247 -0.36094,0.18046875 -0.73008,0.18046875 -0.75058,0 -1.28789,-0.60292966 -0.5332,-0.60703124 -0.5332,-1.68984364 0,-1.1074219 0.5209,-1.6816406 0.5209,-0.5783203 1.3166,-0.5783203 0.73008,0 1.26328,0.6070312 v -2.1656249 h 1.15254 z m -3.07617,-2.2722655 q 0,0.6972656 0.19277,1.0089843 0.27891,0.45117186 0.7793,0.45117186 0.39785,0 0.67676,-0.33632806 0.2789,-0.3404297 0.2789,-1.0130859 0,-0.7505859 -0.2707,-1.0787109 -0.2707,-0.3322266 -0.69316,-0.3322266 -0.41016,0 -0.68907,0.328125 -0.2748,0.3240234 -0.2748,0.9720703 z M 208.92812,0 v -0.65214841 q -0.23789,0.3486328 -0.62753,0.54960935 -0.38555,0.20097656 -0.81622,0.20097656 -0.43886,0 -0.7875,-0.19277343 -0.34863,-0.19277343 -0.50449,-0.54140623 -0.15586,-0.3486328 -0.15586,-0.96386714 v -2.7562499 h 1.15254 v 2.0015624 q 0,0.91875 0.0615,1.1279297 0.0656,0.2050781 0.23378,0.32812495 0.16817,0.11894531 0.42657,0.11894531 0.29531,0 0.5291,-0.15996093 0.23379,-0.16406253 0.31992,-0.40195313 0.0861,-0.2419922 0.0861,-1.1771484 v -1.8374999 h 1.15254 V 0 Z m 2.26407,0 v -6.0128904 h 1.15253 V 0 Z m 4.85625,-1.3863281 1.14843,0.1927735 q -0.22148,0.63164056 -0.70136,0.96386711 -0.47578,0.32812499 -1.19356,0.32812499 -1.13613,0 -1.68164,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56601,-1.6939452 0.56602,-0.6152344 1.43145,-0.6152344 0.97207,0 1.53398,0.6439453 0.56192,0.6398437 0.53731,1.9646484 h -2.8875 q 0.0123,0.5126952 0.2789,0.7998046 0.26661,0.28300781 0.66446,0.28300781 0.2707,0 0.45527,-0.14765624 0.18457,-0.14765627 0.27891,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.24609,-0.2625 -0.59882,-0.2625 -0.37735,0 -0.62344,0.2748047 -0.2461,0.2748047 -0.24199,0.7464843 z m 2.05489,1.3986328 h 1.15253 v 0.82441401 q 0,0.50039061 -0.0861,0.78749997 -0.0861,0.29121092 -0.32812,0.52089841 -0.23789,0.22968751 -0.60703,0.36093751 L 218.07461,0.86542965 Q 218.42324,0.7505859 218.5709,0.54960935 218.71855,0.3486328 218.72676,0 h -0.55781 z"
+         id="path386" />
+      <path
+         d="m 222.7068,-4.3558592 h 1.0623 v 0.5947266 q 0.57012,-0.6931641 1.35762,-0.6931641 0.41836,0 0.72598,0.1722656 0.30761,0.1722657 0.50449,0.5208985 0.28711,-0.3486328 0.61934,-0.5208985 0.33222,-0.1722656 0.70957,-0.1722656 0.47988,0 0.81211,0.196875 0.33222,0.1927734 0.49628,0.5701172 0.11895,0.2789062 0.11895,0.9023437 V 0 h -1.15254 v -2.4896483 q 0,-0.6480469 -0.11894,-0.8367187 -0.15997,-0.2460938 -0.49219,-0.2460938 -0.24199,0 -0.45528,0.1476563 -0.21328,0.1476562 -0.30761,0.4347656 -0.0943,0.2830078 -0.0943,0.8982421 V 0 H 225.34 v -2.3871093 q 0,-0.6357421 -0.0615,-0.8203124 -0.0615,-0.1845703 -0.19277,-0.2748047 -0.12715,-0.090234 -0.34864,-0.090234 -0.2666,0 -0.47988,0.1435547 -0.21328,0.1435547 -0.30762,0.4142578 -0.0902,0.2707031 -0.0902,0.8982421 V 0 h -1.15254 z m 8.41641,1.3289062 -1.0459,-0.1886719 q 0.17636,-0.6316406 0.60703,-0.9351562 0.43066,-0.3035156 1.27969,-0.3035156 0.77109,0 1.14843,0.1845703 0.37735,0.1804688 0.5291,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 233.89586,-0.31171874 234.04762,0 h -1.14024 q -0.0451,-0.11484374 -0.11074,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29532,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71778,0.14355469 -0.67265,0 -1.0623,-0.36503905 -0.38555,-0.36503905 -0.38555,-0.92285155 0,-0.3691406 0.17637,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.808,-0.1517578 1.11972,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16406,-0.4716797 -0.16406,-0.1435547 -0.61934,-0.1435547 -0.30761,0 -0.47988,0.1230469 -0.17226,0.1189453 -0.2789,0.4224609 z m 1.54218,0.9351562 q -0.22148,0.073828 -0.70136,0.1763672 -0.47989,0.1025391 -0.62754,0.2009766 -0.22559,0.1599609 -0.22559,0.4060546 0,0.2419922 0.18047,0.41835938 0.18047,0.17636718 0.45937,0.17636718 0.31172,0 0.59473,-0.20507812 0.20918,-0.15585934 0.27481,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z m 1.72266,-2.2640624 h 1.22637 l 1.04179,3.092578 1.01719,-3.092578 h 1.19356 l -1.53809,4.19179671 -0.27481,0.75878903 q -0.15175,0.38144529 -0.29121,0.58242186 -0.13535,0.2009765 -0.31582,0.3240234 -0.17636,0.1271484 -0.43886,0.196875 -0.2584,0.069727 -0.58653,0.069727 -0.33222,0 -0.65215,-0.069727 l -0.10253,-0.90234371 q 0.2707,0.0533203 0.48808,0.0533203 0.40195,0 0.59473,-0.23789062 0.19277,-0.23378905 0.29531,-0.59882809 z"
+         id="path387" />
+      <path
+         style="letter-spacing:0em"
+         d="m 241.81371,0 v -6.0128904 h 1.15253 v 2.1656249 q 0.53321,-0.6070312 1.26329,-0.6070312 0.7957,0 1.3166,0.5783203 0.5209,0.5742187 0.5209,1.6529296 0,1.115625 -0.53321,1.71855464 -0.5291,0.60292966 -1.28789,0.60292966 -0.37324,0 -0.73828,-0.18457031 -0.36094,-0.18867187 -0.62344,-0.55371091 V 0 Z m 1.14433,-2.2722655 q 0,0.6767578 0.21328,1.0007812 0.29942,0.45937496 0.79571,0.45937496 0.38144,0 0.64804,-0.32402346 0.27071,-0.3281249 0.27071,-1.0294921 0,-0.7464843 -0.27071,-1.0746093 -0.2707,-0.3322266 -0.69316,-0.3322266 -0.41426,0 -0.68906,0.3240234 -0.27481,0.3199219 -0.27481,0.9761719 z m 6.5584,0.8859374 1.14844,0.1927735 q -0.22149,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13614,0 -1.68165,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53399,0.6439453 0.56191,0.6398437 0.5373,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.2707,0 0.45527,-0.14765624 0.18457,-0.14765627 0.27891,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.25839,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37735,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z"
+         id="path388" />
+      <path
+         style="letter-spacing:0em"
+         d="m 254.78427,-3.026953 -1.0459,-0.1886719 q 0.17636,-0.6316406 0.60703,-0.9351562 0.43066,-0.3035156 1.27969,-0.3035156 0.77109,0 1.14843,0.1845703 0.37735,0.1804688 0.5291,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 257.55692,-0.31171874 257.70868,0 h -1.14024 q -0.0451,-0.11484374 -0.11074,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29532,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71778,0.14355469 -0.67265,0 -1.0623,-0.36503905 -0.38555,-0.36503905 -0.38555,-0.92285155 0,-0.3691406 0.17637,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.808,-0.1517578 1.11972,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16406,-0.4716797 -0.16406,-0.1435547 -0.61934,-0.1435547 -0.30761,0 -0.47988,0.1230469 -0.17226,0.1189453 -0.2789,0.4224609 z m 1.54218,0.9351562 q -0.22148,0.073828 -0.70136,0.1763672 -0.47989,0.1025391 -0.62754,0.2009766 -0.22559,0.1599609 -0.22559,0.4060546 0,0.2419922 0.18047,0.41835938 0.18047,0.17636718 0.45937,0.17636718 0.31172,0 0.59473,-0.20507812 0.20918,-0.15585934 0.27481,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z m 4.26563,-2.2640624 v 0.91875 h -0.7875 v 1.7554687 q 0,0.5332031 0.0205,0.6234374 0.0246,0.0861328 0.10253,0.1435547 0.082,0.0574219 0.19688,0.0574219 0.15996,0 0.46348,-0.11074219 l 0.0984,0.89414059 q -0.40195,0.17226562 -0.91054,0.17226562 -0.31172,0 -0.56192,-0.10253906 -0.25019,-0.10664062 -0.36914,-0.27070312 -0.11484,-0.16816405 -0.15996,-0.45117185 -0.0369,-0.20097655 -0.0369,-0.81210937 v -1.8990233 h -0.5291 v -0.91875 h 0.5291 v -0.8654296 l 1.15664,-0.6726562 v 1.5380858 z m 2.79726,0 v 0.91875 h -0.7875 v 1.7554687 q 0,0.5332031 0.0205,0.6234374 0.0246,0.0861328 0.10254,0.1435547 0.082,0.0574219 0.19687,0.0574219 0.15997,0 0.46348,-0.11074219 l 0.0984,0.89414059 q -0.40195,0.17226562 -0.91055,0.17226562 -0.31172,0 -0.56191,-0.10253906 -0.2502,-0.10664062 -0.36914,-0.27070312 -0.11485,-0.16816405 -0.15996,-0.45117185 -0.0369,-0.20097655 -0.0369,-0.81210937 v -1.8990233 h -0.5291 v -0.91875 h 0.5291 v -0.8654296 l 1.15664,-0.6726562 v 1.5380858 z m 1.66114,1.3289062 -1.0459,-0.1886719 q 0.17636,-0.6316406 0.60703,-0.9351562 0.43066,-0.3035156 1.27969,-0.3035156 0.77109,0 1.14843,0.1845703 0.37735,0.1804688 0.5291,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 267.82313,-0.31171874 267.97489,0 h -1.14023 q -0.0451,-0.11484374 -0.11075,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29532,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71778,0.14355469 -0.67265,0 -1.0623,-0.36503905 -0.38555,-0.36503905 -0.38555,-0.92285155 0,-0.3691406 0.17637,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.808,-0.1517578 1.11972,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16406,-0.4716797 -0.16406,-0.1435547 -0.61934,-0.1435547 -0.30761,0 -0.47988,0.1230469 -0.17226,0.1189453 -0.2789,0.4224609 z m 1.54218,0.9351562 q -0.22148,0.073828 -0.70136,0.1763672 -0.47989,0.1025391 -0.62754,0.2009766 -0.22559,0.1599609 -0.22559,0.4060546 0,0.2419922 0.18047,0.41835938 0.18047,0.17636718 0.45937,0.17636718 0.31172,0 0.59473,-0.20507812 0.20918,-0.15585934 0.27481,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z m 6.06621,-0.9761718 -1.13613,0.2050781 q -0.0574,-0.3404297 -0.2625,-0.5126953 -0.20098,-0.1722656 -0.525,-0.1722656 -0.43066,0 -0.68906,0.299414 -0.2543,0.2953125 -0.2543,0.9925781 0,0.7751953 0.2584,1.0951172 0.2625,0.31992183 0.70137,0.31992183 0.32812,0 0.5373,-0.18457033 0.20918,-0.1886718 0.29531,-0.6439453 l 1.13204,0.1927735 q -0.17637,0.77929681 -0.67676,1.17714835 -0.50039,0.39785155 -1.34121,0.39785155 -0.95567,0 -1.52578,-0.60292966 -0.56602,-0.60292964 -0.56602,-1.66933584 0,-1.0787109 0.57012,-1.677539 0.57011,-0.6029297 1.54218,-0.6029297 0.79571,0 1.26329,0.3445313 0.47168,0.3404296 0.67675,1.0417968 z m 2.02207,-2.9449218 v 2.2107421 q 0.55782,-0.6521484 1.33301,-0.6521484 0.39785,0 0.71778,0.1476563 0.31992,0.1476562 0.47988,0.3773437 0.16406,0.2296875 0.22148,0.5085937 0.0615,0.2789063 0.0615,0.8654297 V 0 h -1.15254 v -2.3009765 q 0,-0.6849609 -0.0656,-0.8695312 -0.0656,-0.1845703 -0.23379,-0.2912109 -0.16406,-0.1107422 -0.41426,-0.1107422 -0.2871,0 -0.51269,0.1394531 -0.22559,0.1394532 -0.33223,0.422461 -0.10254,0.2789062 -0.10254,0.8285155 V 0 h -1.15254 v -6.0128904 z m 6.50508,4.6265623 1.14844,0.1927735 q -0.22149,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13614,0 -1.68164,-0.74238278 -0.43067,-0.59472652 -0.43067,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53399,0.6439453 0.56191,0.6398437 0.5373,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.2707,0 0.45528,-0.14765624 0.18457,-0.14765627 0.2789,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37734,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z M 287.33016,0 h -1.07051 v -0.63984372 q -0.2666,0.37324217 -0.63164,0.55781247 -0.36093,0.18046875 -0.73007,0.18046875 -0.75059,0 -1.28789,-0.60292966 -0.53321,-0.60703124 -0.53321,-1.68984364 0,-1.1074219 0.5209,-1.6816406 0.5209,-0.5783203 1.3166,-0.5783203 0.73008,0 1.26328,0.6070312 v -2.1656249 h 1.15254 z m -3.07617,-2.2722655 q 0,0.6972656 0.19277,1.0089843 0.27891,0.45117186 0.7793,0.45117186 0.39785,0 0.67676,-0.33632806 0.27891,-0.3404297 0.27891,-1.0130859 0,-0.7505859 -0.27071,-1.0787109 -0.2707,-0.3322266 -0.69316,-0.3322266 -0.41016,0 -0.68906,0.328125 -0.27481,0.3240234 -0.27481,0.9720703 z"
+         id="path389" />
+      <path
+         d="m 290.72292,-4.9464842 v -1.0664062 h 1.15254 v 1.0664062 z m 0,4.9464842 v -4.3558592 h 1.15254 V 0 Z m 1.8293,-4.3558592 h 0.63985 v -0.328125 q 0,-0.5496093 0.11484,-0.8203124 0.11894,-0.2707031 0.43066,-0.4388672 0.31582,-0.1722656 0.79571,-0.1722656 0.49218,0 0.96386,0.1476562 l -0.15586,0.8039062 q -0.2748,-0.065625 -0.5291,-0.065625 -0.25019,0 -0.36094,0.1189454 -0.10664,0.1148437 -0.10664,0.4470702 v 0.3076172 h 0.86133 v 0.9064453 H 294.3446 V 0 h -1.15253 v -3.4494139 h -0.63985 z"
+         id="path390" />
+      <path
+         d="m 298.02681,-4.3558592 h 1.0623 v 0.5947266 q 0.57012,-0.6931641 1.35762,-0.6931641 0.41836,0 0.72597,0.1722656 0.30762,0.1722657 0.5045,0.5208985 0.28711,-0.3486328 0.61933,-0.5208985 0.33223,-0.1722656 0.70957,-0.1722656 0.47989,0 0.81211,0.196875 0.33223,0.1927734 0.49629,0.5701172 0.11895,0.2789062 0.11895,0.9023437 V 0 h -1.15254 v -2.4896483 q 0,-0.6480469 -0.11895,-0.8367187 -0.15996,-0.2460938 -0.49218,-0.2460938 -0.242,0 -0.45528,0.1476563 -0.21328,0.1476562 -0.30762,0.4347656 -0.0943,0.2830078 -0.0943,0.8982421 V 0 h -1.15254 v -2.3871093 q 0,-0.6357421 -0.0615,-0.8203124 -0.0615,-0.1845703 -0.19278,-0.2748047 -0.12715,-0.090234 -0.34863,-0.090234 -0.2666,0 -0.47988,0.1435547 -0.21328,0.1435547 -0.30762,0.4142578 -0.0902,0.2707031 -0.0902,0.8982421 V 0 h -1.15254 z m 7.28847,2.1164062 q 0,-0.5742187 0.28301,-1.1115234 0.28301,-0.5373047 0.79981,-0.8203125 0.52089,-0.2830078 1.16074,-0.2830078 0.98847,0 1.62011,0.6439453 0.63165,0.6398437 0.63165,1.6201171 0,0.9884765 -0.63985,1.64062495 -0.63574,0.64804685 -1.60371,0.64804685 -0.59883,0 -1.14434,-0.27070312 -0.5414,-0.27070311 -0.82441,-0.79160152 -0.28301,-0.52499996 -0.28301,-1.27558586 z m 1.18125,0.061523 q 0,0.6480469 0.30762,0.9925781 0.30762,0.34453123 0.75879,0.34453123 0.45117,0 0.75469,-0.34453123 0.30761,-0.3445312 0.30761,-1.0007812 0,-0.6398437 -0.30761,-0.984375 -0.30352,-0.3445312 -0.75469,-0.3445312 -0.45117,0 -0.75879,0.3445312 -0.30762,0.3445313 -0.30762,0.9925781 z M 311.81626,0 h -1.15254 v -4.3558592 h 1.07051 v 0.6193359 q 0.2748,-0.4388671 0.49219,-0.5783203 0.22148,-0.1394531 0.50039,-0.1394531 0.39375,0 0.75878,0.2173828 l -0.35683,1.0048828 q -0.29121,-0.1886719 -0.54141,-0.1886719 -0.24199,0 -0.41015,0.1353516 -0.16817,0.13125 -0.2666,0.4798828 -0.0943,0.3486328 -0.0943,1.4601562 z m 4.68808,-1.3863281 1.14844,0.1927735 q -0.22148,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13613,0 -1.68164,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56601,-1.6939452 0.56602,-0.6152344 1.43145,-0.6152344 0.97207,0 1.53398,0.6439453 0.56191,0.6398437 0.53731,1.9646484 h -2.8875 q 0.0123,0.5126952 0.2789,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.27071,0 0.45528,-0.14765624 0.18457,-0.14765627 0.2789,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.24609,-0.2625 -0.59883,-0.2625 -0.37734,0 -0.62343,0.2748047 -0.2461,0.2748047 -0.242,0.7464843 z"
+         id="path391" />
+      <path
+         style="letter-spacing:0em"
+         d="m 320.50687,-1.2427734 1.15664,-0.1763672 q 0.0738,0.3363281 0.29942,0.51269533 0.22558,0.17226562 0.63164,0.17226562 0.44707,0 0.67265,-0.1640625 0.15176,-0.11484375 0.15176,-0.30761715 0,-0.13125 -0.082,-0.2173828 -0.0861,-0.082031 -0.38555,-0.1517578 -1.39453,-0.3076172 -1.76777,-0.5619141 -0.5168,-0.3527343 -0.5168,-0.9802734 0,-0.5660156 0.44707,-0.9515624 0.44707,-0.3855469 1.38633,-0.3855469 0.89414,0 1.32891,0.291211 0.43476,0.2912109 0.59883,0.861328 l -1.08692,0.2009766 q -0.0697,-0.2542969 -0.2666,-0.3896484 -0.19277,-0.1353516 -0.55371,-0.1353516 -0.45527,0 -0.65215,0.1271484 -0.13125,0.090234 -0.13125,0.2337891 0,0.1230469 0.11484,0.2091797 0.15586,0.1148437 1.07461,0.3240234 0.92286,0.2091797 1.28789,0.5126953 0.36094,0.3076172 0.36094,0.8572265 0,0.59882811 -0.50039,1.02949215 -0.50039,0.43066405 -1.48066,0.43066405 -0.89004,0 -1.41094,-0.36093749 -0.5168,-0.36093748 -0.67676,-0.98027341 z m 5.04492,-3.1130858 h 1.07461 v 0.6398437 q 0.20918,-0.3281249 0.56602,-0.5332031 0.35684,-0.2050781 0.7916,-0.2050781 0.75879,0 1.28789,0.5947266 0.5291,0.5947265 0.5291,1.6570311 0,1.0910156 -0.5332,1.69804684 -0.5332,0.60292966 -1.29199,0.60292966 -0.36094,0 -0.65625,-0.14355469 -0.29121,-0.14355468 -0.61524,-0.49218747 V 1.6570312 h -1.15254 z m 1.14024,2.1041015 q 0,0.7341796 0.29121,1.086914 0.29121,0.3486328 0.70957,0.3486328 0.40195,0 0.66855,-0.3199219 0.26661,-0.3240234 0.26661,-1.058203 0,-0.6849609 -0.27481,-1.0171875 -0.2748,-0.3322265 -0.68086,-0.3322265 -0.42246,0 -0.70137,0.3281249 -0.2789,0.3240235 -0.2789,0.9638672 z m 4.88496,-0.7751953 -1.0459,-0.1886719 q 0.17637,-0.6316406 0.60703,-0.9351562 0.43067,-0.3035156 1.27969,-0.3035156 0.77109,0 1.14844,0.1845703 0.37734,0.1804688 0.5291,0.4634766 0.15586,0.2789062 0.15586,1.0294921 l -0.0123,1.3453125 q 0,0.57421868 0.0533,0.84902335 Q 334.34965,-0.31171874 334.5014,0 h -1.14023 q -0.0451,-0.11484374 -0.11074,-0.34042967 -0.0287,-0.10253906 -0.041,-0.13535156 -0.29531,0.28710936 -0.63164,0.43066404 -0.33633,0.14355469 -0.71777,0.14355469 -0.67266,0 -1.06231,-0.36503905 -0.38554,-0.36503905 -0.38554,-0.92285155 0,-0.3691406 0.17636,-0.6562499 0.17637,-0.291211 0.49219,-0.4429688 0.31992,-0.1558593 0.91875,-0.2707031 0.80801,-0.1517578 1.11973,-0.2830078 v -0.1148437 q 0,-0.3322266 -0.16407,-0.4716797 -0.16406,-0.1435547 -0.61933,-0.1435547 -0.30762,0 -0.47988,0.1230469 -0.17227,0.1189453 -0.27891,0.4224609 z m 1.54219,0.9351562 q -0.22149,0.073828 -0.70137,0.1763672 -0.47988,0.1025391 -0.62754,0.2009766 -0.22559,0.1599609 -0.22559,0.4060546 0,0.2419922 0.18047,0.41835938 0.18047,0.17636718 0.45938,0.17636718 0.31172,0 0.59473,-0.20507812 0.20917,-0.15585934 0.2748,-0.38144534 0.0451,-0.1476562 0.0451,-0.561914 z m 6.06621,-0.9761718 -1.13614,0.2050781 q -0.0574,-0.3404297 -0.2625,-0.5126953 -0.20097,-0.1722656 -0.525,-0.1722656 -0.43066,0 -0.68906,0.299414 -0.2543,0.2953125 -0.2543,0.9925781 0,0.7751953 0.2584,1.0951172 0.2625,0.31992183 0.70137,0.31992183 0.32813,0 0.53731,-0.18457033 0.20917,-0.1886718 0.29531,-0.6439453 l 1.13203,0.1927735 q -0.17637,0.77929681 -0.67676,1.17714835 -0.50039,0.39785155 -1.34121,0.39785155 -0.95566,0 -1.52578,-0.60292966 -0.56602,-0.60292964 -0.56602,-1.66933584 0,-1.0787109 0.57012,-1.677539 0.57012,-0.6029297 1.54219,-0.6029297 0.7957,0 1.26328,0.3445313 0.47168,0.3404296 0.67676,1.0417968 z m 3.39609,1.6816405 1.14844,0.1927735 q -0.22149,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13614,0 -1.68164,-0.74238278 -0.43067,-0.59472652 -0.43067,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53399,0.6439453 0.56191,0.6398437 0.5373,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.2707,0 0.45528,-0.14765624 0.18457,-0.14765627 0.2789,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37734,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z"
+         id="path392" />
+      <path
+         d="m 346.99294,-4.9464842 v -1.0664062 h 1.15254 v 1.0664062 z m 0,4.9464842 v -4.3558592 h 1.15254 V 0 Z m 1.92774,-1.2427734 1.15664,-0.1763672 q 0.0738,0.3363281 0.29941,0.51269533 0.22559,0.17226562 0.63164,0.17226562 0.44707,0 0.67266,-0.1640625 0.15176,-0.11484375 0.15176,-0.30761715 0,-0.13125 -0.082,-0.2173828 -0.0861,-0.082031 -0.38555,-0.1517578 -1.39453,-0.3076172 -1.76777,-0.5619141 -0.5168,-0.3527343 -0.5168,-0.9802734 0,-0.5660156 0.44707,-0.9515624 0.44707,-0.3855469 1.38633,-0.3855469 0.89414,0 1.3289,0.291211 0.43477,0.2912109 0.59883,0.861328 l -1.08691,0.2009766 q -0.0697,-0.2542969 -0.2666,-0.3896484 -0.19278,-0.1353516 -0.55371,-0.1353516 -0.45528,0 -0.65215,0.1271484 -0.13125,0.090234 -0.13125,0.2337891 0,0.1230469 0.11484,0.2091797 0.15586,0.1148437 1.07461,0.3240234 0.92285,0.2091797 1.28789,0.5126953 0.36094,0.3076172 0.36094,0.8572265 0,0.59882811 -0.50039,1.02949215 -0.50039,0.43066405 -1.48067,0.43066405 -0.89004,0 -1.41093,-0.36093749 -0.5168,-0.36093748 -0.67676,-0.98027341 z"
+         id="path393" />
+      <path
+         style="letter-spacing:0em"
+         d="m 357.35624,0 h -1.15254 v -4.3558592 h 1.07051 v 0.6193359 q 0.27481,-0.4388671 0.49219,-0.5783203 0.22148,-0.1394531 0.50039,-0.1394531 0.39375,0 0.75879,0.2173828 l -0.35684,1.0048828 q -0.29121,-0.1886719 -0.5414,-0.1886719 -0.24199,0 -0.41016,0.1353516 -0.16816,0.13125 -0.2666,0.4798828 -0.0943,0.3486328 -0.0943,1.4601562 z m 4.68809,-1.3863281 1.14844,0.1927735 q -0.22149,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13614,0 -1.68165,-0.74238278 -0.43066,-0.59472652 -0.43066,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53399,0.6439453 0.56191,0.6398437 0.5373,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.2707,0 0.45527,-0.14765624 0.18457,-0.14765627 0.27891,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.25839,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37735,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z m 4.93008,4.208203 v -2.1902343 q -0.22558,0.29121092 -0.56191,0.46347654 -0.33633,0.16816406 -0.72598,0.16816406 -0.74238,0 -1.22226,-0.55781248 -0.56602,-0.65214842 -0.56602,-1.76777332 0,-1.05 0.5291,-1.6365234 0.53321,-0.590625 1.32071,-0.590625 0.43476,0 0.75058,0.1845703 0.31992,0.1845703 0.56602,0.5578125 v -0.6439453 h 1.0623 v 6.0128904 z m 0.0369,-3.8882811 q 0,-0.6685547 -0.27481,-0.9925781 -0.2707,-0.328125 -0.68086,-0.328125 -0.41836,0 -0.70136,0.3322266 -0.27891,0.3322265 -0.27891,1.0541015 0,0.7177734 0.2707,1.0376953 0.27071,0.31582026 0.66856,0.31582026 0.39785,0 0.69726,-0.35683596 0.29942,-0.3568359 0.29942,-1.0623046 z M 372.19159,0 v -0.65214841 q -0.23789,0.3486328 -0.62753,0.54960935 -0.38555,0.20097656 -0.81622,0.20097656 -0.43886,0 -0.7875,-0.19277343 -0.34863,-0.19277343 -0.50449,-0.54140623 -0.15586,-0.3486328 -0.15586,-0.96386714 v -2.7562499 h 1.15254 v 2.0015624 q 0,0.91875 0.0615,1.1279297 0.0656,0.2050781 0.23378,0.32812495 0.16817,0.11894531 0.42657,0.11894531 0.29531,0 0.5291,-0.15996093 0.23379,-0.16406253 0.31992,-0.40195313 0.0861,-0.2419922 0.0861,-1.1771484 v -1.8374999 h 1.15254 V 0 Z m 2.26407,-4.9464842 v -1.0664062 h 1.15254 v 1.0664062 z m 0,4.9464842 v -4.3558592 h 1.15254 V 0 Z m 3.43711,0 h -1.15254 v -4.3558592 h 1.0705 v 0.6193359 q 0.27481,-0.4388671 0.49219,-0.5783203 0.22149,-0.1394531 0.50039,-0.1394531 0.39375,0 0.75879,0.2173828 l -0.35683,1.0048828 q -0.29122,-0.1886719 -0.54141,-0.1886719 -0.24199,0 -0.41016,0.1353516 -0.16816,0.13125 -0.2666,0.4798828 -0.0943,0.3486328 -0.0943,1.4601562 z m 4.68808,-1.3863281 1.14844,0.1927735 q -0.22148,0.63164056 -0.70137,0.96386711 -0.47578,0.32812499 -1.19355,0.32812499 -1.13614,0 -1.68164,-0.74238278 -0.43067,-0.59472652 -0.43067,-1.50117182 0,-1.0828124 0.56602,-1.6939452 0.56601,-0.6152344 1.43144,-0.6152344 0.97207,0 1.53399,0.6439453 0.56191,0.6398437 0.5373,1.9646484 h -2.8875 q 0.0123,0.5126952 0.27891,0.7998046 0.2666,0.28300781 0.66445,0.28300781 0.27071,0 0.45528,-0.14765624 0.18457,-0.14765627 0.2789,-0.47578127 z m 0.0656,-1.1648437 q -0.0123,-0.5003906 -0.2584,-0.758789 -0.2461,-0.2625 -0.59883,-0.2625 -0.37734,0 -0.62344,0.2748047 -0.24609,0.2748047 -0.24199,0.7464843 z M 388.72499,0 h -1.07051 v -0.63984372 q -0.2666,0.37324217 -0.63164,0.55781247 -0.36093,0.18046875 -0.73008,0.18046875 -0.75058,0 -1.28789,-0.60292966 -0.5332,-0.60703124 -0.5332,-1.68984364 0,-1.1074219 0.5209,-1.6816406 0.5209,-0.5783203 1.3166,-0.5783203 0.73008,0 1.26328,0.6070312 v -2.1656249 h 1.15254 z m -3.07617,-2.2722655 q 0,0.6972656 0.19277,1.0089843 0.27891,0.45117186 0.7793,0.45117186 0.39785,0 0.67676,-0.33632806 0.2789,-0.3404297 0.2789,-1.0130859 0,-0.7505859 -0.2707,-1.0787109 -0.2707,-0.3322266 -0.69316,-0.3322266 -0.41016,0 -0.68907,0.328125 -0.2748,0.3240234 -0.2748,0.9720703 z m 3.89238,4.0400389 q 0.34043,-0.7300781 0.47988,-1.11972655 0.13946,-0.38964842 0.2584,-0.89824215 0.11895,-0.50859373 0.17637,-0.9638671 0.0574,-0.459375 0.0574,-0.9392578 0,-0.9761718 -0.20918,-1.8457031 -0.20918,-0.8736327 -0.77109,-2.1164061 h 0.7834 q 0.61933,0.8818359 0.95976,1.8703124 0.34453,0.9884765 0.34453,2.005664 0,0.8572265 -0.2707,1.83749989 -0.30762,1.0992187 -1.01309,2.16972651 z"
+         id="path394" />
+    </g>
+    <g
+       id="text49"
+       style="font-weight:700;font-size:9px;font-family:Arial-BoldMT, Arial"
+       transform="translate(21.6,90.6)"
+       aria-label="RATINGINFORMATION-STATE:">
+      <path
+         d="M 0.65917969,0 V -6.4423828 H 3.3969727 q 1.0327148,0 1.4985351,0.1757812 0.4702149,0.1713868 0.7514649,0.6152344 0.28125,0.4438477 0.28125,1.0151367 0,0.7250977 -0.4262696,1.1997071 -0.4262695,0.4702148 -1.274414,0.5932617 0.421875,0.2460937 0.6943359,0.5405273 0.2768555,0.2944336 0.7426758,1.0458985 L 6.4511719,0 H 4.8955078 L 3.9550781,-1.4018555 Q 3.4541016,-2.1533203 3.2695313,-2.3466797 3.0849609,-2.5444336 2.878418,-2.6147461 2.671875,-2.6894531 2.2236328,-2.6894531 H 1.9599609 V 0 Z M 1.9599609,-3.7177734 h 0.9624024 q 0.9360351,0 1.1689453,-0.079102 0.2329101,-0.079102 0.3647461,-0.2724609 0.1318359,-0.1933594 0.1318359,-0.4833985 0,-0.3251953 -0.1757812,-0.5229492 Q 4.2407227,-5.277832 3.9243164,-5.3305664 3.7661133,-5.3525391 2.9750977,-5.3525391 H 1.9599609 Z M 12.963867,0 h -1.415039 l -0.5625,-1.4633789 H 8.4111328 L 7.8793945,0 H 6.4995117 l 2.5092774,-6.4423828 h 1.3754879 z m -2.395019,-2.5488281 -0.8876957,-2.390625 -0.8701171,2.390625 z M 14.436035,0 v -5.3525391 h -1.911621 v -1.0898437 h 5.119629 v 1.0898437 H 15.736816 V 0 Z m 4.007813,0 v -6.4423828 h 1.300781 V 0 Z m 2.553222,0 v -6.4423828 h 1.265625 l 2.636719,4.3022461 V -6.4423828 H 26.10791 V 0 H 24.802734 L 22.205566,-4.2011719 V 0 Z m 9.483399,-2.3686523 v -1.0854493 h 2.803711 v 2.56640629 q -0.408692,0.39550781 -1.186524,0.69873047 -0.773437,0.29882812 -1.568847,0.29882812 -1.010743,0 -1.762207,-0.421875 -0.751465,-0.42626953 -1.129395,-1.21289058 -0.37793,-0.7910157 -0.37793,-1.7182618 0,-1.0063476 0.421875,-1.7885742 0.421875,-0.7822265 1.234864,-1.199707 0.619629,-0.3208008 1.54248,-0.3208008 1.199707,0 1.87207,0.5053711 0.676758,0.5009766 0.870118,1.3886719 l -1.291993,0.2416992 q -0.13623,-0.4746094 -0.51416,-0.7470703 -0.373535,-0.2768555 -0.936035,-0.2768555 -0.852539,0 -1.35791,0.5405274 -0.500977,0.5405273 -0.500977,1.6040039 0,1.1469726 0.509766,1.7226562 0.509766,0.5712891 1.335937,0.5712891 0.408692,0 0.817383,-0.1582031 0.413086,-0.1625977 0.70752,-0.3911133 v -0.8173828 z"
+         id="path395" />
+      <path
+         d="m 37.455235,0 v -6.4423828 h 1.300781 V 0 Z m 2.553222,0 v -6.4423828 h 1.265625 l 2.636719,4.3022461 v -4.3022461 h 1.208496 V 0 H 43.814121 L 41.216953,-4.2011719 V 0 Z m 6.495117,0 v -6.4423828 h 4.416504 v 1.0898437 h -3.115722 v 1.5249024 h 2.689453 V -2.737793 H 47.804356 V 0 Z m 5.225098,-3.1816406 q 0,-0.984375 0.294434,-1.6523438 0.219726,-0.4921875 0.597656,-0.8833008 0.382324,-0.3911132 0.834961,-0.5800781 0.602051,-0.2548828 1.388672,-0.2548828 1.423828,0 2.276367,0.8833008 0.856933,0.8833008 0.856933,2.456543 0,1.5600586 -0.848144,2.44335933 -0.848145,0.87890625 -2.267578,0.87890625 -1.437012,0 -2.285156,-0.87451172 -0.848145,-0.87890626 -0.848145,-2.41699216 z m 1.340332,-0.043945 q 0,1.0942382 0.505371,1.6611328 0.505371,0.5625 1.283203,0.5625 0.777832,0 1.274414,-0.5581055 0.500977,-0.5625 0.500977,-1.6831055 0,-1.1074218 -0.487793,-1.6523437 -0.483399,-0.5449219 -1.287598,-0.5449219 -0.804199,0 -1.296386,0.553711 -0.492188,0.5493164 -0.492188,1.6611328 z M 58.997227,0 v -6.4423828 h 2.737793 q 1.032715,0 1.498535,0.1757812 0.470215,0.1713868 0.751465,0.6152344 0.28125,0.4438477 0.28125,1.0151367 0,0.7250977 -0.42627,1.1997071 -0.426269,0.4702148 -1.274414,0.5932617 0.421875,0.2460937 0.694336,0.5405273 0.276855,0.2944336 0.742676,1.0458985 L 64.789219,0 h -1.555664 l -0.94043,-1.4018555 q -0.500976,-0.7514648 -0.685547,-0.9448242 -0.18457,-0.1977539 -0.391113,-0.2680664 -0.206543,-0.074707 -0.654785,-0.074707 H 60.298008 V 0 Z m 1.300781,-3.7177734 h 0.962402 q 0.936035,0 1.168946,-0.079102 0.23291,-0.079102 0.364746,-0.2724609 0.131836,-0.1933594 0.131836,-0.4833985 0,-0.3251953 -0.175782,-0.5229492 -0.171386,-0.2021484 -0.487793,-0.2548828 -0.158203,-0.021973 -0.949218,-0.021973 H 60.298008 Z M 65.474766,0 v -6.4423828 h 1.946777 l 1.168945,4.3945312 1.155762,-4.3945312 h 1.951172 V 0 H 70.488926 V -5.0712891 L 69.210117,0 H 67.957676 L 66.683262,-5.0712891 V 0 Z m 13.324219,0 h -1.41504 l -0.5625,-1.4633789 H 74.24625 L 73.714512,0 h -1.379883 l 2.509277,-6.4423828 h 1.375489 z m -2.39502,-2.5488281 -0.887695,-2.390625 -0.870118,2.390625 z M 80.271152,0 v -5.3525391 h -1.911621 v -1.0898437 h 5.119629 v 1.0898437 H 81.571934 V 0 Z m 4.007813,0 v -6.4423828 h 1.300781 V 0 Z m 2.276367,-3.1816406 q 0,-0.984375 0.294434,-1.6523438 0.219726,-0.4921875 0.597656,-0.8833008 0.382324,-0.3911132 0.834961,-0.5800781 0.602051,-0.2548828 1.388672,-0.2548828 1.423828,0 2.276367,0.8833008 0.856934,0.8833008 0.856934,2.456543 0,1.5600586 -0.848145,2.44335933 -0.848144,0.87890625 -2.267578,0.87890625 -1.437012,0 -2.285156,-0.87451172 -0.848145,-0.87890626 -0.848145,-2.41699216 z m 1.340332,-0.043945 q 0,1.0942382 0.505371,1.6611328 0.505371,0.5625 1.283203,0.5625 0.777832,0 1.274414,-0.5581055 0.500977,-0.5625 0.500977,-1.6831055 0,-1.1074218 -0.487793,-1.6523437 -0.483398,-0.5449219 -1.287598,-0.5449219 -0.804199,0 -1.296386,0.553711 -0.492188,0.5493164 -0.492188,1.6611328 z M 93.832676,0 v -6.4423828 h 1.265625 l 2.636719,4.3022461 v -4.3022461 h 1.208496 V 0 H 97.63834 L 95.041172,-4.2011719 V 0 Z"
+         id="path396" />
+      <path
+         d="M 103.18537,-1.7182617 V -2.953125 h 2.42578 v 1.2348633 z"
+         id="path397" />
+      <path
+         d="m 108.35519,-2.0961914 1.26563,-0.1230469 q 0.11426,0.6372071 0.46142,0.9360352 0.35157,0.2988281 0.94483,0.2988281 0.62842,0 0.94482,-0.2636719 0.3208,-0.2680664 0.3208,-0.6240234 0,-0.2285156 -0.13623,-0.3867188 -0.13183,-0.1625976 -0.46582,-0.28125 -0.22851,-0.079102 -1.0415,-0.28125 -1.0459,-0.2592773 -1.46777,-0.637207 -0.59327,-0.5317383 -0.59327,-1.2963867 0,-0.4921875 0.27686,-0.918457 0.28125,-0.4306641 0.8042,-0.6547852 0.52734,-0.2241211 1.27002,-0.2241211 1.21289,0 1.82373,0.5317383 0.61523,0.5317383 0.646,1.4194336 l -1.30079,0.057129 q -0.0835,-0.496582 -0.36035,-0.7119141 -0.27246,-0.2197265 -0.82178,-0.2197265 -0.56689,0 -0.88769,0.2329101 -0.20654,0.1494141 -0.20654,0.3999024 0,0.2285156 0.19336,0.3911132 0.24609,0.206543 1.19531,0.4306641 0.94922,0.2241211 1.40185,0.4658203 0.45704,0.2373047 0.71192,0.6547852 0.25928,0.4130859 0.25928,1.0239258 0,0.5537109 -0.30762,1.03710933 -0.30762,0.48339844 -0.87012,0.72070313 -0.5625,0.23291015 -1.40185,0.23291015 -1.22168,0 -1.87647,-0.5625 -0.65478,-0.56689451 -0.78223,-1.64794921 z M 116.13791,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 h -1.90723 V 0 Z m 9.18896,0 h -1.41504 l -0.5625,-1.4633789 h -2.57519 L 120.2424,0 h -1.37988 l 2.50928,-6.4423828 h 1.37548 z m -2.39502,-2.5488281 -0.88769,-2.390625 -0.87012,2.390625 z M 126.79904,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 h -1.90723 V 0 Z m 4.04737,0 v -6.4423828 h 4.77685 v 1.0898437 h -3.47607 v 1.4282227 h 3.23437 v 1.0854492 h -3.23437 v 1.753418 h 3.59912 V 0 Z m 6.23144,-3.4321289 v -1.2348633 h 1.23486 v 1.2348633 z m 0,3.4321289 v -1.2348633 h 1.23486 V 0 Z"
+         id="path398" />
+    </g>
+    <g
+       id="text77"
+       style="font-weight:700;font-size:9px;font-family:Arial-BoldMT, Arial"
+       transform="translate(21.6,72)"
+       aria-label="FOR  MULTIPLESTATES,ATTACHANADDITIONALPAGE2OFTHISFORM">
+      <path
+         d="M 0.66357422,0 V -6.4423828 H 5.0800781 v 1.0898437 H 1.9643555 v 1.5249024 H 4.6538086 V -2.737793 H 1.9643555 V 0 Z M 5.8886719,-3.1816406 q 0,-0.984375 0.2944336,-1.6523438 0.2197265,-0.4921875 0.5976562,-0.8833008 0.3823242,-0.3911132 0.834961,-0.5800781 0.6020507,-0.2548828 1.3886718,-0.2548828 1.4238285,0 2.2763675,0.8833008 0.856933,0.8833008 0.856933,2.456543 0,1.5600586 -0.848144,2.44335933 -0.848145,0.87890625 -2.2675783,0.87890625 -1.4370118,0 -2.2851563,-0.87451172 Q 5.8886719,-1.6435547 5.8886719,-3.1816406 Z m 1.340332,-0.043945 q 0,1.0942382 0.5053711,1.6611328 0.5053711,0.5625 1.2832031,0.5625 0.7778321,0 1.2744139,-0.5581055 0.500977,-0.5625 0.500977,-1.6831055 0,-1.1074218 -0.487793,-1.6523437 -0.4833987,-0.5449219 -1.2875979,-0.5449219 -0.8041992,0 -1.2963867,0.553711 -0.4921875,0.5493164 -0.4921875,1.6611328 z M 13.157227,0 v -6.4423828 h 2.737793 q 1.032714,0 1.498535,0.1757812 0.470215,0.1713868 0.751465,0.6152344 0.28125,0.4438477 0.28125,1.0151367 0,0.7250977 -0.42627,1.1997071 -0.42627,0.4702148 -1.274414,0.5932617 0.421875,0.2460937 0.694336,0.5405273 0.276855,0.2944336 0.742676,1.0458985 L 18.949219,0 h -1.555664 l -0.94043,-1.4018555 q -0.500977,-0.7514648 -0.685547,-0.9448242 -0.18457,-0.1977539 -0.391113,-0.2680664 -0.206543,-0.074707 -0.654785,-0.074707 H 14.458008 V 0 Z m 1.300781,-3.7177734 h 0.962402 q 0.936035,0 1.168945,-0.079102 0.232911,-0.079102 0.364747,-0.2724609 0.131835,-0.1933594 0.131835,-0.4833985 0,-0.3251953 -0.175781,-0.5229492 -0.171386,-0.2021484 -0.487793,-0.2548828 -0.158203,-0.021973 -0.949218,-0.021973 h -1.015137 z"
+         id="path399" />
+      <path
+         d="m 24.527206,0 v -6.4423828 h 1.946778 l 1.168945,4.3945312 1.155762,-4.3945312 h 1.951172 V 0 H 29.541367 V -5.0712891 L 28.262558,0 H 27.010117 L 25.735703,-5.0712891 V 0 Z m 7.50586,-6.4423828 h 1.300781 v 3.4892578 q 0,0.8305664 0.04834,1.0766602 0.0835,0.3955078 0.395508,0.637207 0.316406,0.2373047 0.861328,0.2373047 0.553711,0 0.834961,-0.2241211 0.28125,-0.2285156 0.338379,-0.5581055 0.05713,-0.3295898 0.05713,-1.0942383 v -3.5639648 h 1.300781 v 3.383789 q 0,1.1601563 -0.105469,1.6391602 -0.105469,0.47900391 -0.391113,0.80859376 -0.28125,0.32958984 -0.75586,0.52734375 -0.474609,0.19335937 -1.239257,0.19335937 -0.922852,0 -1.401856,-0.2109375 -0.474609,-0.21533203 -0.751465,-0.55371094 -0.276855,-0.34277343 -0.364746,-0.71630854 -0.127441,-0.553711 -0.127441,-1.6347657 z M 38.576523,0 v -6.3896484 h 1.300781 v 5.3041992 h 3.234375 V 0 Z m 6.244629,0 v -5.3525391 h -1.911621 v -1.0898437 h 5.119629 v 1.0898437 H 46.121933 V 0 Z m 4.007812,0 v -6.4423828 h 1.300781 V 0 Z m 2.540039,0 v -6.4423828 h 2.087403 q 1.186523,0 1.546875,0.09668 0.553711,0.1450195 0.927246,0.6328125 0.373535,0.4833984 0.373535,1.2524414 0,0.5932617 -0.215332,0.9975586 -0.215332,0.4042968 -0.549317,0.637207 -0.329589,0.2285156 -0.672363,0.3032227 -0.46582,0.092285 -1.349121,0.092285 H 52.669785 V 0 Z m 1.300782,-5.3525391 v 1.828125 h 0.711914 q 0.769043,0 1.02832,-0.1010742 0.259277,-0.1010742 0.404297,-0.3164062 0.149414,-0.2153321 0.149414,-0.5009766 0,-0.3515625 -0.206543,-0.5800781 -0.206543,-0.2285156 -0.522949,-0.2856445 -0.23291,-0.043945 -0.936035,-0.043945 z M 57.407089,0 v -6.3896484 h 1.300781 v 5.3041992 h 3.234375 V 0 Z m 5.462403,0 v -6.4423828 h 4.776855 v 1.0898437 h -3.476074 v 1.4282227 h 3.234375 v 1.0854492 h -3.234375 v 1.753418 h 3.599121 V 0 Z"
+         id="path400" />
+      <path
+         d="m 71.655197,-2.0961914 1.265625,-0.1230469 q 0.114258,0.6372071 0.461426,0.9360352 0.351562,0.2988281 0.944824,0.2988281 0.628418,0 0.944824,-0.2636719 0.320801,-0.2680664 0.320801,-0.6240234 0,-0.2285156 -0.13623,-0.3867188 -0.131836,-0.1625976 -0.465821,-0.28125 -0.228515,-0.079102 -1.041504,-0.28125 -1.045898,-0.2592773 -1.467773,-0.637207 -0.593262,-0.5317383 -0.593262,-1.2963867 0,-0.4921875 0.276856,-0.918457 0.28125,-0.4306641 0.804199,-0.6547852 0.527344,-0.2241211 1.27002,-0.2241211 1.21289,0 1.82373,0.5317383 0.615234,0.5317383 0.645996,1.4194336 l -1.300781,0.057129 q -0.0835,-0.496582 -0.360352,-0.7119141 -0.272461,-0.2197265 -0.821777,-0.2197265 -0.566895,0 -0.887695,0.2329101 -0.206543,0.1494141 -0.206543,0.3999024 0,0.2285156 0.193359,0.3911132 0.246094,0.206543 1.195313,0.4306641 0.949218,0.2241211 1.401855,0.4658203 0.457031,0.2373047 0.711914,0.6547852 0.259277,0.4130859 0.259277,1.0239258 0,0.5537109 -0.307617,1.03710933 -0.307617,0.48339844 -0.870117,0.72070313 -0.5625,0.23291015 -1.401855,0.23291015 -1.22168,0 -1.876465,-0.5625 Q 71.782639,-1.0151367 71.655197,-2.0961914 Z M 79.437912,0 v -5.3525391 h -1.911621 v -1.0898437 h 5.119629 v 1.0898437 H 80.738693 V 0 Z m 9.188965,0 h -1.415039 l -0.5625,-1.4633789 H 84.074142 L 83.542404,0 h -1.379883 l 2.509278,-6.4423828 h 1.375488 z m -2.39502,-2.5488281 -0.887695,-2.390625 -0.870117,2.390625 z M 90.099045,0 v -5.3525391 h -1.911621 v -1.0898437 h 5.119629 v 1.0898437 H 91.399826 V 0 Z m 4.047363,0 v -6.4423828 h 4.776856 v 1.0898437 h -3.476075 v 1.4282227 h 3.234375 v 1.0854492 h -3.234375 v 1.753418 H 99.04631 V 0 Z m 5.67334,-2.0961914 1.265622,-0.1230469 q 0.11426,0.6372071 0.46143,0.9360352 0.35156,0.2988281 0.94482,0.2988281 0.62842,0 0.94483,-0.2636719 0.3208,-0.2680664 0.3208,-0.6240234 0,-0.2285156 -0.13623,-0.3867188 -0.13184,-0.1625976 -0.46582,-0.28125 -0.22852,-0.079102 -1.04151,-0.28125 -1.0459,-0.2592773 -1.46777,-0.637207 -0.59326,-0.5317383 -0.59326,-1.2963867 0,-0.4921875 0.27685,-0.918457 0.28125,-0.4306641 0.8042,-0.6547852 0.52735,-0.2241211 1.27002,-0.2241211 1.21289,0 1.82373,0.5317383 0.61524,0.5317383 0.646,1.4194336 l -1.30078,0.057129 q -0.0835,-0.496582 -0.36035,-0.7119141 -0.27246,-0.2197265 -0.82178,-0.2197265 -0.5669,0 -0.8877,0.2329101 -0.20654,0.1494141 -0.20654,0.3999024 0,0.2285156 0.19336,0.3911132 0.24609,0.206543 1.19531,0.4306641 0.94922,0.2241211 1.40186,0.4658203 0.45703,0.2373047 0.71191,0.6547852 0.25928,0.4130859 0.25928,1.0239258 0,0.5537109 -0.30762,1.03710933 -0.30762,0.48339844 -0.87012,0.72070313 -0.5625,0.23291015 -1.40185,0.23291015 -1.22168,0 -1.87647,-0.5625 -0.654781,-0.56689451 -0.782222,-1.64794921 z m 6.292972,0.8613281 h 1.23486 v 0.8833008 q 0,0.53613281 -0.0923,0.84375 -0.0923,0.31201172 -0.35156,0.5581055 -0.25488,0.2460937 -0.65039,0.3867187 l -0.2417,-0.50976561 q 0.37354,-0.12304687 0.53174,-0.3383789 Q 106.70158,0.37353516 106.71037,0 h -0.59765 z"
+         id="path401" />
+      <path
+         d="m 118.24435,0 h -1.41503 l -0.5625,-1.4633789 h -2.5752 L 113.15988,0 H 111.78 l 2.50928,-6.4423828 h 1.37548 z m -2.39502,-2.5488281 -0.88769,-2.390625 -0.87012,2.390625 z M 119.71652,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 H 121.0173 V 0 Z m 5.49756,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 h -1.90723 V 0 Z m 9.18897,0 h -1.41504 l -0.5625,-1.4633789 h -2.5752 L 129.31857,0 h -1.37988 l 2.50928,-6.4423828 h 1.37549 z m -2.39502,-2.5488281 -0.8877,-2.390625 -0.87012,2.390625 z m 7.20703,0.1801758 1.26123,0.3999023 q -0.29004,1.0546875 -0.9668,1.56884766 -0.67236,0.50976562 -1.70947,0.50976562 -1.2832,0 -2.10938,-0.87451172 -0.82617,-0.87890626 -0.82617,-2.39941406 0,-1.6083984 0.83057,-2.4960937 0.83056,-0.8920899 2.18408,-0.8920899 1.18213,0 1.92041,0.6987305 0.43945,0.4130859 0.65918,1.1865234 l -1.2876,0.3076172 q -0.11426,-0.5009766 -0.479,-0.7910156 -0.36035,-0.2900391 -0.87891,-0.2900391 -0.71631,0 -1.16455,0.5141602 -0.44385,0.5141601 -0.44385,1.6655273 0,1.2216797 0.43946,1.7402344 0.43945,0.5185547 1.14257,0.5185547 0.51856,0 0.89209,-0.3295899 0.37354,-0.3295898 0.53614,-1.0371093 z M 141.59689,0 v -6.4423828 h 1.30078 v 2.5356445 h 2.54883 v -2.5356445 h 1.30078 V 0 h -1.30078 v -2.8168945 h -2.54883 V 0 Z"
+         id="path402" />
+      <path
+         d="m 157.68436,0 h -1.41504 l -0.5625,-1.4633789 h -2.5752 L 152.59988,0 H 151.22 l 2.50928,-6.4423828 h 1.37549 z m -2.39502,-2.5488281 -0.8877,-2.390625 -0.87012,2.390625 z M 158.38748,0 v -6.4423828 h 1.26563 l 2.63672,4.3022461 v -4.3022461 h 1.20849 V 0 h -1.30517 l -2.59717,-4.2011719 V 0 Z"
+         id="path403" />
+      <path
+         d="m 173.13435,0 h -1.41504 l -0.5625,-1.4633789 h -2.57519 L 168.04988,0 H 166.67 l 2.50928,-6.4423828 h 1.37548 z m -2.39502,-2.5488281 -0.88769,-2.390625 -0.87012,2.390625 z m 3.08057,-3.8935547 h 2.37744 q 0.8042,0 1.22608,0.1230469 0.56689,0.1669922 0.97119,0.5932617 0.40429,0.4262695 0.61523,1.0458984 0.21094,0.6152344 0.21094,1.5205078 0,0.7954102 -0.19775,1.3710938 -0.2417,0.703125 -0.68995,1.13818358 -0.33837,0.32958984 -0.91406,0.51416015 Q 176.98836,0 176.26765,0 h -2.44775 z m 1.30078,1.0898437 v 4.2670899 h 0.97119 q 0.54493,0 0.78662,-0.061524 0.31641,-0.079101 0.52295,-0.2680664 0.21094,-0.1889648 0.34278,-0.6196289 0.13183,-0.4350586 0.13183,-1.1821289 0,-0.7470703 -0.13183,-1.1469726 -0.13184,-0.3999024 -0.36914,-0.6240235 -0.23731,-0.2241211 -0.60205,-0.3032226 -0.27247,-0.061524 -1.06788,-0.061524 z m 5.19873,-1.0898437 h 2.37744 q 0.8042,0 1.22608,0.1230469 0.56689,0.1669922 0.97119,0.5932617 0.4043,0.4262695 0.61523,1.0458984 0.21094,0.6152344 0.21094,1.5205078 0,0.7954102 -0.19775,1.3710938 -0.2417,0.703125 -0.68994,1.13818358 -0.33838,0.32958984 -0.91407,0.51416015 Q 183.48787,0 182.76717,0 h -2.44776 z m 1.30078,1.0898437 v 4.2670899 h 0.97119 q 0.54493,0 0.78663,-0.061524 0.3164,-0.079101 0.52295,-0.2680664 0.21093,-0.1889648 0.34277,-0.6196289 0.13183,-0.4350586 0.13183,-1.1821289 0,-0.7470703 -0.13183,-1.1469726 -0.13184,-0.3999024 -0.36914,-0.6240235 -0.23731,-0.2241211 -0.60205,-0.3032226 -0.27246,-0.061524 -1.06787,-0.061524 z M 186.78377,0 v -6.4423828 h 1.30078 V 0 Z m 3.99023,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 h -1.90723 V 0 Z m 4.00781,0 v -6.4423828 h 1.30079 V 0 Z m 2.27637,-3.1816406 q 0,-0.984375 0.29444,-1.6523438 0.21972,-0.4921875 0.59765,-0.8833008 0.38233,-0.3911132 0.83496,-0.5800781 0.60205,-0.2548828 1.38867,-0.2548828 1.42383,0 2.27637,0.8833008 0.85694,0.8833008 0.85694,2.456543 0,1.5600586 -0.84815,2.44335933 -0.84814,0.87890625 -2.26758,0.87890625 -1.43701,0 -2.28515,-0.87451172 -0.84815,-0.87890626 -0.84815,-2.41699216 z m 1.34033,-0.043945 q 0,1.0942382 0.50537,1.6611328 0.50538,0.5625 1.28321,0.5625 0.77783,0 1.27441,-0.5581055 0.50098,-0.5625 0.50098,-1.6831055 0,-1.1074218 -0.48779,-1.6523437 -0.4834,-0.5449219 -1.2876,-0.5449219 -0.8042,0 -1.29639,0.553711 -0.49219,0.5493164 -0.49219,1.6611328 z M 204.33553,0 v -6.4423828 h 1.26562 l 2.63672,4.3022461 v -4.3022461 h 1.2085 V 0 h -1.30518 l -2.59717,-4.2011719 V 0 Z m 12.29589,0 h -1.41504 l -0.5625,-1.4633789 h -2.57519 L 211.54695,0 h -1.37988 l 2.50928,-6.4423828 h 1.37548 z m -2.39502,-2.5488281 -0.88769,-2.390625 -0.87012,2.390625 z M 217.35652,0 v -6.3896484 h 1.30078 v 5.3041992 h 3.23438 V 0 Z"
+         id="path404" />
+      <path
+         d="m 225.26479,0 v -6.4423828 h 2.0874 q 1.18652,0 1.54687,0.09668 0.55371,0.1450195 0.92725,0.6328125 0.37353,0.4833984 0.37353,1.2524414 0,0.5932617 -0.21533,0.9975586 -0.21533,0.4042968 -0.54931,0.637207 -0.32959,0.2285156 -0.67237,0.3032227 -0.46582,0.092285 -1.34912,0.092285 h -0.84814 V 0 Z m 1.30078,-5.3525391 v 1.828125 h 0.71191 q 0.76904,0 1.02832,-0.1010742 0.25928,-0.1010742 0.4043,-0.3164062 0.14941,-0.2153321 0.14941,-0.5009766 0,-0.3515625 -0.20654,-0.5800781 -0.20654,-0.2285156 -0.52295,-0.2856445 -0.23291,-0.043945 -0.93604,-0.043945 z M 236.40932,0 h -1.41504 l -0.5625,-1.4633789 h -2.5752 L 231.32484,0 h -1.37988 l 2.50928,-6.4423828 h 1.37549 z m -2.39502,-2.5488281 -0.8877,-2.390625 -0.87012,2.390625 z m 6.08203,0.1801758 v -1.0854493 h 2.80371 v 2.56640629 q -0.40869,0.39550781 -1.18652,0.69873047 -0.77344,0.29882812 -1.56885,0.29882812 -1.01074,0 -1.76221,-0.421875 -0.75146,-0.42626953 -1.12939,-1.21289058 -0.37793,-0.7910157 -0.37793,-1.7182618 0,-1.0063476 0.42187,-1.7885742 0.42188,-0.7822265 1.23487,-1.199707 0.61962,-0.3208008 1.54248,-0.3208008 1.1997,0 1.87207,0.5053711 0.67675,0.5009766 0.87011,1.3886719 l -1.29199,0.2416992 q -0.13623,-0.4746094 -0.51416,-0.7470703 -0.37353,-0.2768555 -0.93603,-0.2768555 -0.85254,0 -1.35791,0.5405274 -0.50098,0.5405273 -0.50098,1.6040039 0,1.1469726 0.50976,1.7226562 0.50977,0.5712891 1.33594,0.5712891 0.40869,0 0.81739,-0.1582031 0.41308,-0.1625977 0.70751,-0.3911133 V -2.3686523 Z M 244.09975,0 v -6.4423828 h 4.77685 v 1.0898437 h -3.47607 v 1.4282227 h 3.23437 v 1.0854492 h -3.23437 v 1.753418 h 3.59912 V 0 Z"
+         id="path405" />
+      <path
+         d="M 257.11273,-1.1469727 V 0 h -4.32861 q 0.0703,-0.65039062 0.42187,-1.2304687 0.35157,-0.5844727 1.38868,-1.5468751 0.83496,-0.777832 1.02392,-1.0546875 0.25488,-0.3823242 0.25488,-0.7558593 0,-0.413086 -0.22412,-0.6328125 -0.21972,-0.2241211 -0.61084,-0.2241211 -0.38672,0 -0.61523,0.2329101 -0.22852,0.2329102 -0.26367,0.7734375 l -1.23047,-0.1230468 q 0.10986,-1.0195313 0.68994,-1.4633789 0.58008,-0.4438477 1.45019,-0.4438477 0.95362,0 1.49854,0.5141602 0.54492,0.5141601 0.54492,1.2788086 0,0.4350585 -0.1582,0.8305664 -0.15381,0.3911132 -0.49219,0.8217773 -0.22412,0.2856445 -0.80859,0.8217773 -0.58448,0.5361329 -0.74268,0.7119141 -0.15381,0.1757813 -0.25049,0.3427734 z"
+         id="path406" />
+      <path
+         d="m 260.40112,-3.1816406 q 0,-0.984375 0.29444,-1.6523438 0.21972,-0.4921875 0.59765,-0.8833008 0.38233,-0.3911132 0.83496,-0.5800781 0.60205,-0.2548828 1.38868,-0.2548828 1.42382,0 2.27636,0.8833008 0.85694,0.8833008 0.85694,2.456543 0,1.5600586 -0.84815,2.44335933 -0.84814,0.87890625 -2.26758,0.87890625 -1.43701,0 -2.28515,-0.87451172 -0.84815,-0.87890626 -0.84815,-2.41699216 z m 1.34034,-0.043945 q 0,1.0942382 0.50537,1.6611328 0.50537,0.5625 1.2832,0.5625 0.77783,0 1.27441,-0.5581055 0.50098,-0.5625 0.50098,-1.6831055 0,-1.1074218 -0.48779,-1.6523437 -0.4834,-0.5449219 -1.2876,-0.5449219 -0.8042,0 -1.29639,0.553711 -0.49218,0.5493164 -0.49218,1.6611328 z M 267.67407,0 v -6.4423828 h 4.41651 v 1.0898437 h -3.11573 v 1.5249024 h 2.68946 v 1.0898437 h -2.68946 V 0 Z"
+         id="path407" />
+      <path
+         d="m 277.06497,0 v -5.3525391 h -1.91162 v -1.0898437 h 5.11963 v 1.0898437 h -1.90723 V 0 Z m 4.05176,0 v -6.4423828 h 1.30078 v 2.5356445 h 2.54883 v -2.5356445 h 1.30078 V 0 h -1.30078 v -2.8168945 h -2.54883 V 0 Z m 6.45557,0 v -6.4423828 h 1.30078 V 0 Z m 2.21045,-2.0961914 1.26562,-0.1230469 q 0.11426,0.6372071 0.46143,0.9360352 0.35156,0.2988281 0.94482,0.2988281 0.62842,0 0.94482,-0.2636719 0.32081,-0.2680664 0.32081,-0.6240234 0,-0.2285156 -0.13624,-0.3867188 -0.13183,-0.1625976 -0.46582,-0.28125 -0.22851,-0.079102 -1.0415,-0.28125 -1.0459,-0.2592773 -1.46777,-0.637207 -0.59326,-0.5317383 -0.59326,-1.2963867 0,-0.4921875 0.27685,-0.918457 0.28125,-0.4306641 0.8042,-0.6547852 0.52734,-0.2241211 1.27002,-0.2241211 1.21289,0 1.82373,0.5317383 0.61523,0.5317383 0.646,1.4194336 l -1.30078,0.057129 q -0.0835,-0.496582 -0.36036,-0.7119141 -0.27246,-0.2197265 -0.82177,-0.2197265 -0.5669,0 -0.8877,0.2329101 -0.20654,0.1494141 -0.20654,0.3999024 0,0.2285156 0.19336,0.3911132 0.24609,0.206543 1.19531,0.4306641 0.94922,0.2241211 1.40186,0.4658203 0.45703,0.2373047 0.71191,0.6547852 0.25928,0.4130859 0.25928,1.0239258 0,0.5537109 -0.30762,1.03710933 -0.30762,0.48339844 -0.87012,0.72070313 -0.5625,0.23291015 -1.40185,0.23291015 -1.22168,0 -1.87647,-0.5625 -0.65478,-0.56689451 -0.78222,-1.64794921 z"
+         id="path408" />
+      <path
+         style="letter-spacing:0em"
+         d="m 298.56357,0 v -6.4423828 h 4.4165 v 1.0898437 h -3.11572 v 1.5249024 h 2.68945 v 1.0898437 h -2.68945 V 0 Z m 5.2251,-3.1816406 q 0,-0.984375 0.29443,-1.6523438 0.21973,-0.4921875 0.59766,-0.8833008 0.38232,-0.3911132 0.83496,-0.5800781 0.60205,-0.2548828 1.38867,-0.2548828 1.42383,0 2.27637,0.8833008 0.85693,0.8833008 0.85693,2.456543 0,1.5600586 -0.84815,2.44335933 -0.84814,0.87890625 -2.26757,0.87890625 -1.43702,0 -2.28516,-0.87451172 -0.84814,-0.87890626 -0.84814,-2.41699216 z m 1.34033,-0.043945 q 0,1.0942382 0.50537,1.6611328 0.50537,0.5625 1.2832,0.5625 0.77783,0 1.27442,-0.5581055 0.50097,-0.5625 0.50097,-1.6831055 0,-1.1074218 -0.48779,-1.6523437 -0.4834,-0.5449219 -1.2876,-0.5449219 -0.8042,0 -1.29638,0.553711 -0.49219,0.5493164 -0.49219,1.6611328 z M 311.05722,0 v -6.4423828 h 2.73779 q 1.03272,0 1.49854,0.1757812 0.47021,0.1713868 0.75146,0.6152344 0.28125,0.4438477 0.28125,1.0151367 0,0.7250977 -0.42627,1.1997071 -0.42627,0.4702148 -1.27441,0.5932617 0.42187,0.2460937 0.69434,0.5405273 0.27685,0.2944336 0.74267,1.0458985 L 316.84921,0 h -1.55566 l -0.94043,-1.4018555 q -0.50098,-0.7514648 -0.68555,-0.9448242 -0.18457,-0.1977539 -0.39111,-0.2680664 -0.20654,-0.074707 -0.65479,-0.074707 H 312.358 V 0 Z m 1.30078,-3.7177734 h 0.9624 q 0.93604,0 1.16895,-0.079102 0.23291,-0.079102 0.36475,-0.2724609 0.13183,-0.1933594 0.13183,-0.4833985 0,-0.3251953 -0.17578,-0.5229492 -0.17139,-0.2021484 -0.48779,-0.2548828 -0.15821,-0.021973 -0.94922,-0.021973 H 312.358 Z M 317.53476,0 v -6.4423828 h 1.94678 l 1.16894,4.3945312 1.15576,-4.3945312 h 1.95118 V 0 h -1.2085 V -5.0712891 L 321.27011,0 h -1.25244 l -1.27441,-5.0712891 V 0 Z"
+         id="path409" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BODY" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="LEGAL_TEXT_STATIC" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="SIGNATURE_BLOCK" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="FOOTER" />
 </svg>

@@ -1,0 +1,66 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD130",
+  "pageId": "page-3",
+  "fields": [
+    {
+      "name": "prior_carrier",
+      "type": "text",
+      "x": 76,
+      "y": 66,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "prior_policy_number",
+      "type": "text",
+      "x": 77,
+      "y": 79,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_claims",
+      "type": "text",
+      "x": 395,
+      "y": 71,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "loss_amout",
+      "type": "text",
+      "x": 440,
+      "y": 72,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "loss_date",
+      "type": "text",
+      "x": 22,
+      "y": 71,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "operations_description",
+      "type": "multiline",
+      "x": 28,
+      "y": 226,
+      "w": 550,
+      "h": 90,
+      "fontSize": 8
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD130",
+  "pageId": "page-2",
+  "fields": [
+    {
+      "name": "mailing_state",
+      "type": "text",
+      "x": 166,
+      "y": 82,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_ft_employees",
+      "type": "text",
+      "x": 295,
+      "y": 126,
+      "w": 20,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_pt_employees",
+      "type": "text",
+      "x": 323,
+      "y": 125,
+      "w": 20,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "sic",
+      "type": "text",
+      "x": 349,
+      "y": 126,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "naics",
+      "type": "text",
+      "x": 383,
+      "y": 127,
+      "w": 25,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "annual_payroll",
+      "type": "text",
+      "x": 415,
+      "y": 127,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "remarks_130",
+      "type": "multiline",
+      "x": 24,
+      "y": 634,
+      "w": 550,
+      "h": 90,
+      "fontSize": 8
+    }
+  ]
+}

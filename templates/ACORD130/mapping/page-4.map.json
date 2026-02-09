@@ -1,0 +1,39 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD130",
+  "pageId": "page-4",
+  "fields": [
+    {
+      "name": "applicate_signature",
+      "type": "text",
+      "x": 29,
+      "y": 738,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "signature_date",
+      "type": "text",
+      "x": 224,
+      "y": 737,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "producers_npn",
+      "type": "text",
+      "x": 507,
+      "y": 739,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
+}
