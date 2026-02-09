@@ -1,0 +1,353 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_CONTRACTOR",
+  "pageId": "page-2",
+  "fields": [
+    {
+      "name": "condo_work_type",
+      "type": "text",
+      "x": 63,
+      "y": 111,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_new_condo_units",
+      "type": "text",
+      "x": 315,
+      "y": 110,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "date_most_recent_project",
+      "type": "text",
+      "x": 257,
+      "y": 126,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "upcoming_condo_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 165,
+      "size": 10
+    },
+    {
+      "name": "upcoming_condo_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 165,
+      "size": 10
+    },
+    {
+      "name": "upcoming_condo_explain",
+      "type": "text",
+      "x": 64,
+      "y": 199,
+      "w": 400,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "upcoming_apartments_explain",
+      "type": "text",
+      "x": 62,
+      "y": 250,
+      "w": 400,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "apartments_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 216,
+      "size": 10
+    },
+    {
+      "name": "apartments_no",
+      "type": "checkbox",
+      "x": 539,
+      "y": 216,
+      "size": 10
+    },
+    {
+      "name": "hire_subs_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 266,
+      "size": 10
+    },
+    {
+      "name": "hire_subs_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 264,
+      "size": 10
+    },
+    {
+      "name": "subs_require_coi_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "subs_require_coi_no",
+      "type": "checkbox",
+      "x": 539,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "subs_carry_lover_limits_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 323,
+      "size": 10
+    },
+    {
+      "name": "subs_carry_lower_limits_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 323,
+      "size": 10
+    },
+    {
+      "name": "subs_min_limits",
+      "type": "text",
+      "x": 258,
+      "y": 337,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "subs_wc_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 360,
+      "size": 10
+    },
+    {
+      "name": "subs_wc_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 359,
+      "size": 10
+    },
+    {
+      "name": "subs_contracts_holdharmless-yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 388,
+      "size": 10
+    },
+    {
+      "name": "subs_contracts_holdharmless-no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 389,
+      "size": 10
+    },
+    {
+      "name": "subs_ai_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 405,
+      "size": 10
+    },
+    {
+      "name": "subs_ai_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 405,
+      "size": 10
+    },
+    {
+      "name": "thirdparty_action_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 428,
+      "size": 10
+    },
+    {
+      "name": "thirdpary_action_no",
+      "type": "checkbox",
+      "x": 539,
+      "y": 431,
+      "size": 10
+    },
+    {
+      "name": "coi_retention_period",
+      "type": "text",
+      "x": 246,
+      "y": 445,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "work_repair_remodel_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 461,
+      "size": 10
+    },
+    {
+      "name": "work_repair_remodel_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 460,
+      "size": 10
+    },
+    {
+      "name": "remodel_condos_hoas_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 484,
+      "size": 10
+    },
+    {
+      "name": "remodel_condos_hoas_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 484,
+      "size": 10
+    },
+    {
+      "name": "condo_conversions_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 501,
+      "size": 10
+    },
+    {
+      "name": "condo_conversions_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 501,
+      "size": 10
+    },
+    {
+      "name": "desc_remodel_work",
+      "type": "text",
+      "x": 184,
+      "y": 531,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "num_remodel_units",
+      "type": "text",
+      "x": 327,
+      "y": 556,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "type_remodel_work",
+      "type": "text",
+      "x": 185,
+      "y": 572,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "mold_litigation_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 598,
+      "size": 10
+    },
+    {
+      "name": "mold_litigation_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 598,
+      "size": 10
+    },
+    {
+      "name": "mold_defect_losses_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 621,
+      "size": 10
+    },
+    {
+      "name": "mold_defect_losses_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 622,
+      "size": 10
+    },
+    {
+      "name": "wrap_up_projects_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 639,
+      "size": 10
+    },
+    {
+      "name": "wrap_up_projects_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 639,
+      "size": 10
+    },
+    {
+      "name": "cost_wrap_up",
+      "type": "text",
+      "x": 380,
+      "y": 654,
+      "w": 150,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "written_safety_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 671,
+      "size": 10
+    },
+    {
+      "name": "written_safety_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 673,
+      "size": 10
+    },
+    {
+      "name": "safety_explanation",
+      "type": "text",
+      "x": 280,
+      "y": 687,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "protect_public_injury",
+      "type": "text",
+      "x": 304,
+      "y": 703,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_CONTRACTOR",
+  "pageId": "page-6",
+  "fields": [
+    {
+      "name": "another_company_sub_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 99,
+      "size": 10
+    },
+    {
+      "name": "another_company_sub_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 100,
+      "size": 10
+    },
+    {
+      "name": "m_and_a_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 116,
+      "size": 10
+    },
+    {
+      "name": "m_and_a_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 117,
+      "size": 10
+    },
+    {
+      "name": "ins_declined_3yr_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 138,
+      "size": 10
+    },
+    {
+      "name": "ins_declined_3yr_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 138,
+      "size": 10
+    },
+    {
+      "name": "exposure_chemicals_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 156,
+      "size": 10
+    },
+    {
+      "name": "exposure_chemicals_no",
+      "type": "checkbox",
+      "x": 539,
+      "y": 156,
+      "size": 10
+    },
+    {
+      "name": "active_jv_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 172,
+      "size": 10
+    },
+    {
+      "name": "active_jv_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 173,
+      "size": 10
+    },
+    {
+      "name": "bankruptcies_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 188,
+      "size": 10
+    },
+    {
+      "name": "bankruptcies_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 189,
+      "size": 10
+    },
+    {
+      "name": "ai_name",
+      "type": "text",
+      "x": 65,
+      "y": 310,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address",
+      "type": "text",
+      "x": 66,
+      "y": 323,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_1",
+      "type": "checkbox",
+      "x": 489,
+      "y": 319,
+      "size": 10
+    },
+    {
+      "name": "ai_2",
+      "type": "checkbox",
+      "x": 488,
+      "y": 354,
+      "size": 10
+    },
+    {
+      "name": "cert_1",
+      "type": "checkbox",
+      "x": 540,
+      "y": 321,
+      "size": 10
+    },
+    {
+      "name": "cert_2",
+      "type": "checkbox",
+      "x": 539,
+      "y": 353,
+      "size": 10
+    },
+    {
+      "name": "ai_name_2",
+      "type": "text",
+      "x": 68,
+      "y": 344,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address_2",
+      "type": "text",
+      "x": 71,
+      "y": 358,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_relationship_1",
+      "type": "text",
+      "x": 395,
+      "y": 318,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_relationship_2",
+      "type": "text",
+      "x": 395,
+      "y": 353,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "experience_explain_all",
+      "type": "multiline",
+      "x": 59,
+      "y": 220,
+      "w": 500,
+      "h": 30,
+      "fontSize": 8
+    }
+  ]
+}
