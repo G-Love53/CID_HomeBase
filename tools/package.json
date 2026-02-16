@@ -1,0 +1,11 @@
+{
+  "name": "cid-homebase-tools",
+  "private": true,
+  "description": "LOCAL-ONLY mapping tools (never deployed to Render/Git/Puppeteer). Production uses flattened SVG + map JSON only.",
+  "scripts": {
+    "extract-pdf": "node extract-pdf-fields.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}

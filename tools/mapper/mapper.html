@@ -83,7 +83,13 @@
       border: 2px solid rgba(255, 140, 0, 0.9); /* orange outline */
       background: rgba(255, 140, 0, 0.08);     /* very light fill */
       box-sizing: border-box;
-      pointer-events: none;
+      pointer-events: auto;
+      cursor: pointer;
+    }
+    .field-box.selected {
+      border-color: #1a73e8;
+      background: rgba(26, 115, 232, 0.12);
+      z-index: 2;
     }
 
 
@@ -220,7 +226,12 @@
     <div class="btnrow">
       <button id="undo" type="button">Undo</button>
       <button id="clear" type="button">Clear</button>
+      <button id="apply" type="button">Apply JSON</button>
       <button id="copy" type="button">Copy JSON</button>
+    </div>
+    <div class="btnrow">
+      <button id="deleteSelected" type="button" class="secondary" style="display:none;">Delete selected field</button>
+      <button id="updateSelected" type="button" class="secondary" style="display:none;">Update from panel</button>
     </div>
 
     <label>Output JSON</label>
@@ -228,6 +239,8 @@
 
     <div class="hint">
       Coordinates are stored in <b>base units</b>: <code>612×792</code> (PDF/SVG truth).<br/>
+      <b>Click an orange box</b> to select it (edit in panel, then &quot;Update from panel&quot;, or &quot;Delete selected field&quot;). Click empty area to add a new field.<br/>
+      <b>Edit JSON</b> in the textarea, then click <b>Apply JSON</b> (or <code>Cmd+Enter</code>) to update the boxes.
       Shortcuts: <code>g</code>=grid, <code>c</code>=crosshair, <code>s</code>=snap, <code>u</code>=undo
     </div>
   </div>
@@ -273,7 +286,10 @@
     output: document.getElementById("output"),
     undo: document.getElementById("undo"),
     clear: document.getElementById("clear"),
+    apply: document.getElementById("apply"),
     copy: document.getElementById("copy"),
+    deleteSelected: document.getElementById("deleteSelected"),
+    updateSelected: document.getElementById("updateSelected"),
 
     // Phase-2
     toggleGrid: document.getElementById("toggleGrid"),
@@ -300,16 +316,33 @@
     fields: []
   };
 
+  let selectedFieldIndex = -1;
+
   function n(v, d=0) { const x = Number(v); return Number.isFinite(x) ? x : d; }
+  function round1(v) { const x = Number(v); return Number.isFinite(x) ? Math.round(x * 10) / 10 : v; }
   function clamp(v, min, max){ return Math.max(min, Math.min(max, v)); }
 
   function refresh() {
     map.template = el.template.value.trim() || map.template;
     map.pageId = el.pageId.value.trim() || map.pageId;
-    el.output.value = JSON.stringify(map, null, 2);
+    const out = {
+      schema: map.schema,
+      units: map.units,
+      page: map.page,
+      template: map.template,
+      pageId: map.pageId,
+      fields: map.fields.map(f => {
+        const t = (f.type || "text").toLowerCase();
+        const o = { name: f.name, type: t, x: round1(f.x), y: round1(f.y) };
+        if (t === "checkbox") o.size = round1(f.size);
+        else { o.w = round1(f.w); o.h = round1(f.h); o.fontSize = round1(f.fontSize); }
+        return o;
+      })
+    };
+    el.output.value = JSON.stringify(out, null, 2);
   }
 
-  function addDot(f) {
+  function addDot(f, index) {
   const rect = el.page.getBoundingClientRect();
   const sx = rect.width / PAGE_W;
   const sy = rect.height / PAGE_H;
@@ -317,6 +350,14 @@
   // === FIELD OUTLINE BOX ===
   const box = document.createElement("div");
   box.className = "field-box";
+  if (index !== undefined) {
+    box.dataset.fieldIndex = String(index);
+    if (index === selectedFieldIndex) box.classList.add("selected");
+    box.addEventListener("click", (e) => {
+      e.stopPropagation();
+      selectField(index);
+    });
+  }
 
   let bw, bh;
 
@@ -352,7 +393,30 @@
 
   function rebuildOverlay() {
     el.overlay.innerHTML = "";
-    map.fields.forEach(addDot);
+    map.fields.forEach((f, i) => addDot(f, i));
+  }
+
+  function populatePanelFromField(f) {
+    el.fieldName.value = f.name || "";
+    el.type.value = (f.type || "text").toLowerCase();
+    el.w.value = f.w != null ? String(f.w) : "120";
+    el.h.value = f.h != null ? String(f.h) : "11";
+    el.fontSize.value = f.fontSize != null ? String(f.fontSize) : "8";
+    el.cbSize.value = f.size != null ? String(f.size) : "10";
+    el.anchor.value = f.anchor || "top-left";
+  }
+
+  function selectField(index) {
+    selectedFieldIndex = index;
+    if (index >= 0 && index < map.fields.length) {
+      populatePanelFromField(map.fields[index]);
+      el.deleteSelected.style.display = "";
+      el.updateSelected.style.display = "";
+    } else {
+      el.deleteSelected.style.display = "none";
+      el.updateSelected.style.display = "none";
+    }
+    rebuildOverlay();
   }
 
   // ===== Phase-2 helpers (UI ONLY) =====
@@ -548,6 +612,7 @@
 
   // CLICK HANDLER (same JSON shape; same behavior; now respects optional snap)
   el.page.addEventListener("click", (e) => {
+    if (e.target.closest(".field-box")) return; // click on existing box = select (handled by box)
     const rect = el.page.getBoundingClientRect();
 
     const nx = (e.clientX - rect.left) / rect.width;
@@ -583,31 +648,120 @@
       }
     }
 
-    const field = { name, type, x, y };
+    const field = { name, type, x: round1(x), y: round1(y) };
 
     if (type === "checkbox") {
-      field.size = cbSize;
+      field.size = round1(cbSize);
     } else {
-      field.w = w;
-      field.h = h;
-      field.fontSize = fontSize;
+      field.w = round1(w);
+      field.h = round1(h);
+      field.fontSize = round1(fontSize);
     }
 
     map.fields.push(field);
+    selectedFieldIndex = -1;
+    el.deleteSelected.style.display = "none";
+    el.updateSelected.style.display = "none";
     rebuildOverlay();
     refresh();
   });
 
   el.undo.addEventListener("click", () => {
     map.fields.pop();
+    if (selectedFieldIndex >= map.fields.length) {
+      selectedFieldIndex = -1;
+      el.deleteSelected.style.display = "none";
+      el.updateSelected.style.display = "none";
+    }
     rebuildOverlay();
     refresh();
   });
 
   el.clear.addEventListener("click", () => {
     map.fields.length = 0;
+    selectedFieldIndex = -1;
+    el.deleteSelected.style.display = "none";
+    el.updateSelected.style.display = "none";
     rebuildOverlay();
     refresh();
+  });
+
+  el.deleteSelected.addEventListener("click", () => {
+    if (selectedFieldIndex < 0 || selectedFieldIndex >= map.fields.length) return;
+    map.fields.splice(selectedFieldIndex, 1);
+    selectedFieldIndex = -1;
+    el.deleteSelected.style.display = "none";
+    el.updateSelected.style.display = "none";
+    rebuildOverlay();
+    refresh();
+  });
+
+  el.updateSelected.addEventListener("click", () => {
+    if (selectedFieldIndex < 0 || selectedFieldIndex >= map.fields.length) return;
+    const type = (el.type.value || "text").toLowerCase();
+    const anchor = el.anchor.value;
+    let x = n(map.fields[selectedFieldIndex].x);
+    let y = n(map.fields[selectedFieldIndex].y);
+    const w = n(el.w.value, 120);
+    const h = n(el.h.value, 12);
+    const fontSize = n(el.fontSize.value, 8);
+    const cbSize = n(el.cbSize.value, 10);
+    if (anchor === "center") {
+      if (type === "checkbox") { x = Math.round(x - cbSize/2); y = Math.round(y - cbSize/2); }
+      else { x = Math.round(x - w/2); y = Math.round(y - h/2); }
+    }
+    const f = map.fields[selectedFieldIndex];
+    f.name = (el.fieldName.value || "").trim() || f.name;
+    f.type = type;
+    f.x = round1(x);
+    f.y = round1(y);
+    if (type === "checkbox") f.size = round1(cbSize); else { f.w = round1(w); f.h = round1(h); f.fontSize = round1(fontSize); }
+    rebuildOverlay();
+    refresh();
+  });
+
+  el.apply.addEventListener("click", () => {
+    let data;
+    try {
+      data = JSON.parse(el.output.value);
+    } catch (err) {
+      alert("Invalid JSON: " + (err.message || err));
+      return;
+    }
+    if (!data || !Array.isArray(data.fields)) {
+      alert("Expected object with 'fields' array (cid.map.v1).");
+      return;
+    }
+    map.schema = data.schema || map.schema;
+    map.units = data.units || map.units;
+    map.page = data.page && typeof data.page.width === "number" ? data.page : map.page;
+    map.template = (data.template != null && data.template !== "") ? String(data.template) : map.template;
+    map.pageId = (data.pageId != null && data.pageId !== "") ? String(data.pageId) : map.pageId;
+    map.fields = data.fields.map(f => {
+      const type = (f.type || "text").toLowerCase();
+      const field = { name: f.name, type, x: round1(Number(f.x)), y: round1(Number(f.y)) };
+      if (type === "checkbox") field.size = round1(Number(f.size) || 10);
+      else {
+        field.w = round1(Number(f.w) || 120);
+        field.h = round1(Number(f.h) || 11);
+        field.fontSize = round1(Number(f.fontSize) || 8);
+      }
+      return field;
+    });
+    el.template.value = map.template;
+    el.pageId.value = map.pageId;
+    selectedFieldIndex = -1;
+    el.deleteSelected.style.display = "none";
+    el.updateSelected.style.display = "none";
+    rebuildOverlay();
+    refresh();
+  });
+
+  el.output.addEventListener("keydown", (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === "Enter") {
+      e.preventDefault();
+      el.apply.click();
+    }
   });
 
   el.copy.addEventListener("click", async () => {
@@ -617,6 +771,45 @@
 
   el.template.addEventListener("input", refresh);
   el.pageId.addEventListener("input", refresh);
+
+  // PDF Draft handoff: if draft JSON was passed from pdf-draft.html, apply it on load
+  (function tryApplyDraft() {
+    const raw = localStorage.getItem("cid_mapper_draft");
+    if (!raw) { refresh(); return; }
+    localStorage.removeItem("cid_mapper_draft");
+    let data;
+    try {
+      data = JSON.parse(raw);
+    } catch (err) { refresh(); return; }
+    if (!data || !Array.isArray(data.fields)) { refresh(); return; }
+    map.schema = data.schema || map.schema;
+    map.units = data.units || map.units;
+    map.page = data.page && typeof data.page.width === "number" ? data.page : map.page;
+    map.template = (data.template != null && data.template !== "") ? String(data.template) : map.template;
+    map.pageId = (data.pageId != null && data.pageId !== "") ? String(data.pageId) : map.pageId;
+    map.fields = data.fields.map(f => {
+      const type = (f.type || "text").toLowerCase();
+      const field = { name: f.name, type, x: round1(Number(f.x)), y: round1(Number(f.y)) };
+      if (type === "checkbox") field.size = round1(Number(f.size) || 10);
+      else {
+        field.w = round1(Number(f.w) || 120);
+        field.h = round1(Number(f.h) || 11);
+        field.fontSize = round1(Number(f.fontSize) || 8);
+      }
+      return field;
+    });
+    el.template.value = map.template;
+    el.pageId.value = map.pageId;
+    const bgImg = localStorage.getItem("cid_mapper_bg_image");
+    if (bgImg) {
+      localStorage.removeItem("cid_mapper_bg_image");
+      el.bg.src = bgImg;
+      el.bg.alt = "PDF page (from draft)";
+    }
+    rebuildOverlay();
+    refresh();
+    return;
+  })();
 
   refresh();
 </script>

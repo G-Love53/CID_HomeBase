@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CID PDF Draft — extract fields → Mapper</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 16px; max-width: 900px; }
+    h2 { margin: 0 0 8px; }
+    .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 8px 0; }
+    label { font-size: 12px; min-width: 80px; }
+    input[type="file"], input[type="number"], input[type="text"] { padding: 6px 8px; font-size: 13px; }
+    input[type="number"] { width: 70px; }
+    button { padding: 8px 14px; font-size: 13px; cursor: pointer; background: #1a73e8; color: #fff; border: none; border-radius: 6px; }
+    button:hover { background: #1557b0; }
+    button.secondary { background: #5f6368; }
+    button.secondary:hover { background: #3c4043; }
+    #canvasWrap { margin: 12px 0; border: 2px solid #111; box-shadow: 0 2px 8px rgba(0,0,0,.15); background: #f5f5f5; }
+    #pdfCanvas { display: block; width: 612px; height: 792px; }
+    textarea { width: 100%; height: 220px; box-sizing: border-box; padding: 10px; font-family: ui-monospace, Menlo, Monaco, Consolas, monospace; font-size: 12px; margin-top: 8px; }
+    .hint { font-size: 12px; color: #555; margin-top: 12px; line-height: 1.4; }
+    .count { font-weight: bold; color: #1a73e8; }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+</head>
+<body>
+  <h2>CID PDF Draft</h2>
+  <p><strong>1.</strong> Load page &nbsp; <strong>2.</strong> Extract form fields (PDF must have fillable AcroForm fields; if you see 0, try &quot;Prepare Form&quot; in Adobe Acrobat first, then re-save) &nbsp; <strong>3.</strong> Open in Mapper — the PDF page will show as the background so you can align fields; replace with your Inkscape SVG later if you like.</p>
+
+  <div class="row">
+    <label>PDF file</label>
+    <input type="file" id="file" accept=".pdf,application/pdf" />
+    <label>Page</label>
+    <input type="number" id="pageNum" value="1" min="1" />
+    <button type="button" id="loadBtn">Load page</button>
+  </div>
+
+  <div class="row">
+    <label>Template</label>
+    <input type="text" id="template" value="SUPP_CONTRACTOR" placeholder="e.g. SUPP_CONTRACTOR" />
+    <label>Page ID</label>
+    <input type="text" id="pageId" value="page-1" placeholder="e.g. page-1" />
+    <button type="button" id="extractBtn" class="secondary">Extract form fields</button>
+  </div>
+
+  <div id="canvasWrap" style="display:none;">
+    <canvas id="pdfCanvas"></canvas>
+  </div>
+
+  <div class="row" style="margin-top:12px;">
+    <button type="button" id="copyBtn" class="secondary">Copy draft JSON</button>
+    <button type="button" id="openMapperBtn">Open in Mapper</button>
+  </div>
+
+  <p class="hint"><span id="fieldCount" class="count">0</span> fields in draft. If 0, your PDF has no fillable form metadata (common for flattened forms). You can still <strong>Open in Mapper</strong> — then load your Inkscape SVG and place all fields manually. After that, tweak names/types and copy JSON into the mapping file.</p>
+
+  <label>Draft JSON (cid.map.v1)</label>
+  <textarea id="output" spellcheck="false" readonly></textarea>
+
+  <script>
+    const PAGE_W = 612;
+    const PAGE_H = 792;
+
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js";
+
+    let pdfDoc = null;
+    let currentPageNum = 1;
+
+    const el = {
+      file: document.getElementById("file"),
+      pageNum: document.getElementById("pageNum"),
+      loadBtn: document.getElementById("loadBtn"),
+      template: document.getElementById("template"),
+      pageId: document.getElementById("pageId"),
+      extractBtn: document.getElementById("extractBtn"),
+      canvasWrap: document.getElementById("canvasWrap"),
+      pdfCanvas: document.getElementById("pdfCanvas"),
+      copyBtn: document.getElementById("copyBtn"),
+      openMapperBtn: document.getElementById("openMapperBtn"),
+      fieldCount: document.getElementById("fieldCount"),
+      output: document.getElementById("output"),
+    };
+
+    function toCanonicalName(name) {
+      return String(name || "field")
+        .trim()
+        .replace(/\s+/g, "_")
+        .replace(/[^a-zA-Z0-9_]/g, "")
+        .toLowerCase() || "field";
+    }
+
+    function buildDraft(fields) {
+      const template = (el.template.value || "SUPP_CONTRACTOR").trim();
+      const pageId = (el.pageId.value || "page-1").trim();
+      return {
+        schema: "cid.map.v1",
+        units: "base_612x792",
+        page: { width: PAGE_W, height: PAGE_H },
+        template,
+        pageId,
+        fields: fields.map((f) => {
+          const type = (f.type || "text").toLowerCase();
+          const field = { name: f.name, type, x: Math.round(f.x), y: Math.round(f.y) };
+          if (type === "checkbox") {
+            field.size = Number(f.size) || 10;
+          } else {
+            field.w = Number(f.w) || 120;
+            field.h = Number(f.h) || 11;
+            field.fontSize = Number(f.fontSize) || 8;
+          }
+          return field;
+        }),
+      };
+    }
+
+    function updateOutput(fields) {
+      const draft = buildDraft(fields);
+      el.output.value = JSON.stringify(draft, null, 2);
+      el.fieldCount.textContent = fields.length;
+    }
+
+    el.loadBtn.addEventListener("click", async () => {
+      const file = el.file.files[0];
+      if (!file) {
+        alert("Choose a PDF file first.");
+        return;
+      }
+      currentPageNum = parseInt(el.pageNum.value, 10) || 1;
+      try {
+        const buf = await file.arrayBuffer();
+        pdfDoc = await pdfjsLib.getDocument(buf).promise;
+        const numPages = pdfDoc.numPages;
+        if (currentPageNum < 1 || currentPageNum > numPages) {
+          el.pageNum.value = Math.max(1, Math.min(currentPageNum, numPages));
+          currentPageNum = parseInt(el.pageNum.value, 10);
+        }
+        const page = await pdfDoc.getPage(currentPageNum);
+        const viewport = page.getViewport({ scale: 1 });
+        const scale = Math.min(PAGE_W / viewport.width, PAGE_H / viewport.height);
+        const scaled = page.getViewport({ scale });
+        const canvas = el.pdfCanvas;
+        const ctx = canvas.getContext("2d");
+        canvas.width = Math.floor(scaled.width);
+        canvas.height = Math.floor(scaled.height);
+        canvas.style.width = PAGE_W + "px";
+        canvas.style.height = PAGE_H + "px";
+        ctx.fillStyle = "#fff";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        await page.render({ canvasContext: ctx, viewport: scaled }).promise;
+        el.canvasWrap.style.display = "block";
+        updateOutput([]);
+      } catch (err) {
+        alert("Failed to load PDF: " + (err.message || err));
+      }
+    });
+
+    el.extractBtn.addEventListener("click", async () => {
+      if (!pdfDoc) {
+        alert("Load a PDF page first.");
+        return;
+      }
+      try {
+        const page = await pdfDoc.getPage(currentPageNum);
+        const viewport = page.getViewport({ scale: 1 });
+        const pdfW = viewport.width;
+        const pdfH = viewport.height;
+        const scaleX = PAGE_W / pdfW;
+        const scaleY = PAGE_H / pdfH;
+
+        let annotations = [];
+        try {
+          annotations = await page.getAnnotations();
+        } catch (e) {
+          console.warn("getAnnotations failed", e);
+        }
+
+        const fields = [];
+        const seen = new Set();
+
+        for (const ann of annotations) {
+          const subtype = (ann.subtype || "").toLowerCase();
+          if (subtype !== "widget") continue;
+          const rect = ann.rect || [0, 0, 0, 0];
+          const [l, b, r, t] = rect;
+          const name = toCanonicalName(ann.fieldName || ann.id || "field_" + fields.length);
+          let key = name;
+          let n = 0;
+          while (seen.has(key)) key = name + "_" + (++n);
+          seen.add(key);
+
+          const w = Math.max(10, (r - l) * scaleX);
+          const h = Math.max(8, (t - b) * scaleY);
+          const x = l * scaleX;
+          const y = PAGE_H - t * scaleY;
+
+          const isCheckbox = (ann.fieldType || "").toUpperCase() === "BTN" || !!ann.checkBox;
+          if (isCheckbox) {
+            fields.push({ name: key, type: "checkbox", x, y, size: 10 });
+          } else {
+            fields.push({ name: key, type: "text", x, y, w: Math.max(60, w), h: Math.max(11, h), fontSize: 8 });
+          }
+        }
+
+        updateOutput(fields);
+        if (fields.length === 0) {
+          console.log("No AcroForm fields on this page — PDF may be flattened. You can still Open in Mapper and place fields manually with your SVG.");
+        }
+      } catch (err) {
+        alert("Extract failed: " + (err.message || err));
+      }
+    });
+
+    el.copyBtn.addEventListener("click", async () => {
+      const text = el.output.value;
+      if (!text) return;
+      try {
+        JSON.parse(text);
+      } catch (e) {
+        alert("No valid draft JSON. Load a PDF and click Extract form fields (or Load page only) first.");
+        return;
+      }
+      await navigator.clipboard.writeText(text);
+      el.copyBtn.textContent = "Copied!";
+      setTimeout(() => { el.copyBtn.textContent = "Copy draft JSON"; }, 1500);
+    });
+
+    el.openMapperBtn.addEventListener("click", () => {
+      const text = el.output.value;
+      if (!text) {
+        alert("Load a PDF page first, then click Extract form fields (even if it finds 0 fields).");
+        return;
+      }
+      let data;
+      try {
+        data = JSON.parse(text);
+      } catch (e) {
+        alert("Invalid JSON. Load a PDF page, then Extract form fields, then try again.");
+        return;
+      }
+      if (!data || !Array.isArray(data.fields)) {
+        alert("Draft must have a 'fields' array. Load a PDF page and click Extract form fields.");
+        return;
+      }
+      localStorage.setItem("cid_mapper_draft", text);
+      if (el.canvasWrap.style.display !== "none" && el.pdfCanvas.width > 0) {
+        try {
+          localStorage.setItem("cid_mapper_bg_image", el.pdfCanvas.toDataURL("image/png"));
+        } catch (e) { /* ignore */ }
+      }
+      window.open("mapper.html", "_blank");
+    });
+
+    updateOutput([]);
+  </script>
+</body>
+</html>
