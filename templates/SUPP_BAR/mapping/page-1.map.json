@@ -1,0 +1,630 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_BAR",
+  "pageId": "page-1",
+  "fields": [
+    {
+      "name": "applicant_name",
+      "type": "text",
+      "x": 140,
+      "y": 78,
+      "w": 276,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "date",
+      "type": "text",
+      "x": 473,
+      "y": 78,
+      "w": 110.3,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "premises_address",
+      "type": "text",
+      "x": 140,
+      "y": 97,
+      "w": 442.3,
+      "h": 28.8,
+      "fontSize": 8
+    },
+    {
+      "name": "1_open_for_business_now_or_within_60_days",
+      "type": "text",
+      "x": 334,
+      "y": 146,
+      "w": 25,
+      "h": 12.5,
+      "fontSize": 8
+    },
+    {
+      "name": "if_no_explain",
+      "type": "text",
+      "x": 445,
+      "y": 146,
+      "w": 138,
+      "h": 12.5,
+      "fontSize": 8
+    },
+    {
+      "name": "2_at_least_3_years_restaurantbar_ownership_in_last_5_years",
+      "type": "text",
+      "x": 195,
+      "y": 173,
+      "w": 109.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "2_at_least_3_years_restaurantbar_ownership_in_last_5_years_2",
+      "type": "text",
+      "x": 334,
+      "y": 159,
+      "w": 25,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "if_no_prior_experie",
+      "type": "text",
+      "x": 445,
+      "y": 159,
+      "w": 138,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "square_footage",
+      "type": "text",
+      "x": 445,
+      "y": 173,
+      "w": 138,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "fine_dining",
+      "type": "text",
+      "x": 445,
+      "y": 186,
+      "w": 30,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "counter_serv",
+      "type": "text",
+      "x": 556,
+      "y": 186,
+      "w": 30,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "8_manufacture_alcohol",
+      "type": "text",
+      "x": 223,
+      "y": 219,
+      "w": 40,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_more_than_25_for_onpremise",
+      "type": "text",
+      "x": 334,
+      "y": 233,
+      "w": 81.7,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_more_than_25_for_onpremise_2",
+      "type": "text",
+      "x": 501,
+      "y": 219,
+      "w": 82.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "food_sales",
+      "type": "text",
+      "x": 140,
+      "y": 233,
+      "w": 81.7,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "alcohol_sales",
+      "type": "text",
+      "x": 195,
+      "y": 246,
+      "w": 109.4,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "total_sales",
+      "type": "text",
+      "x": 392,
+      "y": 246,
+      "w": 60,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "total_sales_2",
+      "type": "text",
+      "x": 501,
+      "y": 233,
+      "w": 82.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "full",
+      "type": "checkbox",
+      "x": 449,
+      "y": 249,
+      "size": 10
+    },
+    {
+      "name": "limited",
+      "type": "checkbox",
+      "x": 474,
+      "y": 249,
+      "size": 10
+    },
+    {
+      "name": "none",
+      "type": "checkbox",
+      "x": 514,
+      "y": 249,
+      "size": 10
+    },
+    {
+      "name": "11_infuse_products_with_cannabis",
+      "type": "text",
+      "x": 223,
+      "y": 260,
+      "w": 40,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "full_limited_none12_solid_fuel_10_ft_from_unit",
+      "type": "text",
+      "x": 445,
+      "y": 260,
+      "w": 40,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "13_any_cooking_s",
+      "type": "text",
+      "x": 556,
+      "y": 260,
+      "w": 25,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "solid_fuel_smoker_grill_within_10_ft",
+      "type": "text",
+      "x": 223,
+      "y": 293,
+      "w": 60,
+      "h": 12.5,
+      "fontSize": 8
+    },
+    {
+      "name": "unit_professionally_installed",
+      "type": "text",
+      "x": 445,
+      "y": 293,
+      "w": 138,
+      "h": 12.5,
+      "fontSize": 8
+    },
+    {
+      "name": "scraped_weekly",
+      "type": "checkbox",
+      "x": 144,
+      "y": 309,
+      "size": 10
+    },
+    {
+      "name": "ventexhaust_inspectedcleaned_monthly",
+      "type": "checkbox",
+      "x": 213,
+      "y": 309,
+      "size": 10
+    },
+    {
+      "name": "ashes_removed_daily_into_a_metal_container",
+      "type": "checkbox",
+      "x": 371,
+      "y": 309,
+      "size": 10
+    },
+    {
+      "name": "is_fuel_pellets_wood_more_than_10_from_unit",
+      "type": "text",
+      "x": 223,
+      "y": 320,
+      "w": 50,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "class_k_or_2a_extinguisher_within_20_ft",
+      "type": "text",
+      "x": 473,
+      "y": 320,
+      "w": 110.3,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "ul_suppression_over_cooking",
+      "type": "text",
+      "x": 223,
+      "y": 333,
+      "w": 50,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "hood_duct_protection",
+      "type": "text",
+      "x": 473,
+      "y": 333,
+      "w": 110.3,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "spark_arrestor_fitted",
+      "type": "text",
+      "x": 223,
+      "y": 347,
+      "w": 50,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "spark_arrestor_fitted_2",
+      "type": "text",
+      "x": 85,
+      "y": 361,
+      "w": 498.2,
+      "h": 21.8,
+      "fontSize": 8
+    },
+    {
+      "name": "14_any_entertainment_other_than_bg_musickaraoketrivia",
+      "type": "text",
+      "x": 306,
+      "y": 402,
+      "w": 30,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "details",
+      "type": "text",
+      "x": 390,
+      "y": 402,
+      "w": 193.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "15_other_recreational_activities_beyond_listed",
+      "type": "text",
+      "x": 168,
+      "y": 429,
+      "w": 25,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "15_other_recreational_activities_beyond_listed_2",
+      "type": "text",
+      "x": 306,
+      "y": 416,
+      "w": 30,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "details_2",
+      "type": "text",
+      "x": 390,
+      "y": 416,
+      "w": 193.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "background_checks",
+      "type": "text",
+      "x": 295,
+      "y": 429,
+      "w": 60,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "armed",
+      "type": "text",
+      "x": 378,
+      "y": 429,
+      "w": 25,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "conflictres_trained",
+      "type": "text",
+      "x": 517,
+      "y": 429,
+      "w": 66,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "17_offer_delivery",
+      "type": "text",
+      "x": 140,
+      "y": 462,
+      "w": 25,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "insuredowned_autos",
+      "type": "text",
+      "x": 279,
+      "y": 462,
+      "w": 25,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "employee_autos",
+      "type": "text",
+      "x": 390,
+      "y": 462,
+      "w": 25,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "3rdparty_delivery",
+      "type": "text",
+      "x": 501,
+      "y": 462,
+      "w": 82.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "delivery_sales_insuredemp_autos",
+      "type": "text",
+      "x": 112,
+      "y": 489,
+      "w": 25,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "undefined",
+      "type": "text",
+      "x": 223,
+      "y": 489,
+      "w": 360,
+      "h": 12.2,
+      "fontSize": 8
+    },
+    {
+      "name": "3rdparty_deliverymore_than_20_of_location_sales",
+      "type": "text",
+      "x": 417,
+      "y": 476,
+      "w": 60,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_explai",
+      "type": "text",
+      "x": 501,
+      "y": 476,
+      "w": 82.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "hours_past_10_pm",
+      "type": "text",
+      "x": 112,
+      "y": 503,
+      "w": 25,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_explain",
+      "type": "text",
+      "x": 223,
+      "y": 503,
+      "w": 360,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "18_if_auto_coverage_is_rated_shuttle_servic",
+      "type": "text",
+      "x": 223,
+      "y": 516,
+      "w": 60,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_explain_2",
+      "type": "text",
+      "x": 334,
+      "y": 516,
+      "w": 249,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "19_any_liquor_law_violations_in_last_3_years",
+      "type": "text",
+      "x": 223,
+      "y": 549,
+      "w": 60,
+      "h": 13.2,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_describe",
+      "type": "text",
+      "x": 334,
+      "y": 549,
+      "w": 249,
+      "h": 13.2,
+      "fontSize": 8
+    },
+    {
+      "name": "remarks",
+      "type": "text",
+      "x": 29,
+      "y": 583,
+      "w": 553.4,
+      "h": 28.8,
+      "fontSize": 8
+    },
+    {
+      "name": "agency",
+      "type": "text",
+      "x": 60,
+      "y": 615,
+      "w": 60,
+      "h": 17.5,
+      "fontSize": 8
+    },
+    {
+      "name": "all_access_insurance_dba_commercial_insurance_direct",
+      "type": "text",
+      "x": 204,
+      "y": 634,
+      "w": 101.2,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "code",
+      "type": "text",
+      "x": 328,
+      "y": 615,
+      "w": 60,
+      "h": 17.5,
+      "fontSize": 8
+    },
+    {
+      "name": "70025m",
+      "type": "text",
+      "x": 382,
+      "y": 615,
+      "w": 60,
+      "h": 17.5,
+      "fontSize": 8
+    },
+    {
+      "name": "agent",
+      "type": "text",
+      "x": 443,
+      "y": 615,
+      "w": 60,
+      "h": 17.5,
+      "fontSize": 8
+    },
+    {
+      "name": "rick_cline",
+      "type": "text",
+      "x": 511,
+      "y": 615,
+      "w": 71.9,
+      "h": 17.5,
+      "fontSize": 8
+    },
+    {
+      "name": "phone",
+      "type": "text",
+      "x": 333,
+      "y": 634,
+      "w": 60,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "date_2",
+      "type": "text",
+      "x": 437,
+      "y": 634,
+      "w": 145.8,
+      "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "sps1_102020",
+      "type": "text",
+      "x": 204,
+      "y": 719,
+      "w": 60,
+      "h": 36,
+      "fontSize": 8
+    },
+    {
+      "name": "page_1_of_2",
+      "type": "text",
+      "x": 260,
+      "y": 719,
+      "w": 60,
+      "h": 36,
+      "fontSize": 8
+    },
+    {
+      "name": "society_insurance_supplemental",
+      "type": "text",
+      "x": 301,
+      "y": 719,
+      "w": 283,
+      "h": 36,
+      "fontSize": 8
+    },
+    {
+      "name": "number_of_employees",
+      "type": "text",
+      "x": 229,
+      "y": 186,
+      "w": 74.6,
+      "h": 13.1,
+      "fontSize": 8
+    }
+  ]
+}
