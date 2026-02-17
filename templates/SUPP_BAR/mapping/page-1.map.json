@@ -9,7 +9,7 @@
   "pageId": "page-1",
   "fields": [
     {
-      "name": "applicant_name",
+      "name": "insured_name",
       "type": "text",
       "x": 140,
       "y": 78,

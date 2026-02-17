@@ -1,6 +1,8 @@
 # Netlify Form vs BAR Mapping (SUPP_BAR + ACORDs)
 
-The pdf-backend fills PDFs by matching **payload keys** to mapping **`name`** values (`data[key]` in svg-engine). So the Netlify form’s `name` attributes should match the BAR mapping names where they represent the same field.
+**Canonical names are ACORD.** The form and SUPP_BAR use ACORD-consistent field names where they overlap (e.g. `insured_name`, `physical_address_1`, `physical_city`, `physical_state`, `physical_zip`, `producer_email`, `policy_effective_date`, `business_website`). The backend builds SUPP-only keys (e.g. `premises_address`) from those when needed.
+
+The pdf-backend fills PDFs by matching **payload keys** to mapping **`name`** values (`data[key]` in svg-engine). The Netlify form’s `name` attributes match ACORD mapping names where they represent the same field.
 
 Below: **SUPP_BAR** (page-1 + page-2) and **ACORD** usage. Changes are what to do **on the Netlify form** so submitted data aligns with the mapping.
 
