@@ -117,15 +117,6 @@
       "fontSize": 8
     },
     {
-      "name": "if_yes_more_than_25_for_onpremise",
-      "type": "text",
-      "x": 334,
-      "y": 233,
-      "w": 81.7,
-      "h": 12.4,
-      "fontSize": 8
-    },
-    {
       "name": "if_yes_more_than_25_for_onpremise_2",
       "type": "text",
       "x": 501,
@@ -144,7 +135,7 @@
       "fontSize": 8
     },
     {
-      "name": "alcohol_sales",
+      "name": "Percent_Alcohol",
       "type": "text",
       "x": 195,
       "y": 246,
@@ -153,16 +144,7 @@
       "fontSize": 8
     },
     {
-      "name": "total_sales",
-      "type": "text",
-      "x": 392,
-      "y": 246,
-      "w": 60,
-      "h": 12.2,
-      "fontSize": 8
-    },
-    {
-      "name": "total_sales_2",
+      "name": "annual_revenue_1",
       "type": "text",
       "x": 501,
       "y": 233,
@@ -361,7 +343,7 @@
       "type": "text",
       "x": 295,
       "y": 429,
-      "w": 60,
+      "w": 25,
       "h": 13.1,
       "fontSize": 8
     },
@@ -420,7 +402,7 @@
       "fontSize": 8
     },
     {
-      "name": "delivery_sales_insuredemp_autos",
+      "name": "ComboBox17",
       "type": "text",
       "x": 112,
       "y": 489,
@@ -429,7 +411,7 @@
       "fontSize": 8
     },
     {
-      "name": "undefined",
+      "name": "radius_5_miles_explanation",
       "type": "text",
       "x": 223,
       "y": 489,
@@ -442,7 +424,7 @@
       "type": "text",
       "x": 417,
       "y": 476,
-      "w": 60,
+      "w": 30,
       "h": 12.4,
       "fontSize": 8
     },
@@ -478,12 +460,12 @@
       "type": "text",
       "x": 223,
       "y": 516,
-      "w": 60,
+      "w": 25,
       "h": 13.1,
       "fontSize": 8
     },
     {
-      "name": "if_yes_explain_2",
+      "name": "shuttle_explanation",
       "type": "text",
       "x": 334,
       "y": 516,
@@ -496,7 +478,7 @@
       "type": "text",
       "x": 223,
       "y": 549,
-      "w": 60,
+      "w": 25,
       "h": 13.2,
       "fontSize": 8
     },
@@ -507,15 +489,6 @@
       "y": 549,
       "w": 249,
       "h": 13.2,
-      "fontSize": 8
-    },
-    {
-      "name": "remarks",
-      "type": "text",
-      "x": 29,
-      "y": 583,
-      "w": 553.4,
-      "h": 28.8,
       "fontSize": 8
     },
     {
@@ -618,12 +591,57 @@
       "fontSize": 8
     },
     {
-      "name": "number_of_employees",
+      "name": "fulltime_1",
       "type": "text",
       "x": 229,
       "y": 186,
       "w": 74.6,
       "h": 13.1,
+      "fontSize": 8
+    },
+    {
+      "name": "alcohol_sales",
+      "type": "text",
+      "x": 334,
+      "y": 231,
+      "w": 81.7,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "3rdparty_delivery",
+      "type": "text",
+      "x": 193,
+      "y": 474,
+      "w": 82.4,
+      "h": 12.4,
+      "fontSize": 8
+    },
+    {
+      "name": "remarks",
+      "type": "text",
+      "x": 57,
+      "y": 581,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "claims_details_2_or_less",
+      "type": "text",
+      "x": 94,
+      "y": 582,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "claims_details_3_or_more",
+      "type": "text",
+      "x": 94,
+      "y": 596,
+      "w": 250,
+      "h": 11,
       "fontSize": 8
     }
   ]
