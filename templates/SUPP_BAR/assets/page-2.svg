@@ -132,7 +132,7 @@
     </clipPath>
   </defs>
   <g
-     clip-path="url(#clippath)"
+    
      id="g42">
     <rect
        x="18"
@@ -444,7 +444,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="S" />
   <g
-     clip-path="url(#clippath-2)"
+    
      id="g64">
     <text
        transform="translate(197.25,85.5)"
@@ -607,7 +607,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="S" />
   <g
-     clip-path="url(#clippath-4)"
+    
      id="g88">
     <rect
        x="28.5"
@@ -734,7 +734,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="S" />
   <g
-     clip-path="url(#clippath-6)"
+    
      id="g111">
     <text
        transform="translate(197.25,162)"
@@ -872,7 +872,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="S" />
   <g
-     clip-path="url(#clippath-8)"
+    
      id="g132">
     <text
        transform="translate(197.25,200.25)"
@@ -1032,7 +1032,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="N" />
   <g
-     clip-path="url(#clippath-10)"
+    
      id="g158">
     <text
        transform="translate(197.25,238.5)"
@@ -1207,7 +1207,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="N" />
   <g
-     clip-path="url(#clippath-12)"
+    
      id="g187">
     <text
        transform="translate(197.25,276.75)"
@@ -1360,7 +1360,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="N" />
   <g
-     clip-path="url(#clippath-14)"
+    
      id="g210">
     <text
        transform="translate(197.25,315)"
@@ -1485,7 +1485,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label="N" />
   <g
-     clip-path="url(#clippath-16)"
+    
      id="g231">
     <text
        transform="translate(197.25,353.25)"
@@ -1693,7 +1693,7 @@
      style="font-weight:700;font-size:6.5px;font-family:DejaVuSans-Bold, 'DejaVu Sans'"
      aria-label=")" />
   <g
-     clip-path="url(#clippath-18)"
+    
      id="g262">
     <rect
        x="27.75"
