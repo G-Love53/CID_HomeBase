@@ -21,9 +21,9 @@
      inkscape:zoom="1.0391414"
      inkscape:cx="306.02188"
      inkscape:cy="396.00001"
-     inkscape:window-width="1190"
+     inkscape:window-width="1356"
      inkscape:window-height="972"
-     inkscape:window-x="0"
+     inkscape:window-x="340"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" />
@@ -1286,6 +1286,8 @@
        transform="translate(259.44 762.75)"
        aria-label="age 2 of 2    Society — Supplemental continuation." />
   </g>
-<path d="M20 770 H160 V785 H20 Z" fill="red"/>
-
+  <path
+     d="M20 770 H160 V785 H20 Z"
+     fill="red"
+     id="path1" />
 </svg>
