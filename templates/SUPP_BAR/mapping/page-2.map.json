@@ -8,113 +8,17 @@
   "template": "SUPP_BAR",
   "pageId": "page-2",
   "fields": [
-    {
-      "name": "opening_plan_details",
-      "type": "text",
-      "x": 196,
-      "y": 79,
-      "w": 386.3,
-      "h": 36.4,
-      "fontSize": 8
-    },
-    {
-      "name": "prior_experience_details",
-      "type": "text",
-      "x": 196,
-      "y": 117,
-      "w": 386.3,
-      "h": 36.2,
-      "fontSize": 8
-    },
-    {
-      "name": "entertainment_details",
-      "type": "text",
-      "x": 196,
-      "y": 156,
-      "w": 386.3,
-      "h": 36.4,
-      "fontSize": 8
-    },
-    {
-      "name": "recreational_details",
-      "type": "text",
-      "x": 196,
-      "y": 194,
-      "w": 386.3,
-      "h": 36.4,
-      "fontSize": 8
-    },
-    {
-      "name": "delivery_20_explanation",
-      "type": "text",
-      "x": 196,
-      "y": 232,
-      "w": 386.3,
-      "h": 36.2,
-      "fontSize": 8
-    },
-    {
-      "name": "radius_5_miles_explanation",
-      "type": "text",
-      "x": 196,
-      "y": 270,
-      "w": 386.3,
-      "h": 36.2,
-      "fontSize": 8
-    },
-    {
-      "name": "after_10pm_explanation",
-      "type": "text",
-      "x": 196,
-      "y": 309,
-      "w": 386.3,
-      "h": 36.4,
-      "fontSize": 8
-    },
-    {
-      "name": "shuttle_explanation",
-      "type": "text",
-      "x": 196,
-      "y": 347,
-      "w": 386.3,
-      "h": 36.4,
-      "fontSize": 8
-    },
-    {
-      "name": "smoker_grill_notes_cont",
-      "type": "text",
-      "x": 196,
-      "y": 385,
-      "w": 386.3,
-      "h": 43.8,
-      "fontSize": 8
-    },
-    {
-      "name": "sps1_102020_2",
-      "type": "text",
-      "x": 200,
-      "y": 719,
-      "w": 60,
-      "h": 36,
-      "fontSize": 8
-    },
-    {
-      "name": "page_2_of_2",
-      "type": "text",
-      "x": 256,
-      "y": 719,
-      "w": 60,
-      "h": 36,
-      "fontSize": 8
-    },
-    {
-      "name": "society_supplemental_continuation",
-      "type": "text",
-      "x": 297,
-      "y": 719,
-      "w": 287,
-      "h": 36,
-      "fontSize": 8
-    }
+    {"name": "opening_plan_details", "type": "text", "x": 147, "y": 59.25, "w": 289.7, "h": 27.3, "fontSize": 8},
+    {"name": "prior_experience_details", "type": "text", "x": 147, "y": 87.75, "w": 289.7, "h": 27.2, "fontSize": 8},
+    {"name": "entertainment_details", "type": "text", "x": 147, "y": 117, "w": 289.7, "h": 27.3, "fontSize": 8},
+    {"name": "recreational_details", "type": "text", "x": 147, "y": 145.5, "w": 289.7, "h": 27.3, "fontSize": 8},
+    {"name": "delivery_20_explanation", "type": "text", "x": 147, "y": 174, "w": 289.7, "h": 27.2, "fontSize": 8},
+    {"name": "radius_5_miles_explanation", "type": "text", "x": 147, "y": 202.5, "w": 289.7, "h": 27.2, "fontSize": 8},
+    {"name": "after_10pm_explanation", "type": "text", "x": 147, "y": 231.75, "w": 289.7, "h": 27.3, "fontSize": 8},
+    {"name": "shuttle_explanation", "type": "text", "x": 147, "y": 260.25, "w": 289.7, "h": 27.3, "fontSize": 8},
+    {"name": "smoker_grill_notes_cont", "type": "text", "x": 147, "y": 288.75, "w": 289.7, "h": 32.9, "fontSize": 8},
+    {"name": "sps1_102020_2", "type": "text", "x": 150, "y": 539.25, "w": 45, "h": 27, "fontSize": 8},
+    {"name": "page_2_of_2", "type": "text", "x": 192, "y": 539.25, "w": 45, "h": 27, "fontSize": 8},
+    {"name": "society_supplemental_continuation", "type": "text", "x": 222.75, "y": 539.25, "w": 215.25, "h": 27, "fontSize": 8}
   ]
 }
