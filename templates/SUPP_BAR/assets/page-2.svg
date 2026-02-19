@@ -15,14 +15,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2">
-      <path
-         d="M -3e-6,1008.0001 H 768 v 1008 H -3e-6 Z"
-         clip-rule="evenodd"
-         id="path2" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -61,8 +53,7 @@
        id="path1"
        d="M 0,1008 H 768 V 2016 H 0 Z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="translate(24.000003,-984.00006)"
-       clip-path="url(#clipPath2)" />
+       transform="translate(24.000003,-984.00006)" />
     <path
        id="path3"
        d="m 0.5,1008.5 h 767 v 1007 H 0.5 Z"
