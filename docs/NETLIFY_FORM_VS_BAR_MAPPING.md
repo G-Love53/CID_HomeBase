@@ -8,12 +8,20 @@ Below: **SUPP_BAR** (page-1 + page-2) and **ACORD** usage. Changes are what to d
 
 ---
 
-## 1. SUPP_BAR – Direct name matches (no change)
+## 1. SUPP_BAR – Field roles (Bar index form)
+
+- **Applicant Name (Contact):** form field `applicant_name` — the person/contact.
+- **Business Name/Insured Name:** form field `insured_name` — this is the insured on all SUPP and ACORDs. Required.
+- **DATE:** No form field; backend sets `date` and `date_2` to today (or policy_effective_date).
+
+## 2. SUPP_BAR – Direct name matches (no change)
 
 These already match between form and mapping:
 
 - `applicant_name`
+- `insured_name` (Business Name/Insured Name on form)
 - `square_footage`
+- `number_of_employees` (form Q9; also added to page-1 map)
 - `food_sales`
 - `alcohol_sales`
 - `total_sales`
@@ -23,7 +31,7 @@ These already match between form and mapping:
 
 ---
 
-## 2. SUPP_BAR – Change on Netlify form
+## 3. SUPP_BAR – Change on Netlify form
 
 Apply these renames so the form sends the keys the mapping expects.
 
@@ -47,7 +55,13 @@ Apply these renames so the form sends the keys the mapping expects.
 
 ---
 
-## 3. SUPP_BAR – Generic ComboBox / TextField → semantic mapping names
+## 4. SUPP_BAR – Q17 / Q18 → SUPP boxes
+
+- **Q17 (Smoker within 10ft of building):** form `solid_fuel_smoker_grill_within_10_ft`. Also copied to `full_limited_none12_solid_fuel_10_ft_from_unit` (SUPP “Solid Fuel 10ft from unit”) via form hidden + backend alias.
+- **Q18 (Any cooking surfaces not protected by UL300):** form `ul_suppression_over_cooking`. Also sent as `13_any_cooking_s` (SUPP “13. Any cooking”) via form hidden + backend alias.
+- **Q20 Other activities:** maps to SUPP “15. Other Recreational Activities” (`15_other_recreational_activities_beyond_listed`, `recreational_details`).
+
+## 5. SUPP_BAR – Generic ComboBox / TextField → semantic mapping names
 
 Mapping uses semantic names; the form currently uses generic IDs. Rename (or map in submit handler) as below.
 
@@ -75,7 +89,7 @@ For any ComboBox/TextField not listed, check `SUPP_BAR/mapping/page-1.map.json` 
 
 ---
 
-## 4. SUPP_BAR – Page-2 “details” fields
+## 6. SUPP_BAR – Page-2 “details” fields
 
 These are the big text areas on page-2; mapping names and suggested form names:
 
@@ -93,7 +107,7 @@ These are the big text areas on page-2; mapping names and suggested form names:
 
 ---
 
-## 5. SUPP_BAR – Other mapping fields (form or backend)
+## 7. SUPP_BAR – Other mapping fields (form or backend)
 
 These mapping names may need to be sent from the form or set by the backend (e.g. date, remarks, agency):
 
@@ -123,7 +137,7 @@ Either add matching inputs on the form or ensure the backend adds these keys bef
 
 ---
 
-## 6. ACORD (Universal) – Bar bundle
+## 8. ACORD (Universal) – Bar bundle
 
 Bar bundle uses **ACORD125, ACORD126, ACORD130, ACORD140** (not ACORD25; ACORD25 is in COI_STANDARD). Those templates have their own mapping files with names like:
 
