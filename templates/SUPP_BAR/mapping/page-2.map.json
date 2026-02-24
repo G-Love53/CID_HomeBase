@@ -9,64 +9,10 @@
   "pageId": "page-2",
   "fields": [
     {
-      "name": "smoker_grill_notes_cont",
-      "type": "text",
-      "x": 309,
-      "y": 416,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "shuttle_explanation",
-      "type": "text",
-      "x": 309,
-      "y": 370,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "after_10pm_explanation",
+      "name": "opening_plan_details",
       "type": "text",
       "x": 310,
-      "y": 332,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "radius_5_miles_explanation",
-      "type": "text",
-      "x": 309,
-      "y": 294,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "delivery_20_explanation",
-      "type": "text",
-      "x": 310,
-      "y": 256,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "delivery_20_explanation",
-      "type": "text",
-      "x": 313,
-      "y": 219,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "entertainment_details",
-      "type": "text",
-      "x": 309,
-      "y": 180,
+      "y": 105,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -75,16 +21,70 @@
       "name": "prior_experience_details",
       "type": "text",
       "x": 309,
-      "y": 141,
+      "y": 140,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
     },
     {
-      "name": "opening_plan_details",
+      "name": "smoker_grill_notes_cont",
       "type": "text",
-      "x": 310,
-      "y": 105,
+      "x": 312,
+      "y": 416,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "shuttle_explanation",
+      "type": "text",
+      "x": 311,
+      "y": 371,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "after_10pm_explanation",
+      "type": "text",
+      "x": 315,
+      "y": 334,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "radius_5_miles_explanation",
+      "type": "text",
+      "x": 314,
+      "y": 295,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "delivery_20_explanation",
+      "type": "text",
+      "x": 313,
+      "y": 259,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "recreational_details",
+      "type": "text",
+      "x": 309,
+      "y": 222,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "entertainment_details",
+      "type": "text",
+      "x": 305,
+      "y": 183,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
