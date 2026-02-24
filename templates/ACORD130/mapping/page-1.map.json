@@ -1,6 +1,255 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "ACORD130",
   "pageId": "page-1",
-  "items": []
+  "fields": [
+    {
+      "name": "date",
+      "type": "text",
+      "x": 509,
+      "y": 32,
+      "w": 84.5,
+      "h": 15.6,
+      "fontSize": 8
+    },
+    {
+      "name": "years_in_business",
+      "type": "text",
+      "x": 479,
+      "y": 97,
+      "w": 113.9,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "sic",
+      "type": "text",
+      "x": 455,
+      "y": 109,
+      "w": 137.9,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "naics",
+      "type": "text",
+      "x": 465,
+      "y": 121,
+      "w": 128.3,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "business_website",
+      "type": "text",
+      "x": 476,
+      "y": 133,
+      "w": 117.5,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "business_email",
+      "type": "text",
+      "x": 303,
+      "y": 145,
+      "w": 290.2,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_name",
+      "type": "text",
+      "x": 62,
+      "y": 571,
+      "w": 146.5,
+      "h": 11.2,
+      "fontSize": 8
+    },
+    {
+      "name": "business_phone",
+      "type": "text",
+      "x": 209,
+      "y": 571,
+      "w": 110.5,
+      "h": 11.2,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_mobile",
+      "type": "text",
+      "x": 321,
+      "y": 571,
+      "w": 88.9,
+      "h": 11.2,
+      "fontSize": 8
+    },
+    {
+      "name": "business_email",
+      "type": "text",
+      "x": 411,
+      "y": 571,
+      "w": 182.3,
+      "h": 11.2,
+      "fontSize": 8
+    },
+    {
+      "name": "fein",
+      "type": "text",
+      "x": 254,
+      "y": 200,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "business_phone",
+      "type": "text",
+      "x": 295,
+      "y": 85,
+      "w": 122.5,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_name",
+      "type": "text",
+      "x": 305,
+      "y": 70,
+      "w": 200,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "insured_name",
+      "type": "text",
+      "x": 307,
+      "y": 49,
+      "w": 200,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 248,
+      "y": 105,
+      "w": 180,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 250,
+      "y": 118,
+      "w": 180,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_state",
+      "type": "text",
+      "x": 253,
+      "y": 131,
+      "w": 60,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_zip",
+      "type": "text",
+      "x": 329,
+      "y": 132,
+      "w": 60,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "agency_email",
+      "type": "text",
+      "x": 61,
+      "y": 179,
+      "w": 180,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "agency_phone",
+      "type": "text",
+      "x": 67,
+      "y": 144,
+      "w": 176.6,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "policy_effective_date",
+      "type": "text",
+      "x": 21,
+      "y": 392,
+      "w": 80,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "location_1",
+      "type": "text",
+      "x": 23,
+      "y": 303,
+      "w": 20,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "number_of_stories",
+      "type": "text",
+      "x": 52,
+      "y": 303,
+      "w": 20,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 81,
+      "y": 304,
+      "w": 180,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 268,
+      "y": 306,
+      "w": 160,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_state",
+      "type": "text",
+      "x": 435,
+      "y": 306,
+      "w": 70,
+      "h": 11.3,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_zip",
+      "type": "text",
+      "x": 513,
+      "y": 306,
+      "w": 70,
+      "h": 11.3,
+      "fontSize": 8
+    }
+  ]
 }
