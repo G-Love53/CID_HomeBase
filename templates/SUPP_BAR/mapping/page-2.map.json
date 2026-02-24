@@ -12,7 +12,7 @@
       "name": "opening_plan_details",
       "type": "text",
       "x": 310,
-      "y": 105,
+      "y": 125,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -21,7 +21,7 @@
       "name": "prior_experience_details",
       "type": "text",
       "x": 309,
-      "y": 140,
+      "y": 155,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -30,7 +30,7 @@
       "name": "smoker_grill_notes_cont",
       "type": "text",
       "x": 312,
-      "y": 416,
+      "y": 510,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -39,7 +39,7 @@
       "name": "shuttle_explanation",
       "type": "text",
       "x": 311,
-      "y": 371,
+      "y": 450,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -48,7 +48,7 @@
       "name": "after_10pm_explanation",
       "type": "text",
       "x": 315,
-      "y": 334,
+      "y": 390,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -57,7 +57,7 @@
       "name": "radius_5_miles_explanation",
       "type": "text",
       "x": 314,
-      "y": 295,
+      "y": 340,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -66,7 +66,7 @@
       "name": "delivery_20_explanation",
       "type": "text",
       "x": 313,
-      "y": 259,
+      "y": 305,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -75,7 +75,7 @@
       "name": "recreational_details",
       "type": "text",
       "x": 309,
-      "y": 222,
+      "y": 250,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -84,7 +84,7 @@
       "name": "entertainment_details",
       "type": "text",
       "x": 305,
-      "y": 183,
+      "y": 200,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
