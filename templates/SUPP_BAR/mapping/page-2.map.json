@@ -1,1 +1,93 @@
-{"schema":"cid.map.v1","units":"base_612x792","page":{"width":612,"height":792},"template":"SUPP_BAR","pageId":"page-2","fields":[{"name":"opening_plan_details","type":"text","x":177,"y":59.25,"w":269.7,"h":27.3,"fontSize":8},{"name":"prior_experience_details","type":"text","x":177,"y":87.75,"w":269.7,"h":27.2,"fontSize":8},{"name":"entertainment_details","type":"text","x":177,"y":117,"w":269.7,"h":27.3,"fontSize":8},{"name":"recreational_details","type":"text","x":177,"y":145.5,"w":269.7,"h":27.3,"fontSize":8},{"name":"delivery_20_explanation","type":"text","x":177,"y":174,"w":269.7,"h":27.2,"fontSize":8},{"name":"radius_5_miles_explanation","type":"text","x":177,"y":202.5,"w":269.7,"h":27.2,"fontSize":8},{"name":"after_10pm_explanation","type":"text","x":177,"y":231.75,"w":269.7,"h":27.3,"fontSize":8},{"name":"shuttle_explanation","type":"text","x":177,"y":260.25,"w":269.7,"h":27.3,"fontSize":8},{"name":"smoker_grill_notes_cont","type":"text","x":177,"y":288.75,"w":269.7,"h":32.9,"fontSize":8},{"name":"sps1_102020_2","type":"text","x":150,"y":539.25,"w":45,"h":27,"fontSize":8},{"name":"page_2_of_2","type":"text","x":192,"y":539.25,"w":45,"h":27,"fontSize":8},{"name":"society_supplemental_continuation","type":"text","x":222.75,"y":539.25,"w":215.25,"h":27,"fontSize":8}]}
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_BAR",
+  "pageId": "page-2",
+  "fields": [
+    {
+      "name": "smoker_grill_notes_cont",
+      "type": "text",
+      "x": 252,
+      "y": 388,
+      "w": 269.7,
+      "h": 32.9,
+      "fontSize": 8
+    },
+    {
+      "name": "shuttle_explanation",
+      "type": "text",
+      "x": 252,
+      "y": 348,
+      "w": 269.7,
+      "h": 27.3,
+      "fontSize": 8
+    },
+    {
+      "name": "after_10pm_explanation",
+      "type": "text",
+      "x": 251,
+      "y": 311,
+      "w": 269.7,
+      "h": 27.3,
+      "fontSize": 8
+    },
+    {
+      "name": "radius_5_miles_explanation",
+      "type": "text",
+      "x": 252,
+      "y": 272,
+      "w": 269.7,
+      "h": 27.2,
+      "fontSize": 8
+    },
+    {
+      "name": "delivery_20_explanation",
+      "type": "text",
+      "x": 252,
+      "y": 233,
+      "w": 269.7,
+      "h": 27.2,
+      "fontSize": 8
+    },
+    {
+      "name": "recreational_details",
+      "type": "text",
+      "x": 253,
+      "y": 196,
+      "w": 269.7,
+      "h": 27.3,
+      "fontSize": 8
+    },
+    {
+      "name": "entertainment_details",
+      "type": "text",
+      "x": 249,
+      "y": 158,
+      "w": 269.7,
+      "h": 27.3,
+      "fontSize": 8
+    },
+    {
+      "name": "prior_experience_details",
+      "type": "text",
+      "x": 250,
+      "y": 122,
+      "w": 269.7,
+      "h": 27.2,
+      "fontSize": 8
+    },
+    {
+      "name": "opening_plan_details",
+      "type": "text",
+      "x": 252,
+      "y": 85,
+      "w": 269.7,
+      "h": 27.3,
+      "fontSize": 8
+    }
+  ]
+}
