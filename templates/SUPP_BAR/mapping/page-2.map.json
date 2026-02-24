@@ -20,62 +20,8 @@
     {
       "name": "prior_experience_details",
       "type": "text",
-      "x": 309,
-      "y": 155,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "smoker_grill_notes_cont",
-      "type": "text",
-      "x": 312,
-      "y": 510,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "shuttle_explanation",
-      "type": "text",
-      "x": 311,
-      "y": 450,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "after_10pm_explanation",
-      "type": "text",
-      "x": 315,
-      "y": 390,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "radius_5_miles_explanation",
-      "type": "text",
-      "x": 314,
-      "y": 340,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "delivery_20_explanation",
-      "type": "text",
-      "x": 313,
-      "y": 305,
-      "w": 269.7,
-      "h": 11,
-      "fontSize": 8
-    },
-    {
-      "name": "recreational_details",
-      "type": "text",
-      "x": 309,
-      "y": 250,
+      "x": 308,
+      "y": 176,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
@@ -83,8 +29,62 @@
     {
       "name": "entertainment_details",
       "type": "text",
-      "x": 305,
-      "y": 200,
+      "x": 309,
+      "y": 233,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "entertainment_details",
+      "type": "text",
+      "x": 308,
+      "y": 290,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "delivery_20_explanation",
+      "type": "text",
+      "x": 310,
+      "y": 332,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "radius_5_miles_explanation",
+      "type": "text",
+      "x": 308,
+      "y": 381,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "after_10pm_explanation",
+      "type": "text",
+      "x": 308,
+      "y": 433,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "shuttle_explanation",
+      "type": "text",
+      "x": 315,
+      "y": 490,
+      "w": 269.7,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "smoker_grill_notes_cont",
+      "type": "text",
+      "x": 310,
+      "y": 544,
       "w": 269.7,
       "h": 11,
       "fontSize": 8
