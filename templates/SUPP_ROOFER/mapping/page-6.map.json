@@ -1,11 +1,1 @@
-{
-  "schema": "cid.map.v1",
-  "units": "base_612x792",
-  "page": {
-    "width": 612,
-    "height": 792
-  },
-  "template":"SUPP_ROOFER",
-  "pageId": "page-6",
-  "fields": []
-}
+{"schema":"cid.map.v1","units":"base_612x792","page":{"width":612,"height":792},"template":"SUPP_ROOFER","pageId":"page-6","fields":[{"name":"producers_sign","type":"text","x":49,"y":206,"w":148.7,"h":28.8,"fontSize":8},{"name":"date","type":"text","x":211,"y":206,"w":89.3,"h":28.8,"fontSize":8},{"name":"applicants_sign","type":"text","x":312,"y":206,"w":148.7,"h":28.8,"fontSize":8},{"name":"date_2","type":"text","x":474,"y":206,"w":89.3,"h":28.8,"fontSize":8}]}

@@ -1,11 +1,1 @@
-{
-  "schema": "cid.map.v1",
-  "units": "base_612x792",
-  "page": {
-    "width": 612,
-    "height": 792
-  },
-  "template":"SUPP_ROOFER",
-  "pageId": "page-4",
-  "fields": []
-}
+{"schema":"cid.map.v1","units":"base_612x792","page":{"width":612,"height":792},"template":"SUPP_ROOFER","pageId":"page-4","fields":[{"name":"largest_job_1","type":"text","x":50,"y":115,"w":308.6,"h":35.2,"fontSize":8},{"name":"largest_job_1_process","type":"text","x":361,"y":115,"w":200.6,"h":35.2,"fontSize":8},{"name":"largest_job_2","type":"text","x":50,"y":152,"w":308.6,"h":35.2,"fontSize":8},{"name":"largest_job_2_process","type":"text","x":361,"y":152,"w":200.6,"h":35.2,"fontSize":8},{"name":"largest_job_3","type":"text","x":50,"y":189,"w":308.6,"h":35.2,"fontSize":8},{"name":"largest_job_3_process","type":"text","x":361,"y":189,"w":200.6,"h":35.2,"fontSize":8},{"name":"jobsrow4","type":"text","x":50,"y":226,"w":308.6,"h":35.2,"fontSize":8},{"name":"type_of_process_usedrow4","type":"text","x":361,"y":226,"w":200.6,"h":35.2,"fontSize":8},{"name":"jobsrow5","type":"text","x":50,"y":263,"w":308.6,"h":35.2,"fontSize":8},{"name":"type_of_process_usedrow5","type":"text","x":361,"y":263,"w":200.6,"h":35.2,"fontSize":8},{"name":"additional_comments","type":"text","x":49,"y":319,"w":512.9,"h":72.1,"fontSize":8}]}
