@@ -5,7 +5,462 @@
     "width": 612,
     "height": 792
   },
-  "template":"SUPP_ROOFER",
+  "template": "SUPP_ROOFER",
   "pageId": "page-1",
-  "fields": []
+  "fields": [
+    {
+      "name": "agent_name",
+      "type": "text",
+      "x": 116,
+      "y": 73,
+      "w": 181.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "contact",
+      "type": "text",
+      "x": 347,
+      "y": 73,
+      "w": 181.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "agent_number",
+      "type": "text",
+      "x": 116,
+      "y": 90,
+      "w": 181.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "phone",
+      "type": "text",
+      "x": 347,
+      "y": 90,
+      "w": 181.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "applicants_name",
+      "type": "text",
+      "x": 137,
+      "y": 149,
+      "w": 421.1,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_mailing_address",
+      "type": "text",
+      "x": 174,
+      "y": 170,
+      "w": 384.4,
+      "h": 43.5,
+      "fontSize": 8
+    },
+    {
+      "name": "applicants_phone_number",
+      "type": "text",
+      "x": 175,
+      "y": 216,
+      "w": 383.5,
+      "h": 13.3,
+      "fontSize": 8
+    },
+    {
+      "name": "web_address",
+      "type": "text",
+      "x": 117,
+      "y": 231,
+      "w": 442,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "inspection_contact",
+      "type": "text",
+      "x": 144,
+      "y": 249,
+      "w": 415,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "phone_number_for_inspection_contact",
+      "type": "text",
+      "x": 226,
+      "y": 266,
+      "w": 332.8,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "proposed_policy_period",
+      "type": "text",
+      "x": 162,
+      "y": 284,
+      "w": 60,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "to",
+      "type": "text",
+      "x": 234,
+      "y": 284,
+      "w": 60,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "individual",
+      "type": "checkbox",
+      "x": 114,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "partnership",
+      "type": "checkbox",
+      "x": 181,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "corporation",
+      "type": "checkbox",
+      "x": 257,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "joint_venture",
+      "type": "checkbox",
+      "x": 334,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "other",
+      "type": "checkbox",
+      "x": 415,
+      "y": 306,
+      "size": 10
+    },
+    {
+      "name": "applicant_is",
+      "type": "text",
+      "x": 53,
+      "y": 321,
+      "w": 505,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "location_1",
+      "type": "text",
+      "x": 109,
+      "y": 337,
+      "w": 448.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "location_2",
+      "type": "text",
+      "x": 109,
+      "y": 354,
+      "w": 448.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "location_3",
+      "type": "text",
+      "x": 109,
+      "y": 369,
+      "w": 449.5,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "years_in_business",
+      "type": "text",
+      "x": 152,
+      "y": 408,
+      "w": 122.6,
+      "h": 12.6,
+      "fontSize": 8
+    },
+    {
+      "name": "years_of_experience_in_this_field",
+      "type": "text",
+      "x": 446,
+      "y": 406,
+      "w": 111.7,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_28",
+      "type": "text",
+      "x": 167,
+      "y": 464,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_29",
+      "type": "text",
+      "x": 263,
+      "y": 464,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_30",
+      "type": "text",
+      "x": 360,
+      "y": 464,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_31",
+      "type": "text",
+      "x": 456,
+      "y": 464,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_32",
+      "type": "text",
+      "x": 167,
+      "y": 478,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_33",
+      "type": "text",
+      "x": 263,
+      "y": 478,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_34",
+      "type": "text",
+      "x": 360,
+      "y": 478,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_35",
+      "type": "text",
+      "x": 456,
+      "y": 478,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_37",
+      "type": "text",
+      "x": 167,
+      "y": 493,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_38",
+      "type": "text",
+      "x": 263,
+      "y": 493,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_39",
+      "type": "text",
+      "x": 360,
+      "y": 493,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_40",
+      "type": "text",
+      "x": 456,
+      "y": 493,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_42",
+      "type": "text",
+      "x": 168,
+      "y": 517,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "metal",
+      "type": "text",
+      "x": 329,
+      "y": 516,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "pitch_roofs",
+      "type": "text",
+      "x": 500,
+      "y": 516,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_46",
+      "type": "text",
+      "x": 168,
+      "y": 531,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "single_ply",
+      "type": "text",
+      "x": 329,
+      "y": 531,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "tile",
+      "type": "text",
+      "x": 500,
+      "y": 531,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_50",
+      "type": "text",
+      "x": 168,
+      "y": 546,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "wood",
+      "type": "text",
+      "x": 329,
+      "y": 546,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "polyurethane",
+      "type": "text",
+      "x": 500,
+      "y": 546,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "fill_53",
+      "type": "text",
+      "x": 168,
+      "y": 561,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "slate",
+      "type": "text",
+      "x": 329,
+      "y": 560,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "torch_down",
+      "type": "text",
+      "x": 500,
+      "y": 560,
+      "w": 60,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "other_describe",
+      "type": "text",
+      "x": 153,
+      "y": 576,
+      "w": 409.1,
+      "h": 13.7,
+      "fontSize": 8
+    },
+    {
+      "name": "gutters_carpentry_etc_2",
+      "type": "text",
+      "x": 72,
+      "y": 626,
+      "w": 486.1,
+      "h": 14.5,
+      "fontSize": 8
+    },
+    {
+      "name": "check_box16",
+      "type": "checkbox",
+      "x": 501,
+      "y": 658,
+      "size": 10
+    },
+    {
+      "name": "check_box16_1",
+      "type": "checkbox",
+      "x": 534,
+      "y": 658,
+      "size": 10
+    },
+    {
+      "name": "describework",
+      "type": "text",
+      "x": 72,
+      "y": 687,
+      "w": 486.2,
+      "h": 34.2,
+      "fontSize": 8
+    }
+  ]
 }
