@@ -1,8 +1,345 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-1",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "insured_name",
+      "type": "text",
+      "x": 116,
+      "y": 202,
+      "w": 454.4,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "business_phone",
+      "type": "text",
+      "x": 113,
+      "y": 262,
+      "w": 171.7,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "business_website",
+      "type": "text",
+      "x": 358,
+      "y": 262,
+      "w": 212.6,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "business_structure",
+      "type": "text",
+      "x": 41,
+      "y": 316,
+      "w": 529.4,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "location_2",
+      "type": "text",
+      "x": 93,
+      "y": 363,
+      "w": 477.6,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "location_3",
+      "type": "text",
+      "x": 93,
+      "y": 379,
+      "w": 477.6,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "years_of_experience_in_this_field",
+      "type": "text",
+      "x": 474,
+      "y": 418,
+      "w": 97.1,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "if_no_explain",
+      "type": "text",
+      "x": 119,
+      "y": 451,
+      "w": 451.3,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "your_contractors_license_number",
+      "type": "text",
+      "x": 204,
+      "y": 468,
+      "w": 138.2,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "type_of_license",
+      "type": "text",
+      "x": 441,
+      "y": 468,
+      "w": 130.1,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "undefined_3",
+      "type": "text",
+      "x": 459,
+      "y": 510,
+      "w": 110.4,
+      "h": 13.6,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_gc",
+      "type": "text",
+      "x": 175,
+      "y": 590,
+      "w": 25,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_sub",
+      "type": "text",
+      "x": 354,
+      "y": 590,
+      "w": 25,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "a_your_employees",
+      "type": "text",
+      "x": 175,
+      "y": 623,
+      "w": 25,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "b_subcontractors_under_your_supervision",
+      "type": "text",
+      "x": 459,
+      "y": 623,
+      "w": 25,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "if_residential_construction_how_many_new_detached_single_family_homes_per_year",
+      "type": "text",
+      "x": 394,
+      "y": 641,
+      "w": 176.3,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "applicant_name",
+      "type": "text",
+      "x": 115,
+      "y": 184,
+      "w": 455.8,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 116,
+      "y": 220,
+      "w": 454.4,
+      "h": 15.1,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 119,
+      "y": 240,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 309,
+      "y": 241,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_state",
+      "type": "text",
+      "x": 439,
+      "y": 242,
+      "w": 120,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "business_email",
+      "type": "checkbox",
+      "x": 137,
+      "y": 297,
+      "size": 10
+    },
+    {
+      "name": "individual",
+      "type": "checkbox",
+      "x": 201,
+      "y": 296,
+      "size": 10
+    },
+    {
+      "name": "partnership",
+      "type": "checkbox",
+      "x": 268,
+      "y": 298,
+      "size": 10
+    },
+    {
+      "name": "corporation",
+      "type": "checkbox",
+      "x": 337,
+      "y": 297,
+      "size": 10
+    },
+    {
+      "name": "jv",
+      "type": "checkbox",
+      "x": 416,
+      "y": 296,
+      "size": 10
+    },
+    {
+      "name": "physical_address_1",
+      "type": "text",
+      "x": 92,
+      "y": 348,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_city",
+      "type": "text",
+      "x": 296,
+      "y": 349,
+      "w": 150,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_state",
+      "type": "text",
+      "x": 450,
+      "y": 349,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "physical_zip",
+      "type": "text",
+      "x": 525,
+      "y": 349,
+      "w": 40,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "years_in_business",
+      "type": "text",
+      "x": 257,
+      "y": 420,
+      "w": 25,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "is_the_applicant_licensed",
+      "type": "checkbox",
+      "x": 503,
+      "y": 438,
+      "size": 10
+    },
+    {
+      "name": "is_the_applicant_licensed_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 438,
+      "size": 10
+    },
+    {
+      "name": "pct_commercial",
+      "type": "text",
+      "x": 181,
+      "y": 524,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_residential",
+      "type": "text",
+      "x": 276,
+      "y": 525,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_industrial",
+      "type": "text",
+      "x": 378,
+      "y": 524,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "currentTotal",
+      "type": "text",
+      "x": 488,
+      "y": 525,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "new_condos_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 671,
+      "size": 10
+    },
+    {
+      "name": "new_condos_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 669,
+      "size": 10
+    }
+  ]
 }
