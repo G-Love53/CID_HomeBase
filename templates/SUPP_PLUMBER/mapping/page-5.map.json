@@ -1,8 +1,1171 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-5",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "projected_revenue",
+      "type": "text",
+      "x": 380,
+      "y": 343,
+      "w": 190.9,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "year_20",
+      "type": "text",
+      "x": 131,
+      "y": 375,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "gross_sales",
+      "type": "text",
+      "x": 296,
+      "y": 376,
+      "w": 154,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "year_20_2",
+      "type": "text",
+      "x": 131,
+      "y": 391,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "gross_sales_2",
+      "type": "text",
+      "x": 296,
+      "y": 392,
+      "w": 154,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "year_20_3",
+      "type": "text",
+      "x": 131,
+      "y": 408,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "gross_sales_3",
+      "type": "text",
+      "x": 296,
+      "y": 409,
+      "w": 154,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "bridge_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 149,
+      "size": 10
+    },
+    {
+      "name": "carpentry_emp",
+      "type": "checkbox",
+      "x": 166,
+      "y": 164,
+      "size": 10
+    },
+    {
+      "name": "concrete_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 178,
+      "size": 10
+    },
+    {
+      "name": "debris_emp",
+      "type": "checkbox",
+      "x": 166,
+      "y": 194,
+      "size": 10
+    },
+    {
+      "name": "drilling_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 207,
+      "size": 10
+    },
+    {
+      "name": "drilling_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 207,
+      "size": 10
+    },
+    {
+      "name": "debris_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 193,
+      "size": 10
+    },
+    {
+      "name": "concrete_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 179,
+      "size": 10
+    },
+    {
+      "name": "carpentry_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 165,
+      "size": 10
+    },
+    {
+      "name": "bridge_sub",
+      "type": "checkbox",
+      "x": 250,
+      "y": 150,
+      "size": 10
+    },
+    {
+      "name": "drywall_emp",
+      "type": "checkbox",
+      "x": 164,
+      "y": 222,
+      "size": 10
+    },
+    {
+      "name": "drywall_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 222,
+      "size": 10
+    },
+    {
+      "name": "electrical_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 236,
+      "size": 10
+    },
+    {
+      "name": "electrical_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 236,
+      "size": 10
+    },
+    {
+      "name": "excavation_emp",
+      "type": "checkbox",
+      "x": 164,
+      "y": 251,
+      "size": 10
+    },
+    {
+      "name": "excavation_sub",
+      "type": "checkbox",
+      "x": 251,
+      "y": 251,
+      "size": 10
+    },
+    {
+      "name": "framing_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 265,
+      "size": 10
+    },
+    {
+      "name": "framing_sub",
+      "type": "checkbox",
+      "x": 249,
+      "y": 264,
+      "size": 10
+    },
+    {
+      "name": "grading_emp",
+      "type": "checkbox",
+      "x": 165,
+      "y": 278,
+      "size": 10
+    },
+    {
+      "name": "grading_sub",
+      "type": "checkbox",
+      "x": 248,
+      "y": 278,
+      "size": 10
+    },
+    {
+      "name": "guard_rail_emp",
+      "type": "checkbox",
+      "x": 166,
+      "y": 293,
+      "size": 10
+    },
+    {
+      "name": "guard_rail_sub",
+      "type": "checkbox",
+      "x": 250,
+      "y": 294,
+      "size": 10
+    },
+    {
+      "name": "hvac_emp",
+      "type": "checkbox",
+      "x": 166,
+      "y": 308,
+      "size": 10
+    },
+    {
+      "name": "hvac_sub",
+      "type": "checkbox",
+      "x": 250,
+      "y": 307,
+      "size": 10
+    },
+    {
+      "name": "insulation_emp",
+      "type": "checkbox",
+      "x": 416,
+      "y": 150,
+      "size": 10
+    },
+    {
+      "name": "insulation_sub",
+      "type": "checkbox",
+      "x": 502,
+      "y": 150,
+      "size": 10
+    },
+    {
+      "name": "interior_demo_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 166,
+      "size": 10
+    },
+    {
+      "name": "interior_demo_sub",
+      "type": "checkbox",
+      "x": 504,
+      "y": 164,
+      "size": 10
+    },
+    {
+      "name": "landscaping_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 179,
+      "size": 10
+    },
+    {
+      "name": "landscaping_sub",
+      "type": "checkbox",
+      "x": 502,
+      "y": 179,
+      "size": 10
+    },
+    {
+      "name": "mansory_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 193,
+      "size": 10
+    },
+    {
+      "name": "mansory_sub",
+      "type": "checkbox",
+      "x": 503,
+      "y": 193,
+      "size": 10
+    },
+    {
+      "name": "painting_emp",
+      "type": "checkbox",
+      "x": 416,
+      "y": 208,
+      "size": 10
+    },
+    {
+      "name": "painting_sub",
+      "type": "checkbox",
+      "x": 503,
+      "y": 207,
+      "size": 10
+    },
+    {
+      "name": "lot_paving_emp",
+      "type": "checkbox",
+      "x": 418,
+      "y": 223,
+      "size": 10
+    },
+    {
+      "name": "lot_paving_sub",
+      "type": "checkbox",
+      "x": 502,
+      "y": 222,
+      "size": 10
+    },
+    {
+      "name": "plumbing_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 236,
+      "size": 10
+    },
+    {
+      "name": "plumbing_sub",
+      "type": "checkbox",
+      "x": 502,
+      "y": 236,
+      "size": 10
+    },
+    {
+      "name": "roofing_emp",
+      "type": "checkbox",
+      "x": 418,
+      "y": 250,
+      "size": 10
+    },
+    {
+      "name": "roofing_sub",
+      "type": "checkbox",
+      "x": 501,
+      "y": 251,
+      "size": 10
+    },
+    {
+      "name": "street_paving_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 265,
+      "size": 10
+    },
+    {
+      "name": "street_paving_sub",
+      "type": "checkbox",
+      "x": 502,
+      "y": 264,
+      "size": 10
+    },
+    {
+      "name": "stucco_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 279,
+      "size": 10
+    },
+    {
+      "name": "stucco_sub",
+      "type": "checkbox",
+      "x": 503,
+      "y": 279,
+      "size": 10
+    },
+    {
+      "name": "other_emp",
+      "type": "checkbox",
+      "x": 417,
+      "y": 294,
+      "size": 10
+    },
+    {
+      "name": "other_sub",
+      "type": "checkbox",
+      "x": 503,
+      "y": 294,
+      "size": 10
+    },
+    {
+      "name": "bridge_pay",
+      "type": "text",
+      "x": 187,
+      "y": 148,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "carpentry_pay",
+      "type": "text",
+      "x": 187,
+      "y": 162,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "concrete_pay",
+      "type": "text",
+      "x": 187,
+      "y": 177,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "debris_pay",
+      "type": "text",
+      "x": 187,
+      "y": 191,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "drilling_pay",
+      "type": "text",
+      "x": 188,
+      "y": 205,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "drywall_pay",
+      "type": "text",
+      "x": 187,
+      "y": 221,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "electrical_pay",
+      "type": "text",
+      "x": 188,
+      "y": 234,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "excavation_pay",
+      "type": "text",
+      "x": 186,
+      "y": 249,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "framing_pay",
+      "type": "text",
+      "x": 187,
+      "y": 263,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "grading_pay",
+      "type": "text",
+      "x": 189,
+      "y": 277,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "guard_rail_pay",
+      "type": "text",
+      "x": 188,
+      "y": 291,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "hvac_pay",
+      "type": "text",
+      "x": 185,
+      "y": 305,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "bridge_cost",
+      "type": "text",
+      "x": 275,
+      "y": 149,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "carpentry_cost",
+      "type": "text",
+      "x": 276,
+      "y": 163,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "concrete_cost",
+      "type": "text",
+      "x": 274,
+      "y": 178,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "debris_cost",
+      "type": "text",
+      "x": 275,
+      "y": 191,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "drilling_cost",
+      "type": "text",
+      "x": 275,
+      "y": 205,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "drywall_cost",
+      "type": "text",
+      "x": 276,
+      "y": 220,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "electrical_cost",
+      "type": "text",
+      "x": 276,
+      "y": 235,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "excavation_cost",
+      "type": "text",
+      "x": 274,
+      "y": 249,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "framing_cost",
+      "type": "text",
+      "x": 275,
+      "y": 264,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "grading_cost",
+      "type": "text",
+      "x": 274,
+      "y": 277,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "guard_rail_cost",
+      "type": "text",
+      "x": 275,
+      "y": 293,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "hvac_cost",
+      "type": "text",
+      "x": 275,
+      "y": 305,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "insulation_pay",
+      "type": "text",
+      "x": 443,
+      "y": 148,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "interior_demo_pay",
+      "type": "text",
+      "x": 445,
+      "y": 163,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "landscaping_pay",
+      "type": "text",
+      "x": 445,
+      "y": 178,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "mansory_pay",
+      "type": "text",
+      "x": 446,
+      "y": 192,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "painting_pay",
+      "type": "text",
+      "x": 441,
+      "y": 206,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "lot_paving_pay",
+      "type": "text",
+      "x": 443,
+      "y": 221,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "plumbing_pay",
+      "type": "text",
+      "x": 443,
+      "y": 235,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "roofing_pay",
+      "type": "text",
+      "x": 445,
+      "y": 248,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "street_paving_pay",
+      "type": "text",
+      "x": 447,
+      "y": 264,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "stucco_pay",
+      "type": "text",
+      "x": 443,
+      "y": 278,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "other_pay",
+      "type": "text",
+      "x": 444,
+      "y": 292,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "other_cost",
+      "type": "text",
+      "x": 520,
+      "y": 292,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "stucco_cost",
+      "type": "text",
+      "x": 521,
+      "y": 278,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "street_paving_cost",
+      "type": "text",
+      "x": 521,
+      "y": 265,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "roofing_cost",
+      "type": "text",
+      "x": 522,
+      "y": 249,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "plumbing_cost",
+      "type": "text",
+      "x": 521,
+      "y": 234,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "lot_paving_cost",
+      "type": "text",
+      "x": 521,
+      "y": 220,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "painting_cost",
+      "type": "text",
+      "x": 522,
+      "y": 205,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "mansory_cost",
+      "type": "text",
+      "x": 523,
+      "y": 191,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "landscaping_cost",
+      "type": "text",
+      "x": 520,
+      "y": 177,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "interior_demo_cost",
+      "type": "text",
+      "x": 520,
+      "y": 162,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "insulation_cost",
+      "type": "text",
+      "x": 520,
+      "y": 148,
+      "w": 50,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "last_job_1",
+      "type": "text",
+      "x": 72,
+      "y": 465,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "last_job_2",
+      "type": "text",
+      "x": 71,
+      "y": 481,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "last_job_3",
+      "type": "text",
+      "x": 69,
+      "y": 497,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "last_job_4",
+      "type": "text",
+      "x": 70,
+      "y": 515,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "last_job_5",
+      "type": "text",
+      "x": 68,
+      "y": 530,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descr_job_1",
+      "type": "text",
+      "x": 186,
+      "y": 465,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descr_job_2",
+      "type": "text",
+      "x": 185,
+      "y": 482,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descr_job_3",
+      "type": "text",
+      "x": 184,
+      "y": 498,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descr_job_4",
+      "type": "text",
+      "x": 186,
+      "y": 514,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "descr_job_5",
+      "type": "text",
+      "x": 184,
+      "y": 531,
+      "w": 108.6,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_cost_1",
+      "type": "text",
+      "x": 311,
+      "y": 465,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_cost_2",
+      "type": "text",
+      "x": 310,
+      "y": 482,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_cost_3",
+      "type": "text",
+      "x": 312,
+      "y": 498,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_cost_4",
+      "type": "text",
+      "x": 312,
+      "y": 515,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_cost_5",
+      "type": "text",
+      "x": 313,
+      "y": 531,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_duration_1",
+      "type": "text",
+      "x": 398,
+      "y": 465,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_duration_2",
+      "type": "text",
+      "x": 398,
+      "y": 481,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_duration_3",
+      "type": "text",
+      "x": 397,
+      "y": 498,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_duration_4",
+      "type": "text",
+      "x": 398,
+      "y": 515,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "job_duration_5",
+      "type": "text",
+      "x": 399,
+      "y": 532,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "completion_date_1",
+      "type": "text",
+      "x": 486,
+      "y": 466,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "completion_date_2",
+      "type": "text",
+      "x": 486,
+      "y": 481,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "completion_date_3",
+      "type": "text",
+      "x": 490,
+      "y": 497,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "completion_date_4",
+      "type": "text",
+      "x": 488,
+      "y": 514,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "completion_date_5",
+      "type": "text",
+      "x": 488,
+      "y": 532,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_1",
+      "type": "text",
+      "x": 74,
+      "y": 580,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_2",
+      "type": "text",
+      "x": 76,
+      "y": 598,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_3",
+      "type": "text",
+      "x": 76,
+      "y": 614,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_4",
+      "type": "text",
+      "x": 77,
+      "y": 630,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_5",
+      "type": "text",
+      "x": 78,
+      "y": 647,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_cost_1",
+      "type": "text",
+      "x": 245,
+      "y": 580,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_cost_2",
+      "type": "text",
+      "x": 244,
+      "y": 596,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_cost_3",
+      "type": "text",
+      "x": 244,
+      "y": 614,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_cost_4",
+      "type": "text",
+      "x": 243,
+      "y": 629,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "planned_job_cost_5",
+      "type": "text",
+      "x": 244,
+      "y": 646,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_project_duration_1",
+      "type": "text",
+      "x": 414,
+      "y": 580,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_project_duration_2",
+      "type": "text",
+      "x": 415,
+      "y": 597,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_project_duration_3",
+      "type": "text",
+      "x": 414,
+      "y": 615,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_project_duration_4",
+      "type": "text",
+      "x": 415,
+      "y": 630,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_project_duration_5",
+      "type": "text",
+      "x": 415,
+      "y": 647,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
 }

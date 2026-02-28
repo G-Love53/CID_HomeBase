@@ -1,8 +1,437 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-3",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "if_yes_describe_security_at_ night",
+      "type": "text",
+      "x": 159,
+      "y": 115,
+      "w": 411.4,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "what_is_the_maximum_height_of_buildings_you_work_on",
+      "type": "text",
+      "x": 287,
+      "y": 131,
+      "w": 30,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_in_what_states_provide_details_of_work_performed",
+      "type": "text",
+      "x": 299,
+      "y": 181,
+      "w": 271.3,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_please_provide_details_of_az,ca,co,ne,ny,or,ut,wa_performed",
+      "type": "text",
+      "x": 259,
+      "y": 215,
+      "w": 311.3,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_asbestos_explain_in_detail",
+      "type": "text",
+      "x": 159,
+      "y": 248,
+      "w": 411.4,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_draw_plans_describe",
+      "type": "text",
+      "x": 129,
+      "y": 281,
+      "w": 441.4,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_describe_equipment_and_forward_copy_of_lease_agreement",
+      "type": "text",
+      "x": 324,
+      "y": 314,
+      "w": 246.4,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_are_certificates_of_insurance_required_when_leased_with_an_operator",
+      "type": "text",
+      "x": 363,
+      "y": 425,
+      "w": 138.6,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "describe_the_type_of_equipment_leased",
+      "type": "text",
+      "x": 224,
+      "y": 443,
+      "w": 346.3,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_pct_below_grade",
+      "type": "text",
+      "x": 191,
+      "y": 616,
+      "w": 30,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_depth_below_grade",
+      "type": "text",
+      "x": 271,
+      "y": 616,
+      "w": 30,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_describe_jetties_vessels_bridges",
+      "type": "text",
+      "x": 129,
+      "y": 675,
+      "w": 442.1,
+      "h": 14,
+      "fontSize": 8
+    },
+    {
+      "name": "security_at_night_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 101,
+      "size": 10
+    },
+    {
+      "name": "security_at_night_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 101,
+      "size": 10
+    },
+    {
+      "name": "foreman_inspect_jobs_upon_completion_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 153,
+      "size": 10
+    },
+    {
+      "name": "foreman_inspect_jobs_upon_completion_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 152,
+      "size": 10
+    },
+    {
+      "name": "any_out_of_state_work_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 168,
+      "size": 10
+    },
+    {
+      "name": "any_out_of_state_work_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 168,
+      "size": 10
+    },
+    {
+      "name": "work_in_az_ca_co_nv_ny_or_ut_or_wa_yes",
+      "type": "checkbox",
+      "x": 500,
+      "y": 201,
+      "size": 10
+    },
+    {
+      "name": "work_in_az_ca_co_nv_ny_or_ut_or_wa_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 201,
+      "size": 10
+    },
+    {
+      "name": "used_sold_installed_or_removed_asbestos_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 234,
+      "size": 10
+    },
+    {
+      "name": "used_sold_installed_or_removed_asbestos_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 234,
+      "size": 10
+    },
+    {
+      "name": "draw_plans_designs_or_specifications_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 268,
+      "size": 10
+    },
+    {
+      "name": "draw_plans_designs_or_specifications_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 267,
+      "size": 10
+    },
+    {
+      "name": "lease_equipment_to_others_with_or_without_operators_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 300,
+      "size": 10
+    },
+    {
+      "name": "lease_equipment_to_others_with_or_without_operators_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 298,
+      "size": 10
+    },
+    {
+      "name": "soil_engineer_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 334,
+      "size": 10
+    },
+    {
+      "name": "soil_engineer_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 334,
+      "size": 10
+    },
+    {
+      "name": "if_no_do_you_hire_an_independent_soil_engineer_yes",
+      "type": "checkbox",
+      "x": 500,
+      "y": 347,
+      "size": 10
+    },
+    {
+      "name": "if_no_do_you_hire_an_independent_soil_engineer_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 348,
+      "size": 10
+    },
+    {
+      "name": "if_yes_does_he_name_you_as_an_additional_insured_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 362,
+      "size": 10
+    },
+    {
+      "name": "if_yes_does_he_name_you_as_an_additional_insured_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 363,
+      "size": 10
+    },
+    {
+      "name": "do_you_offer_warranties_if_yes_attach_copies_of_warranty_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 379,
+      "size": 10
+    },
+    {
+      "name": "do_you_offer_warranties_if_yes_attach_copies_of_warranty_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 378,
+      "size": 10
+    },
+    {
+      "name": "mobile_equipment_that_travels_over_public_roads_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 395,
+      "size": 10
+    },
+    {
+      "name": "mobile_equipment_that_travels_over_public_roads_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 396,
+      "size": 10
+    },
+    {
+      "name": "do_you_lease_mobile_equipment_from_others_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 413,
+      "size": 10
+    },
+    {
+      "name": "do_you_lease_mobile_equipment_from_others_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 412,
+      "size": 10
+    },
+    {
+      "name": "perform_or_subcontract_fire_restoration_andor_water_remediation_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 461,
+      "size": 10
+    },
+    {
+      "name": "perform_or_subcontract_fire_restoration_andor_water_remediation_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 461,
+      "size": 10
+    },
+    {
+      "name": "applying_disposing_or_transporting_of_hazardous_material_eg_landfills_wastes_fuel_tanks_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 485,
+      "size": 10
+    },
+    {
+      "name": "applying_disposing_or_transporting_of_hazardous_material_eg_landfills_wastes_fuel_tanks_no",
+      "type": "checkbox",
+      "x": 535,
+      "y": 486,
+      "size": 10
+    },
+    {
+      "name": "lease_employees_to_or_from_other_employers_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 502,
+      "size": 10
+    },
+    {
+      "name": "lease_employees_to_or_from_other_employers_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 502,
+      "size": 10
+    },
+    {
+      "name": "carry_workers_compensation_insurance_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 518,
+      "size": 10
+    },
+    {
+      "name": "carry_workers_compensation_insurance_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 519,
+      "size": 10
+    },
+    {
+      "name": "labor_interchange_with_any_other_business_or_subsidiaries_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 535,
+      "size": 10
+    },
+    {
+      "name": "labor_interchange_with_any_other_business_or_subsidiaries_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 535,
+      "size": 10
+    },
+    {
+      "name": "have_you_operated_under_any_other_names_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 551,
+      "size": 10
+    },
+    {
+      "name": "have_you_operated_under_any_other_names_no",
+      "type": "checkbox",
+      "x": 535,
+      "y": 552,
+      "size": 10
+    },
+    {
+      "name": "if_yes_list_names_operations",
+      "type": "text",
+      "x": 68,
+      "y": 583,
+      "w": 350,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "work_below_grade_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 602,
+      "size": 10
+    },
+    {
+      "name": "work_below_grade_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 602,
+      "size": 10
+    },
+    {
+      "name": "jetties_maritime_structure_or_vessels_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 657,
+      "size": 10
+    },
+    {
+      "name": "jetties_maritime_structure_or_vessels_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 659,
+      "size": 10
+    },
+    {
+      "name": "built_susceptible_to_substances_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 633,
+      "size": 10
+    },
+    {
+      "name": "built_susceptible_to_substances_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 634,
+      "size": 10
+    }
+  ]
 }

@@ -1,8 +1,437 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-4",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "number_of_executive_supervisors",
+      "type": "text",
+      "x": 204,
+      "y": 125,
+      "w": 112.4,
+      "h": 14.6,
+      "fontSize": 8
+    },
+    {
+      "name": "estimated_payroll",
+      "type": "text",
+      "x": 394,
+      "y": 125,
+      "w": 176.3,
+      "h": 14.6,
+      "fontSize": 8
+    },
+    {
+      "name": "number_of_model_homes",
+      "type": "text",
+      "x": 169,
+      "y": 249,
+      "w": 80.3,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "length_of_booms",
+      "type": "text",
+      "x": 138,
+      "y": 343,
+      "w": 60,
+      "h": 14.6,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_hot_tar",
+      "type": "text",
+      "x": 247,
+      "y": 591,
+      "w": 25,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "pct_torch_down",
+      "type": "text",
+      "x": 401,
+      "y": 591,
+      "w": 30,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_any_operations_outside_of_the_construction_industry",
+      "type": "text",
+      "x": 132,
+      "y": 109,
+      "w": 300,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "operations_outside_of_the_construction_industry_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 95,
+      "size": 10
+    },
+    {
+      "name": "operations_outside_of_the_construction_industry_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 95,
+      "size": 10
+    },
+    {
+      "name": "please_provide_the_construction_experience_of_your_executive_supervisors",
+      "type": "text",
+      "x": 361,
+      "y": 145,
+      "w": 200,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "exec_name_1",
+      "type": "text",
+      "x": 65,
+      "y": 181,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "exec_name_2",
+      "type": "text",
+      "x": 65,
+      "y": 198,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "exec_name_3",
+      "type": "text",
+      "x": 63,
+      "y": 213,
+      "w": 140,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_exp_1",
+      "type": "text",
+      "x": 211,
+      "y": 180,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_exp_2",
+      "type": "text",
+      "x": 212,
+      "y": 197,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_exp_3",
+      "type": "text",
+      "x": 211,
+      "y": 213,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_payroll_exec_1",
+      "type": "text",
+      "x": 295,
+      "y": 182,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_payroll_exec_2",
+      "type": "text",
+      "x": 293,
+      "y": 199,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "est_payroll_exec_3",
+      "type": "text",
+      "x": 295,
+      "y": 214,
+      "w": 80,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "largest_job_1",
+      "type": "text",
+      "x": 402,
+      "y": 181,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "largest_job_2",
+      "type": "text",
+      "x": 402,
+      "y": 198,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "largest_job_3",
+      "type": "text",
+      "x": 402,
+      "y": 214,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_with_company_1",
+      "type": "text",
+      "x": 489,
+      "y": 181,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_with_company_2",
+      "type": "text",
+      "x": 490,
+      "y": 198,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "yrs_with_company_3",
+      "type": "text",
+      "x": 490,
+      "y": 215,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "dev_property_acres",
+      "type": "text",
+      "x": 352,
+      "y": 251,
+      "w": 40,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "vac_land_acres",
+      "type": "text",
+      "x": 496,
+      "y": 250,
+      "w": 40,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "use_of_cranes_yes",
+      "type": "checkbox",
+      "x": 500,
+      "y": 314,
+      "size": 10
+    },
+    {
+      "name": "use_of_cranes_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 313,
+      "size": 10
+    },
+    {
+      "name": "use_of_tower_cranes_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 330,
+      "size": 10
+    },
+    {
+      "name": "use_of_tower_cranes_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 331,
+      "size": 10
+    },
+    {
+      "name": "eifs_exterior_insulation_and_finish_systems_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 364,
+      "size": 10
+    },
+    {
+      "name": "eifs_exterior_insulation_and_finish_systems_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 364,
+      "size": 10
+    },
+    {
+      "name": "demolition_of_structures_other_than_interior_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 380,
+      "size": 10
+    },
+    {
+      "name": "demolition_of_structures_other_than_interior_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 381,
+      "size": 10
+    },
+    {
+      "name": "structural_alterations_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 397,
+      "size": 10
+    },
+    {
+      "name": "structural_alterations_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 395,
+      "size": 10
+    },
+    {
+      "name": "blasting_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 412,
+      "size": 10
+    },
+    {
+      "name": "blasting_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 413,
+      "size": 10
+    },
+    {
+      "name": "foundation_repair_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 429,
+      "size": 10
+    },
+    {
+      "name": "foundation_repair_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 430,
+      "size": 10
+    },
+    {
+      "name": "shoring_or_underpinning_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 446,
+      "size": 10
+    },
+    {
+      "name": "shoring_or_underpinning_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 446,
+      "size": 10
+    },
+    {
+      "name": "pile_driving_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 464,
+      "size": 10
+    },
+    {
+      "name": "pile_driving_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 463,
+      "size": 10
+    },
+    {
+      "name": "caisson_or_cofferdam_work_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 479,
+      "size": 10
+    },
+    {
+      "name": "caisson_or_cofferdam_work_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 478,
+      "size": 10
+    },
+    {
+      "name": "describe_special_hazzards",
+      "type": "text",
+      "x": 161,
+      "y": 493,
+      "w": 350,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_explain_any_special_hazzard",
+      "type": "multiline",
+      "x": 63,
+      "y": 522,
+      "w": 508.7,
+      "h": 35,
+      "fontSize": 8
+    },
+    {
+      "name": "subcontractors_installed_wallboard_or_drywall_manufactured_in_china_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 562,
+      "size": 10
+    },
+    {
+      "name": "subcontractors_installed_wallboard_or_drywall_manufactured_in_china_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 562,
+      "size": 10
+    },
+    {
+      "name": "are_you_involved_in_torch_down_or_hot_tar_roofing_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 578,
+      "size": 10
+    },
+    {
+      "name": "are_you_involved_in_torch_down_or_hot_tar_roofing_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 577,
+      "size": 10
+    }
+  ]
 }

@@ -30,7 +30,7 @@
 - **CSS:** Plumber loads global CSS from **CID_HomeBase/templates/_shared/styles.css** (no local `templates/` or `styles/`).
 
 ### 3. Test scripts (two PDFs only)
-- **Script:** `plumber-pdf-backend/scripts/test-two-pdfs.sh` — requests only SUPP_CONTRACTOR and ACORD125, writes `Supplemental.pdf` and `ACORD125.pdf`, opens both. Does not change PLUMBER_INTAKE.
+- **Script:** `plumber-pdf-backend/scripts/test-two-pdfs.sh` — requests only SUPP_PLUMBER and ACORD125, writes `Supplemental.pdf` and `ACORD125.pdf`, opens both. Does not change PLUMBER_INTAKE.
 - **Docs:** `plumber-pdf-backend/scripts/TEST-STEPS.md` and `CID_HomeBase/tools/README.md` describe local test and PDF-draft workflow.
 
 ### 4. RSS GOLD backend cleanup (CTO audit / HVAC ready)

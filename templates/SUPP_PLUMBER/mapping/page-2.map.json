@@ -1,8 +1,353 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-2",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "if_yes_please_specify_work_completed_and_maximum_number_of_individual_living_units_in_a_project",
+      "type": "text",
+      "x": 61,
+      "y": 111,
+      "w": 509.2,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "when_was_your_most_recent_project_completed",
+      "type": "text",
+      "x": 259,
+      "y": 125,
+      "w": 312,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "explain_new_condos",
+      "type": "text",
+      "x": 63,
+      "y": 200,
+      "w": 450.7,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "explain_minimum_limits_you_accept",
+      "type": "text",
+      "x": 259,
+      "y": 337,
+      "w": 311.3,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "how_long_coi_kept",
+      "type": "text",
+      "x": 249,
+      "y": 444,
+      "w": 322.1,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "if_you_have_done_this_work_in_the_past_how_long_ago",
+      "type": "text",
+      "x": 279,
+      "y": 516,
+      "w": 291.2,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "please_describe_type_of_work",
+      "type": "text",
+      "x": 184,
+      "y": 533,
+      "w": 386.3,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "individual_living_units_involved_in_the_remodling_renovation_project",
+      "type": "text",
+      "x": 333,
+      "y": 559,
+      "w": 238.1,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "what_type_of_work_will_it_entail",
+      "type": "text",
+      "x": 187,
+      "y": 574,
+      "w": 384.1,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_what_is_the_projected_cost_associated_with_the_wrapupocip_projects",
+      "type": "text",
+      "x": 379,
+      "y": 655,
+      "w": 191.3,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "if_yes_describe_what_safety_precautions_are_in_place",
+      "type": "text",
+      "x": 280,
+      "y": 689,
+      "w": 290.9,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "how_do_you_protect_the_general_public_from_potential_injury",
+      "type": "text",
+      "x": 304,
+      "y": 705,
+      "w": 266.3,
+      "h": 12.8,
+      "fontSize": 8
+    },
+    {
+      "name": "new_condo_work_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 166,
+      "size": 10
+    },
+    {
+      "name": "new_condo_work_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 165,
+      "size": 10
+    },
+    {
+      "name": "explain_construction_of_apartments",
+      "type": "text",
+      "x": 67,
+      "y": 248,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "new_apartments_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 215,
+      "size": 10
+    },
+    {
+      "name": "new_apartments_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 216,
+      "size": 10
+    },
+    {
+      "name": "hire_subcontractors_yes",
+      "type": "checkbox",
+      "x": 504,
+      "y": 265,
+      "size": 10
+    },
+    {
+      "name": "hire_subcontractors_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 266,
+      "size": 10
+    },
+    {
+      "name": "coi_from_subcontractors_yes",
+      "type": "checkbox",
+      "x": 504,
+      "y": 304,
+      "size": 10
+    },
+    {
+      "name": "coi_from_subcontractors_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 305,
+      "size": 10
+    },
+    {
+      "name": "coverage_limits_less_yes",
+      "type": "checkbox",
+      "x": 505,
+      "y": 321,
+      "size": 10
+    },
+    {
+      "name": "coverage_limits_less_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 322,
+      "size": 10
+    },
+    {
+      "name": "subcontractors_carry_workers_comp_yes",
+      "type": "checkbox",
+      "x": 504,
+      "y": 358,
+      "size": 10
+    },
+    {
+      "name": "subcontractors_carry_workers_comp_no",
+      "type": "checkbox",
+      "x": 535,
+      "y": 360,
+      "size": 10
+    },
+    {
+      "name": "hold_harmless_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 387,
+      "size": 10
+    },
+    {
+      "name": "hold_harmless_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 387,
+      "size": 10
+    },
+    {
+      "name": "named_ai_subcontractors_policy_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 406,
+      "size": 10
+    },
+    {
+      "name": "named_ai_subcontractors_policy_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 406,
+      "size": 10
+    },
+    {
+      "name": "third_party_exclusion_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 429,
+      "size": 10
+    },
+    {
+      "name": "third_party_exclusion_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 429,
+      "size": 10
+    },
+    {
+      "name": "repair_or_remodeling_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 462,
+      "size": 10
+    },
+    {
+      "name": "repair_or_remodeling_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 463,
+      "size": 10
+    },
+    {
+      "name": "hoa_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 484,
+      "size": 10
+    },
+    {
+      "name": "hoa_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 484,
+      "size": 10
+    },
+    {
+      "name": "condo_conversions_yes",
+      "type": "checkbox",
+      "x": 504,
+      "y": 499,
+      "size": 10
+    },
+    {
+      "name": "condo_conversions_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 499,
+      "size": 10
+    },
+    {
+      "name": "pending_litigation_defect_or_fungus_mold_claims_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 598,
+      "size": 10
+    },
+    {
+      "name": "pending_litigation_defect_or_fungus_mold_claims_no",
+      "type": "checkbox",
+      "x": 538,
+      "y": 599,
+      "size": 10
+    },
+    {
+      "name": "loss_alleges_defect_or_fungus_mold_damage_yes",
+      "type": "checkbox",
+      "x": 503,
+      "y": 622,
+      "size": 10
+    },
+    {
+      "name": "loss_alleges_defect_or_fungus_mold_damage_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 623,
+      "size": 10
+    },
+    {
+      "name": "wrapupocip_projects_yes",
+      "type": "checkbox",
+      "x": 500,
+      "y": 639,
+      "size": 10
+    },
+    {
+      "name": "wrapupocip_projects_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 639,
+      "size": 10
+    },
+    {
+      "name": "written_safety_program_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 672,
+      "size": 10
+    },
+    {
+      "name": "written_safety_program_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 671,
+      "size": 10
+    }
+  ]
 }

@@ -1,8 +1,232 @@
 {
   "schema": "cid.map.v1",
   "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
   "template": "SUPP_PLUMBER",
   "pageId": "page-6",
-  "page": { "width": 612, "height": 792 },
-  "fields": []
+  "fields": [
+    {
+      "name": "subsidiary_of_another_entity_or_do_you_have_any_subsidiaries_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 100,
+      "size": 10
+    },
+    {
+      "name": "subsidiary_of_another_entity_or_do_you_have_any_subsidiaries_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 99,
+      "size": 10
+    },
+    {
+      "name": "any_operations_sold_acquired_or_discontinued_in_last_5_years_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 117,
+      "size": 10
+    },
+    {
+      "name": "any_operations_sold_acquired_or_discontinued_in_last_5_years_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 115,
+      "size": 10
+    },
+    {
+      "name": "decline_cancel_insurance_to_you_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 137,
+      "size": 10
+    },
+    {
+      "name": "decline_cancel_insurance_to_you_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 139,
+      "size": 10
+    },
+    {
+      "name": "any_exposure_to_flammables_explosives_chemicals_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 156,
+      "size": 10
+    },
+    {
+      "name": "any_exposure_to_flammables_explosives_chemicals_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 155,
+      "size": 10
+    },
+    {
+      "name": "have_you_been_active_in_or_are_you_currently_active_in_joint_ventures_yes",
+      "type": "checkbox",
+      "x": 502,
+      "y": 171,
+      "size": 10
+    },
+    {
+      "name": "have_you_been_active_in_or_are_you_currently_active_in_joint_ventures_no",
+      "type": "checkbox",
+      "x": 536,
+      "y": 171,
+      "size": 10
+    },
+    {
+      "name": "any_bankruptcies_tax_or_credit_liens_against_you_in_the_past_5_years_yes",
+      "type": "checkbox",
+      "x": 501,
+      "y": 188,
+      "size": 10
+    },
+    {
+      "name": "any_bankruptcies_tax_or_credit_liens_against_you_in_the_past_5_years_no",
+      "type": "checkbox",
+      "x": 537,
+      "y": 189,
+      "size": 10
+    },
+    {
+      "name": "ai_name_1",
+      "type": "text",
+      "x": 67,
+      "y": 310,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address_1",
+      "type": "text",
+      "x": 69,
+      "y": 322,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_city_1",
+      "type": "text",
+      "x": 65,
+      "y": 334,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_state_1",
+      "type": "text",
+      "x": 250,
+      "y": 335,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_zip_1",
+      "type": "text",
+      "x": 316,
+      "y": 335,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_relationship_1",
+      "type": "text",
+      "x": 389,
+      "y": 318,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_type_1",
+      "type": "checkbox",
+      "x": 489,
+      "y": 320,
+      "size": 10
+    },
+    {
+      "name": "ai_cert_1",
+      "type": "checkbox",
+      "x": 539,
+      "y": 320,
+      "size": 10
+    },
+    {
+      "name": "ai_cert_2",
+      "type": "checkbox",
+      "x": 539,
+      "y": 354,
+      "size": 10
+    },
+    {
+      "name": "ai_type_2",
+      "type": "checkbox",
+      "x": 491,
+      "y": 353,
+      "size": 10
+    },
+    {
+      "name": "ai_relationship_2",
+      "type": "text",
+      "x": 389,
+      "y": 352,
+      "w": 70,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_name_2",
+      "type": "text",
+      "x": 68,
+      "y": 348,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_address_2",
+      "type": "text",
+      "x": 70,
+      "y": 361,
+      "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_city_2",
+      "type": "text",
+      "x": 68,
+      "y": 376,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_state_2",
+      "type": "text",
+      "x": 254,
+      "y": 377,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "ai_zip_2",
+      "type": "text",
+      "x": 322,
+      "y": 377,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
 }
