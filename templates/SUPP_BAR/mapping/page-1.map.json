@@ -135,30 +135,12 @@
       "fontSize": 8
     },
     {
-      "name": "total_sales",
-      "type": "text",
-      "x": 417,
-      "y": 233,
-      "w": 82,
-      "h": 12.4,
-      "fontSize": 8
-    },
-    {
       "name": "Percent_Alcohol",
       "type": "text",
       "x": 195,
       "y": 246,
       "w": 109.4,
       "h": 12.2,
-      "fontSize": 8
-    },
-    {
-      "name": "annual_revenue_1",
-      "type": "text",
-      "x": 501,
-      "y": 233,
-      "w": 82.4,
-      "h": 12.4,
       "fontSize": 8
     },
     {
@@ -659,6 +641,15 @@
       "x": 94,
       "y": 596,
       "w": 250,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "total_sales",
+      "type": "text",
+      "x": 503,
+      "y": 234,
+      "w": 70,
       "h": 11,
       "fontSize": 8
     }

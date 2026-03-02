@@ -63,7 +63,7 @@
       "fontSize": 8
     },
     {
-      "name": "years_of_experience_in_this_field",
+      "name": "years_experience",
       "type": "text",
       "x": 474,
       "y": 418,
@@ -81,7 +81,7 @@
       "fontSize": 8
     },
     {
-      "name": "your_contractors_license_number",
+      "name": "license_number",
       "type": "text",
       "x": 204,
       "y": 468,
@@ -162,7 +162,7 @@
       "fontSize": 8
     },
     {
-      "name": "physical_address_1",
+      "name": "mailing_address",
       "type": "text",
       "x": 116,
       "y": 220,
@@ -340,6 +340,51 @@
       "x": 536,
       "y": 669,
       "size": 10
+    },
+    {
+      "name": "agency_name",
+      "type": "text",
+      "x": 102,
+      "y": 78,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "agency_number",
+      "type": "text",
+      "x": 102,
+      "y": 93,
+      "w": 220,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "agency_phone",
+      "type": "text",
+      "x": 418,
+      "y": 93,
+      "w": 100,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "agency_contact",
+      "type": "text",
+      "x": 419,
+      "y": 78,
+      "w": 125,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "policy_effective_date",
+      "type": "text",
+      "x": 186,
+      "y": 280,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
     }
   ]
 }
