@@ -1,0 +1,126 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": { "width": 612, "height": 792 },
+  "template": "ACORD25",
+  "pageId": "page-1",
+  "fields": [
+    {
+      "name": "producer_name",
+      "type": "text",
+      "x": 24,
+      "y": 68,
+      "w": 260,
+      "h": 12,
+      "fontSize": 7
+    },
+    {
+      "name": "producer_contact",
+      "type": "text",
+      "x": 24,
+      "y": 82,
+      "w": 260,
+      "h": 12,
+      "fontSize": 6.5
+    },
+    {
+      "name": "insured_name",
+      "type": "text",
+      "x": 28,
+      "y": 124,
+      "w": 260,
+      "h": 12,
+      "fontSize": 8
+    },
+    {
+      "name": "insured_address",
+      "type": "text",
+      "x": 28,
+      "y": 138,
+      "w": 260,
+      "h": 11,
+      "fontSize": 7
+    },
+    {
+      "name": "insurer_a_name",
+      "type": "text",
+      "x": 348,
+      "y": 116,
+      "w": 250,
+      "h": 11,
+      "fontSize": 7
+    },
+    {
+      "name": "policy_number",
+      "type": "text",
+      "x": 210,
+      "y": 210,
+      "w": 85,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "policy_effective_date",
+      "type": "text",
+      "x": 302,
+      "y": 210,
+      "w": 58,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "policy_expiration_date",
+      "type": "text",
+      "x": 368,
+      "y": 210,
+      "w": 58,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "gl_each_occurrence",
+      "type": "text",
+      "x": 455,
+      "y": 246,
+      "w": 58,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "certificate_holder_name",
+      "type": "text",
+      "x": 28,
+      "y": 628,
+      "w": 270,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "certificate_holder_address",
+      "type": "text",
+      "x": 28,
+      "y": 642,
+      "w": 270,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "certificate_holder_city_state_zip",
+      "type": "text",
+      "x": 28,
+      "y": 654,
+      "w": 270,
+      "h": 10,
+      "fontSize": 7
+    },
+    {
+      "name": "operations_description",
+      "type": "text",
+      "x": 28,
+      "y": 606,
+      "w": 270,
+      "h": 10,
+      "fontSize": 6
+    }
+  ]
+}
