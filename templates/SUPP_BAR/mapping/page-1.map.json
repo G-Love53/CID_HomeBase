@@ -429,11 +429,11 @@
       "fontSize": 8
     },
     {
-      "name": "hours_past_10_pm",
+      "name": "closing_time",
       "type": "text",
       "x": 112,
       "y": 503,
-      "w": 25,
+      "w": 78,
       "h": 12.4,
       "fontSize": 8
     },
