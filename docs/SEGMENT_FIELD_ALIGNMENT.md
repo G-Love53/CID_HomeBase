@@ -111,9 +111,18 @@ curl -sS -X POST "https://cid-pdf-api.onrender.com/submit-quote" \
 
 **HVAC:** same as plumber with `"bundle_id": "HVAC_INTAKE"`, `"segment": "hvac"`.
 
-## Queued (Batch 2+)
+## Queued (mapper / Batch 2)
 
-- BAR: `premises_address` → split `physical_*`; `insured_name` on form vs `premises_name`
+- Dedicated SUPP map slots for gas/boiler (contractor) — today routed to **remarks**; see [`FORM_FIELD_ROUTING.md`](./FORM_FIELD_ROUTING.md)
+- BAR: optional form rename `premises_name` → `insured_name`, address to `physical_*`
 - ACORD130: add `producer_email` / `producer_phone` on page-1 map (all segments)
-- Fitness: same pass as plumber/hvac Netlify + SUPP_FITNESS
-- AI blocks: form `ai_name_1` ↔ ACORD `ai_name` (partially in maybeMapData today)
+- Fitness: same pass as plumber/hvac when real form replaces placeholder
+- SUPP_ROOFER: rename `fill_*` / `check_box*` to semantic names in maps
+
+## Form routing audit (2026-05-20)
+
+All segments **117/117 BAR, 159/159 Roofer, 82/82 Plumber, 77/77 HVAC, 77/77 Fitness** — run:
+
+```bash
+node CID_HomeBase/scripts/audit-form-routing.js
+```
