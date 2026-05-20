@@ -9,7 +9,7 @@
   "pageId": "page-5",
   "fields": [
     {
-      "name": "projected_revenue",
+      "name": "projected_gross_revenue",
       "type": "text",
       "x": 380,
       "y": 343,
