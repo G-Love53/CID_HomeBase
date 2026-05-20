@@ -79,10 +79,33 @@ Liquor, cooking, solid fuel, delivery, entertainment, AI blocks — keep SUPP ke
 
 ## curl smoke (BAR)
 
+Uses the same shape as Netlify: **`bundle_id` + `formData`** (not `rawSubmission` alone).
+
 ```bash
 curl -sS -X POST "https://cid-pdf-api.onrender.com/submit-quote" \
   -H "Content-Type: application/json" \
-  -d '{"segment":"bar","sourceDomain":"alignment-test","rawSubmission":{"applicant_name":"Test Contact","premises_name":"Test Bar LLC","premise_address":"123 Main St","premise_city":"Denver","premise_state":"CO","premise_zip":"80202","contact_email":"test@example.com","business_phone":"3035550100","effective_date":"2026-06-01","total_squarefeet_1":"2500","food_sales":"500000","alcohol_sales":"300000"}}'
+  -d '{
+    "bundle_id": "BAR_INTAKE",
+    "segment": "bar",
+    "formData": {
+      "applicant_name": "Test Contact",
+      "premises_name": "Test Bar LLC",
+      "premise_address": "123 Main St",
+      "premise_city": "Denver",
+      "premise_state": "CO",
+      "premise_zip": "80202",
+      "contact_email": "test@example.com",
+      "business_phone": "3035550100",
+      "effective_date": "2026-06-01",
+      "total_squarefeet_1": "2500",
+      "food_sales": "500000",
+      "alcohol_sales": "300000"
+    }
+  }'
 ```
+
+**Common errors:** `NO_VALID_SEGMENTS` = missing `bundle_id` (or legacy `segments[]`). Form fields must be under `formData`, `data`, or `fields` — not top-level `rawSubmission`.
+
+Optional: add `"force_resubmit": true` to bypass duplicate detection when re-testing the same business/email.
 
 Visual: open returned PDFs or email attachment; confirm `total_squarefeet_1` on SUPP p1 + ACORD125 p2 loc 1.
