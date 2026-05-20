@@ -81,7 +81,7 @@
       "fontSize": 8
     },
     {
-      "name": "square_footage",
+      "name": "total_squarefeet_1",
       "type": "text",
       "x": 445,
       "y": 173,
