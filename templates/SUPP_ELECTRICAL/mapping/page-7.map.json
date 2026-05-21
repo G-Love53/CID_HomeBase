@@ -1,0 +1,11 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_PLUMBER",
+  "pageId": "page-7",
+  "fields": []
+}

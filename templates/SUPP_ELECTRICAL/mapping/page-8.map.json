@@ -1,0 +1,48 @@
+{
+  "schema": "cid.map.v1",
+  "units": "base_612x792",
+  "page": {
+    "width": 612,
+    "height": 792
+  },
+  "template": "SUPP_PLUMBER",
+  "pageId": "page-8",
+  "fields": [
+    {
+      "name": "producers_signature",
+      "type": "text",
+      "x": 50,
+      "y": 196,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "date",
+      "type": "text",
+      "x": 237,
+      "y": 194,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "date",
+      "type": "text",
+      "x": 495,
+      "y": 195,
+      "w": 60,
+      "h": 11,
+      "fontSize": 8
+    },
+    {
+      "name": "applicants_signature",
+      "type": "text",
+      "x": 310,
+      "y": 194,
+      "w": 180,
+      "h": 11,
+      "fontSize": 8
+    }
+  ]
+}
